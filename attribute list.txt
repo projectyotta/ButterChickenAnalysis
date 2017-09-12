@@ -1,0 +1,69 @@
+Attribute List structure 
+
+Businesses 
+	Categories > Alias # do not need alias , need only title 
+			   > Title 
+	 		   > Alias 
+			   > Title ... 
+	Coordinates > Latitude
+				>Longitude
+	Display phone 
+	Distance 
+	ID 
+	Image URL 
+	Is closed 
+	Location > Address 1 
+			 > Address 2 
+			 > Address 3 
+			 > City 
+			 > Country 
+			 > Display Address 
+			 > State 
+			 > Zipcode 
+	Name 
+	Phone 
+	Price 
+	Rating 
+	Review Count 
+	Transactions 
+	URL 
+Region > Center > Latitude > Longitude 
+Total 
+
+
+What I plan to gather  
+Categories > Title 
+Coordinates latitude 
+Coordinates longitude 
+Display phone 
+Distance 
+ID 
+Image URL 
+Is closed 
+Location - address 1 # one interesting analysis could be if there is any kind of difference in the display  and address 1 2 3 thing  
+Location - address 2 
+Location - address 3 
+Location -City 
+Location -Country
+Location - Display address 
+Location - State 
+Location - zipcode 
+Name 
+Phone 
+Price 
+Rating 
+Review count 
+Transactions # not sure how this would work or how I would go about it ?  
+URL 
+
+
+
+What I am not gathering 
+
+
+Is closed - not useful , can get this information from the business api 
+Location - address 1 # one interesting analysis could be if there is any kind of difference in the display  and address 1 2 3 thing  , but apart from that , not much of use for us , as we already have the information we need . 
+Location - address 2 
+Location - address 3 
+Transactions # not sure how this would work or how I would go about it ?  
+Totals for each zipcode . Not doing this now , can do this later if needed . 
