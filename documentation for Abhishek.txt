@@ -1,0 +1,31 @@
+1. If you have not already installed Python, do it. Python can be downloaded from https://www.python.org/downloads/ . 
+The instructions are pretty simple , and should be easy to follow . 
+
+2. Decide a folder where you want to run all of your code and get all of your outputs. This is called the working directory. 
+
+3. Open cmd from windows ( or terminal for mac ) , and enter "cd C:/path/to/your/directory" . 
+Example : cd C:\Users\raosa\AnacondaProjects\indaroma-dataviz-pythoncode 
+
+4. Have an excel file open with the list of zipcodes for which you want to gather information. 
+
+5. Create an empty folder called data in your working directory . 
+
+6. In sample.py , you need to do the following changes before running it . 
+
+	- Enter your CLIENT_ID and CLIENT_SECRET id . This is the manner through which you access the Yelp API. If you do not have them , you can get one at https://www.yelp.com/developers . 
+
+	- In DEFAULT LOCATION , you enter the zipcodes for which you want to run the program. You do it in this manner . 
+	DEFAULT_LOCATION = ['zipcode_1','zipcode_2'] 
+	( between square braces , each zipcode enclosed in single quotes and seperated by commas)
+
+7. In the command prompt / terminal window , type "python sample.py" . 
+The code should run . 
+
+8. Sometimes , the code stops running if you're either making too many API calls / have a bad request / no server response . When this happens , simply navigate to the data folder , have a look at the most recent file in there that it has downloaded ( the filenames have the zipcode in them ). Delete the ones that have been done from the DEFAULT_LOCATION list and then run it again . 
+
+9. You now have the data for each zipcode in JSON format . The issue is to format it and have it in a form that can be put into an Excel file . 
+
+	Note : I faced issues here , because for some reason , the JSON files were not recognized with respect to their encoding , so I came up with a way around it. This is no way perfect , and should not be considered a permanent solution . 
+	Now , the idea is to get all of the data into a single file from where you can extract what you need . 
+
+10. 
