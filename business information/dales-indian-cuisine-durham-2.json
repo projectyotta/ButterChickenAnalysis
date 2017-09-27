@@ -1,0 +1,102 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "2.5", 
+    "website": "http://www.dalesindiancuisine.net/2.html", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 3:00 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 3:00 pm5:00 pm - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 3:00 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 3:00 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 3:00 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Sat": "11:30 am - 3:00 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Sun": "11:30 am - 3:00 pm5:00 pm - 10:00 pm"
+        }
+    ], 
+    "name": "Dales Indian Cuisine", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/dales-indian-cuisine-durham-2", 
+    "longitude": "-78.922210", 
+    "reviews": "72 reviews", 
+    "phone": "(919) 286-1760", 
+    "address": "811 9th St Durham, NC 27705", 
+    "latitude": "36.011446", 
+    "ratings_histogram": [
+        {
+            "5 stars": "8"
+        }, 
+        {
+            "4 stars": "15"
+        }, 
+        {
+            "3 stars": "13"
+        }, 
+        {
+            "2 stars": "15"
+        }, 
+        {
+            "1 star": "21"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

@@ -1,0 +1,102 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Noise Level": "Loud"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "3.0", 
+    "website": "http://www.bbq-delight.com/", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Sun": "11:00 am - 10:00 pm"
+        }
+    ], 
+    "name": "BBQ Delight", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/bbq-delight-manassas-3", 
+    "longitude": "-77.446421", 
+    "reviews": "32 reviews", 
+    "phone": "(703) 361-1010", 
+    "address": "8521 Manassas Dr Manassas, VA 20110", 
+    "latitude": "38.770595", 
+    "ratings_histogram": [
+        {
+            "5 stars": "8"
+        }, 
+        {
+            "4 stars": "7"
+        }, 
+        {
+            "3 stars": "5"
+        }, 
+        {
+            "2 stars": "4"
+        }, 
+        {
+            "1 star": "8"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Pakistani,Halal"
+}

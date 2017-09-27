@@ -1,0 +1,111 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Bitcoin": "No"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "3.0", 
+    "website": "http://www.kababbistro.com", 
+    "working_hours": [
+        {
+            "Mon": "Closed"
+        }, 
+        {
+            "Tue": "11:30 am - 3:00 pm\n        \n                Closed now"
+        }, 
+        {
+            "Wed": "11:30 am - 3:00 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 3:00 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 3:00 pm6:00 pm - 9:00 pm"
+        }, 
+        {
+            "Sat": "12:00 pm - 3:00 pm6:00 pm - 9:00 pm"
+        }, 
+        {
+            "Sun": "12:00 pm - 3:00 pm6:00 pm - 9:00 pm"
+        }, 
+        {
+            "Thu 11/23/2017": "11:00 am - 11:00 pm"
+        }
+    ], 
+    "name": "Kabab Bistro", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/kabab-bistro-henrico", 
+    "longitude": "-77.525805", 
+    "reviews": "46 reviews", 
+    "phone": "(804) 672-3663", 
+    "address": "7801 W Broad St Ste 6 Henrico, VA 23294", 
+    "latitude": "37.620535", 
+    "ratings_histogram": [
+        {
+            "5 stars": "9"
+        }, 
+        {
+            "4 stars": "12"
+        }, 
+        {
+            "3 stars": "5"
+        }, 
+        {
+            "2 stars": "8"
+        }, 
+        {
+            "1 star": "12"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Seafood,Halal"
+}

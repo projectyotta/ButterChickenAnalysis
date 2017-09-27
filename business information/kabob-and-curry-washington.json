@@ -1,0 +1,56 @@
+{
+    "info": [
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Bike Parking": "No"
+        }, 
+        {
+            "Good for Kids": "No"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }
+    ], 
+    "ratings": "1.0", 
+    "website": "", 
+    "working_hours": [], 
+    "name": "Kabob and Curry", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/kabob-and-curry-washington", 
+    "longitude": "-77.028076", 
+    "reviews": "3 reviews", 
+    "phone": "", 
+    "address": "12TH St SW Washington, DC 20024", 
+    "latitude": "38.884322", 
+    "ratings_histogram": [
+        {
+            "5 stars": "0"
+        }, 
+        {
+            "4 stars": "0"
+        }, 
+        {
+            "3 stars": "0"
+        }, 
+        {
+            "2 stars": "0"
+        }, 
+        {
+            "1 star": "3"
+        }
+    ], 
+    "price_range": "Under $10", 
+    "health_rating": "", 
+    "category": "Food Trucks,Indian"
+}

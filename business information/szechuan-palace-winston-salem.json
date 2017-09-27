@@ -1,0 +1,108 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "Beer & Wine Only"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "No"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 9:30 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 9:30 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 9:30 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 9:30 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Sat": "12:00 pm - 10:00 pm"
+        }, 
+        {
+            "Sun": "12:00 pm - 9:00 pm"
+        }
+    ], 
+    "name": "Szechuan Palace", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/szechuan-palace-winston-salem", 
+    "longitude": "-80.304865", 
+    "reviews": "50 reviews", 
+    "phone": "(336) 768-7123", 
+    "address": "3040 Healy Dr Winston Salem, NC 27103", 
+    "latitude": "36.074854", 
+    "ratings_histogram": [
+        {
+            "5 stars": "14"
+        }, 
+        {
+            "4 stars": "23"
+        }, 
+        {
+            "3 stars": "6"
+        }, 
+        {
+            "2 stars": "4"
+        }, 
+        {
+            "1 star": "3"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Chinese,Indian,Thai"
+}

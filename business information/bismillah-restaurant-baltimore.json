@@ -1,0 +1,102 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "No"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "No"
+        }
+    ], 
+    "ratings": "2.5", 
+    "website": "", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Sun": "11:00 am - 10:00 pm"
+        }
+    ], 
+    "name": "Bismillah Restaurant", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/bismillah-restaurant-baltimore", 
+    "longitude": "-76.617149", 
+    "reviews": "32 reviews", 
+    "phone": "(443) 220-0067", 
+    "address": "2018 N Charles St Baltimore, MD 21218 Charles North, Old Goucher", 
+    "latitude": "39.312897", 
+    "ratings_histogram": [
+        {
+            "5 stars": "6"
+        }, 
+        {
+            "4 stars": "5"
+        }, 
+        {
+            "3 stars": "5"
+        }, 
+        {
+            "2 stars": "6"
+        }, 
+        {
+            "1 star": "10"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Halal"
+}

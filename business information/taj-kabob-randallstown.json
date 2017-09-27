@@ -1,0 +1,123 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "Yes"
+        }, 
+        {
+            "Accepts Bitcoin": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Wheelchair Accessible": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Dogs Allowed": "No"
+        }, 
+        {
+            "Waiter Service": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://www.tajkabob.com/", 
+    "working_hours": [
+        {
+            "Mon": "Closed"
+        }, 
+        {
+            "Tue": "11:15 am - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:15 am - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:15 am - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:15 am - 10:00 pm"
+        }, 
+        {
+            "Sat": "11:15 am - 10:00 pm"
+        }, 
+        {
+            "Sun": "11:15 am - 10:00 pm"
+        }
+    ], 
+    "name": "Taj Kabob", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/taj-kabob-randallstown", 
+    "longitude": "-76.776478", 
+    "reviews": "22 reviews", 
+    "phone": "(443) 405-7278", 
+    "address": "8511 Liberty Rd Randallstown, MD 21133", 
+    "latitude": "39.359418", 
+    "ratings_histogram": [
+        {
+            "5 stars": "12"
+        }, 
+        {
+            "4 stars": "3"
+        }, 
+        {
+            "3 stars": "1"
+        }, 
+        {
+            "2 stars": "4"
+        }, 
+        {
+            "1 star": "2"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Halal,Pakistani"
+}

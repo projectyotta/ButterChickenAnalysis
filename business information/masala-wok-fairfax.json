@@ -1,0 +1,111 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "Beer & Wine Only"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "3.0", 
+    "website": "http://www.masalawok.com/", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Sun": "11:00 am - 10:00 pm"
+        }
+    ], 
+    "name": "Masala Wok", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/masala-wok-fairfax", 
+    "longitude": "-77.321493", 
+    "reviews": "224 reviews", 
+    "phone": "(571) 432-1814", 
+    "address": "10940 Fairfax Blvd Fairfax, VA 22030", 
+    "latitude": "38.853862", 
+    "ratings_histogram": [
+        {
+            "5 stars": "39"
+        }, 
+        {
+            "4 stars": "61"
+        }, 
+        {
+            "3 stars": "41"
+        }, 
+        {
+            "2 stars": "37"
+        }, 
+        {
+            "1 star": "46"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Chinese,Asian Fusion"
+}

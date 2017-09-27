@@ -1,0 +1,98 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Android Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Divey"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "Beer & Wine Only"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Gender Neutral Restrooms": "Yes"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "http://www.metrodhaba.com/", 
+    "working_hours": [], 
+    "name": "Metro Dhaba", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/metro-dhaba-gaithersburg", 
+    "longitude": "-77.184564", 
+    "reviews": "65 reviews", 
+    "phone": "(301) 590-9225", 
+    "address": "8941 N Westland Dr Gaithersburg, MD 20877", 
+    "latitude": "39.128699", 
+    "ratings_histogram": [
+        {
+            "5 stars": "25"
+        }, 
+        {
+            "4 stars": "17"
+        }, 
+        {
+            "3 stars": "6"
+        }, 
+        {
+            "2 stars": "6"
+        }, 
+        {
+            "1 star": "11"
+        }
+    ], 
+    "price_range": "Under $10", 
+    "health_rating": "", 
+    "category": "Italian,Indian"
+}

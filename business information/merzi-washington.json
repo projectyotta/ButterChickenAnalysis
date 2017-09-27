@@ -1,0 +1,114 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Bitcoin": "No"
+        }, 
+        {
+            "Good For": "Lunch"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "No"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "http://www.merzi.com", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Sun": "11:00 am - 9:00 pm"
+        }
+    ], 
+    "name": "Merzi", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/merzi-washington", 
+    "longitude": "-77.021739", 
+    "reviews": "477 reviews", 
+    "phone": "(202) 768-9069", 
+    "address": "415 7th St NW Washington, DC 20004 Penn Quarter", 
+    "latitude": "38.895277", 
+    "ratings_histogram": [
+        {
+            "5 stars": "93"
+        }, 
+        {
+            "4 stars": "161"
+        }, 
+        {
+            "3 stars": "113"
+        }, 
+        {
+            "2 stars": "73"
+        }, 
+        {
+            "1 star": "37"
+        }
+    ], 
+    "price_range": "Under $10", 
+    "health_rating": "", 
+    "category": "Indian,Fast Food"
+}

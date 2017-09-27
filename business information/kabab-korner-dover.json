@@ -1,0 +1,105 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "Beer & Wine Only"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://kababkornermenu.com/", 
+    "working_hours": [
+        {
+            "Mon": "Closed"
+        }, 
+        {
+            "Tue": "11:00 am - 9:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 9:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 9:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 9:00 pm"
+        }, 
+        {
+            "Sat": "12:00 pm - 9:00 pm"
+        }, 
+        {
+            "Sun": "12:00 pm - 9:00 pm"
+        }
+    ], 
+    "name": "Kabab Korner", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/kabab-korner-dover", 
+    "longitude": "-75.528188", 
+    "reviews": "42 reviews", 
+    "phone": "(302) 883-2301", 
+    "address": "706 N Dupont Hwy Dover, DE 19901", 
+    "latitude": "39.179068", 
+    "ratings_histogram": [
+        {
+            "5 stars": "17"
+        }, 
+        {
+            "4 stars": "16"
+        }, 
+        {
+            "3 stars": "3"
+        }, 
+        {
+            "2 stars": "4"
+        }, 
+        {
+            "1 star": "2"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Halal"
+}

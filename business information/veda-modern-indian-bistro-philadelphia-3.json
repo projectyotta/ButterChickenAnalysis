@@ -1,0 +1,147 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Bitcoin": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Garage, Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Wheelchair Accessible": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Trendy, Romantic, Classy"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Music": "Background"
+        }, 
+        {
+            "Good For Dancing": "No"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Happy Hour": "Yes"
+        }, 
+        {
+            "Best Nights": "Fri, Sat"
+        }, 
+        {
+            "Coat Check": "Yes"
+        }, 
+        {
+            "Smoking": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Dogs Allowed": "No"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Has Pool Table": "No"
+        }, 
+        {
+            "Offers Military Discount": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://www.vedaphilly.com", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 2:30 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Tue": "11:30 am - 2:30 pm5:00 pm - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 2:30 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 2:30 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 2:30 pm5:00 pm - 10:30 pm"
+        }, 
+        {
+            "Sat": "11:30 am - 2:30 pm5:00 pm - 10:30 pm"
+        }, 
+        {
+            "Sun": "11:30 am - 2:30 pm5:00 pm - 9:30 pm"
+        }
+    ], 
+    "name": "Veda - Modern Indian Bistro", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/veda-modern-indian-bistro-philadelphia-3", 
+    "longitude": "-75.172911", 
+    "reviews": "159 reviews", 
+    "phone": "(267) 519-2001", 
+    "address": "1920 Chestnut St Philadelphia, PA 19103 Rittenhouse Square, Penn Center", 
+    "latitude": "39.951750", 
+    "ratings_histogram": [
+        {
+            "5 stars": "80"
+        }, 
+        {
+            "4 stars": "42"
+        }, 
+        {
+            "3 stars": "29"
+        }, 
+        {
+            "2 stars": "4"
+        }, 
+        {
+            "1 star": "4"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Bars"
+}

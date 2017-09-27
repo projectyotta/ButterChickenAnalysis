@@ -1,0 +1,56 @@
+{
+    "info": [], 
+    "ratings": 0, 
+    "website": "", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 8:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 8:00 pm\n        \n                Closed now"
+        }, 
+        {
+            "Wed": "11:00 am - 8:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 8:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 8:00 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 7:00 pm"
+        }, 
+        {
+            "Sun": "Closed"
+        }
+    ], 
+    "name": "Guru Groceries and Chaat House", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/guru-groceries-and-chaat-house-rockville-3", 
+    "longitude": "-77.219505", 
+    "reviews": "", 
+    "phone": "(301) 251-4400", 
+    "address": "14119 Travilah Rd Rockville, MD 20850", 
+    "latitude": "39.086078", 
+    "ratings_histogram": [
+        {
+            "5 stars": "0"
+        }, 
+        {
+            "4 stars": "0"
+        }, 
+        {
+            "3 stars": "0"
+        }, 
+        {
+            "2 stars": "0"
+        }, 
+        {
+            "1 star": "0"
+        }
+    ], 
+    "price_range": "", 
+    "health_rating": "", 
+    "category": "Indian,Coffee & Tea"
+}

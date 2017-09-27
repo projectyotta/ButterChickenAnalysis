@@ -1,0 +1,108 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "Beer & Wine Only"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Gender Neutral Restrooms": "Yes"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "http://kohinoordhaba.com/", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Sun": "11:00 am - 10:00 pm"
+        }
+    ], 
+    "name": "Kohinoor Dhaba", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/kohinoor-dhaba-arlington", 
+    "longitude": "-77.053867", 
+    "reviews": "416 reviews", 
+    "phone": "(703) 778-5005", 
+    "address": "2800 S Eads St Arlington, VA 22202 Crystal City", 
+    "latitude": "38.847707", 
+    "ratings_histogram": [
+        {
+            "5 stars": "126"
+        }, 
+        {
+            "4 stars": "154"
+        }, 
+        {
+            "3 stars": "60"
+        }, 
+        {
+            "2 stars": "35"
+        }, 
+        {
+            "1 star": "41"
+        }
+    ], 
+    "price_range": "Under $10", 
+    "health_rating": "", 
+    "category": "Indian"
+}

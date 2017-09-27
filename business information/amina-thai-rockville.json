@@ -1,0 +1,114 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Android Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "No"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 2:30 pm4:30 pm - 9:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 2:30 pm4:30 pm - 9:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 2:30 pm4:30 pm - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 2:30 pm4:30 pm - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 2:30 pm4:30 pm - 10:00 pm"
+        }, 
+        {
+            "Sat": "12:00 pm - 10:00 pm"
+        }, 
+        {
+            "Sun": "12:00 pm - 9:00 pm"
+        }
+    ], 
+    "name": "Amina Thai", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/amina-thai-rockville", 
+    "longitude": "-77.104792", 
+    "reviews": "316 reviews", 
+    "phone": "(301) 770-9509", 
+    "address": "5065 Nicholson Ln Rockville, MD 20852", 
+    "latitude": "39.046004", 
+    "ratings_histogram": [
+        {
+            "5 stars": "120"
+        }, 
+        {
+            "4 stars": "110"
+        }, 
+        {
+            "3 stars": "43"
+        }, 
+        {
+            "2 stars": "24"
+        }, 
+        {
+            "1 star": "19"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Thai,Halal"
+}

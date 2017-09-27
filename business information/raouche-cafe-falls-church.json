@@ -1,0 +1,114 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Bitcoin": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.5", 
+    "website": "http://www.raouchecafe.com", 
+    "working_hours": [
+        {
+            "Mon": "10:00 am - 9:00 pm"
+        }, 
+        {
+            "Tue": "10:00 am - 9:00 pm\n        \n                Closed now"
+        }, 
+        {
+            "Wed": "10:00 am - 9:00 pm"
+        }, 
+        {
+            "Thu": "10:00 am - 9:00 pm"
+        }, 
+        {
+            "Fri": "10:00 am - 10:00 pm"
+        }, 
+        {
+            "Sat": "10:00 am - 10:00 pm"
+        }, 
+        {
+            "Sun": "10:00 am - 8:00 pm"
+        }
+    ], 
+    "name": "Raouche Cafe", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/raouche-cafe-falls-church", 
+    "longitude": "-77.225797", 
+    "reviews": "273 reviews", 
+    "phone": "(703) 205-9099", 
+    "address": "2839 Gallows Rd Falls Church, VA 22042", 
+    "latitude": "38.873578", 
+    "ratings_histogram": [
+        {
+            "5 stars": "139"
+        }, 
+        {
+            "4 stars": "96"
+        }, 
+        {
+            "3 stars": "24"
+        }, 
+        {
+            "2 stars": "8"
+        }, 
+        {
+            "1 star": "6"
+        }
+    ], 
+    "price_range": "Under $10", 
+    "health_rating": "", 
+    "category": "Halal,Lebanese,Mediterranean"
+}

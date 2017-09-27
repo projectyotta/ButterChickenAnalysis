@@ -1,0 +1,117 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "No"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Android Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual, Touristy"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Waiter Service": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.5", 
+    "website": "", 
+    "working_hours": [
+        {
+            "Mon": "10:00 am - 6:00 pm"
+        }, 
+        {
+            "Tue": "10:00 am - 6:00 pm\n        \n                Closed now"
+        }, 
+        {
+            "Wed": "10:00 am - 6:00 pm"
+        }, 
+        {
+            "Thu": "10:00 am - 6:00 pm"
+        }, 
+        {
+            "Fri": "10:00 am - 6:00 pm"
+        }, 
+        {
+            "Sat": "10:00 am - 5:00 pm"
+        }, 
+        {
+            "Sun": "10:00 am - 5:00 pm"
+        }
+    ], 
+    "name": "Mediteranean Halal Food Cart", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/mediteranean-halal-food-cart-baltimore", 
+    "longitude": "-76.617320", 
+    "reviews": "144 reviews", 
+    "phone": "(443) 889-5299", 
+    "address": "2 Hopkins Pl Baltimore, MD 21201 Downtown", 
+    "latitude": "39.288918", 
+    "ratings_histogram": [
+        {
+            "5 stars": "103"
+        }, 
+        {
+            "4 stars": "36"
+        }, 
+        {
+            "3 stars": "4"
+        }, 
+        {
+            "2 stars": "0"
+        }, 
+        {
+            "1 star": "1"
+        }
+    ], 
+    "price_range": "Under $10", 
+    "health_rating": "", 
+    "category": "Street Vendors,Halal,Mediterranean"
+}

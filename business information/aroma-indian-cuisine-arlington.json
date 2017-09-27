@@ -1,0 +1,117 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Android Pay": "No"
+        }, 
+        {
+            "Accepts Bitcoin": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Garage, Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Gender Neutral Restrooms": "Yes"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 10:00 pm"
+        }, 
+        {
+            "Tue": "11:30 am - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 10:30 pm"
+        }, 
+        {
+            "Sat": "11:30 am - 10:30 pm"
+        }, 
+        {
+            "Sun": "11:30 am - 10:00 pm"
+        }
+    ], 
+    "name": "Aroma Indian Cuisine", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/aroma-indian-cuisine-arlington", 
+    "longitude": "-77.088271", 
+    "reviews": "240 reviews", 
+    "phone": "(703) 575-8800", 
+    "address": "4052 Campbell Ave Arlington, VA 22206 Shirlington", 
+    "latitude": "38.840612", 
+    "ratings_histogram": [
+        {
+            "5 stars": "68"
+        }, 
+        {
+            "4 stars": "60"
+        }, 
+        {
+            "3 stars": "43"
+        }, 
+        {
+            "2 stars": "36"
+        }, 
+        {
+            "1 star": "33"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Buffets"
+}

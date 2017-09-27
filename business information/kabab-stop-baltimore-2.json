@@ -1,0 +1,111 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "Yes"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "No"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Gender Neutral Restrooms": "Yes"
+        }
+    ], 
+    "ratings": "3.0", 
+    "website": "http://www.kabab-stop.com/", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Sun": "11:00 am - 10:00 pm"
+        }
+    ], 
+    "name": "Kabab Stop", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/kabab-stop-baltimore-2", 
+    "longitude": "-76.647509", 
+    "reviews": "72 reviews", 
+    "phone": "(410) 323-6060", 
+    "address": "5719 Falls Rd Baltimore, MD 21209 North Roland Park / Poplar Hill", 
+    "latitude": "39.365995", 
+    "ratings_histogram": [
+        {
+            "5 stars": "17"
+        }, 
+        {
+            "4 stars": "17"
+        }, 
+        {
+            "3 stars": "12"
+        }, 
+        {
+            "2 stars": "10"
+        }, 
+        {
+            "1 star": "16"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Pakistani"
+}

@@ -1,0 +1,123 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Bitcoin": "No"
+        }, 
+        {
+            "Good For": "Brunch, Lunch"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Wheelchair Accessible": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Dogs Allowed": "No"
+        }, 
+        {
+            "Waiter Service": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://www.pansaari.com", 
+    "working_hours": [
+        {
+            "Mon": "Closed"
+        }, 
+        {
+            "Tue": "10:00 am - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "10:00 am - 10:00 pm"
+        }, 
+        {
+            "Thu": "10:00 am - 10:00 pm"
+        }, 
+        {
+            "Fri": "10:00 am - 10:00 pm"
+        }, 
+        {
+            "Sat": "10:00 am - 7:00 pm"
+        }, 
+        {
+            "Sun": "10:00 am - 6:00 pm"
+        }
+    ], 
+    "name": "Pansaari", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/pansaari-washington", 
+    "longitude": "-77.038471", 
+    "reviews": "154 reviews", 
+    "phone": "(202) 847-0115", 
+    "address": "1603 17th St NW Washington, DC 20009 b/t N Q St & N Corcoran St Dupont Circle", 
+    "latitude": "38.911236", 
+    "ratings_histogram": [
+        {
+            "5 stars": "80"
+        }, 
+        {
+            "4 stars": "33"
+        }, 
+        {
+            "3 stars": "15"
+        }, 
+        {
+            "2 stars": "7"
+        }, 
+        {
+            "1 star": "19"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Cooking Classes,Coffee & Tea"
+}

@@ -1,0 +1,105 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "No"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "No"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://www.indianfoodrichmond.com", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 2:30 pm5:00 pm - 9:30 pm"
+        }, 
+        {
+            "Tue": "11:30 am - 2:30 pm5:00 pm - 9:30 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 2:30 pm5:00 pm - 9:30 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 2:30 pm5:00 pm - 9:30 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 2:30 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Sat": "11:30 am - 2:30 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Sun": "Closed"
+        }
+    ], 
+    "name": "Taste of India", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/taste-of-india-richmond-2", 
+    "longitude": "-77.577783", 
+    "reviews": "111 reviews", 
+    "phone": "(804) 396-6745", 
+    "address": "9930 Midlothian Tpke Richmond, VA 23235", 
+    "latitude": "37.505670", 
+    "ratings_histogram": [
+        {
+            "5 stars": "61"
+        }, 
+        {
+            "4 stars": "26"
+        }, 
+        {
+            "3 stars": "8"
+        }, 
+        {
+            "2 stars": "9"
+        }, 
+        {
+            "1 star": "7"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

@@ -1,0 +1,77 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Bike Parking": "No"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "2.5", 
+    "website": "http://www.tajrestaurant.com", 
+    "working_hours": [], 
+    "name": "Taj Restaurant", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/taj-restaurant-catonsville", 
+    "longitude": "-76.730363", 
+    "reviews": "3 reviews", 
+    "phone": "(410) 744-4422", 
+    "address": "622 Frederick Rd Catonsville, MD 21228", 
+    "latitude": "39.272498", 
+    "ratings_histogram": [
+        {
+            "5 stars": "0"
+        }, 
+        {
+            "4 stars": "0"
+        }, 
+        {
+            "3 stars": "2"
+        }, 
+        {
+            "2 stars": "0"
+        }, 
+        {
+            "1 star": "1"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

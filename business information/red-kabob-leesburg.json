@@ -1,0 +1,111 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Android Pay": "No"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Sun": "11:00 am - 10:00 pm"
+        }
+    ], 
+    "name": "Red Kabob", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/red-kabob-leesburg", 
+    "longitude": "-77.552982", 
+    "reviews": "55 reviews", 
+    "phone": "(703) 777-5277", 
+    "address": "521A E Market St Leesburg, VA 20175", 
+    "latitude": "39.108635", 
+    "ratings_histogram": [
+        {
+            "5 stars": "17"
+        }, 
+        {
+            "4 stars": "16"
+        }, 
+        {
+            "3 stars": "10"
+        }, 
+        {
+            "2 stars": "7"
+        }, 
+        {
+            "1 star": "5"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Mediterranean,Middle Eastern,Afghan"
+}

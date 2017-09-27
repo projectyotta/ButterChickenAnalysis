@@ -1,0 +1,108 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "http://www.bombaytandoor.com", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 3:00 pm5:30 pm - 10:00 pm"
+        }, 
+        {
+            "Tue": "11:30 am - 3:00 pm5:30 pm - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 3:00 pm5:30 pm - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 3:00 pm5:30 pm - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 3:00 pm5:30 pm - 10:30 pm"
+        }, 
+        {
+            "Sat": "12:00 pm - 3:00 pm5:30 pm - 10:30 pm"
+        }, 
+        {
+            "Sun": "12:00 pm - 3:00 pm5:30 pm - 10:00 pm"
+        }
+    ], 
+    "name": "Bombay Tandoor", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/bombay-tandoor-vienna", 
+    "longitude": "-77.244487", 
+    "reviews": "246 reviews", 
+    "phone": "(703) 734-2202", 
+    "address": "8603 Westwood Center Dr Vienna, VA 22182", 
+    "latitude": "38.928930", 
+    "ratings_histogram": [
+        {
+            "5 stars": "76"
+        }, 
+        {
+            "4 stars": "75"
+        }, 
+        {
+            "3 stars": "42"
+        }, 
+        {
+            "2 stars": "30"
+        }, 
+        {
+            "1 star": "23"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Pakistani"
+}

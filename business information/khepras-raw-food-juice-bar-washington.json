@@ -1,0 +1,108 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://www.kheprasrawfoodjuicebar.com", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 8:30 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 8:30 pm\n        \n                Closed now"
+        }, 
+        {
+            "Wed": "11:00 am - 8:30 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 8:30 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 8:30 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 8:30 pm"
+        }, 
+        {
+            "Sun": "12:00 pm - 7:00 pm"
+        }
+    ], 
+    "name": "Khepra\u2019s Raw Food Juice Bar", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/khepras-raw-food-juice-bar-washington", 
+    "longitude": "-77.000273", 
+    "reviews": "292 reviews", 
+    "phone": "(202) 803-2063", 
+    "address": "402 H St NE Washington, DC 20002 b/t N 5th St & N 4th St H Street Corridor/Atlas District/Near Northeast", 
+    "latitude": "38.900365", 
+    "ratings_histogram": [
+        {
+            "5 stars": "135"
+        }, 
+        {
+            "4 stars": "71"
+        }, 
+        {
+            "3 stars": "36"
+        }, 
+        {
+            "2 stars": "25"
+        }, 
+        {
+            "1 star": "25"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Live/Raw Food,Juice Bars & Smoothies,Vegan"
+}

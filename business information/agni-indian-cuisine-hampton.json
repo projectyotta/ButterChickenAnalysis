@@ -1,0 +1,47 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }
+    ], 
+    "ratings": 0, 
+    "website": "", 
+    "working_hours": [], 
+    "name": "Agni Indian Cuisine", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/agni-indian-cuisine-hampton", 
+    "longitude": "-76.446082", 
+    "reviews": "", 
+    "phone": "(757) 826-9654", 
+    "address": "6128 Jefferson Ave Hampton, VA 23668", 
+    "latitude": "37.023212", 
+    "ratings_histogram": [
+        {
+            "5 stars": "0"
+        }, 
+        {
+            "4 stars": "0"
+        }, 
+        {
+            "3 stars": "0"
+        }, 
+        {
+            "2 stars": "0"
+        }, 
+        {
+            "1 star": "0"
+        }
+    ], 
+    "price_range": "", 
+    "health_rating": "", 
+    "category": "Indian,Pakistani"
+}

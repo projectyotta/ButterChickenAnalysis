@@ -1,0 +1,114 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "Yes"
+        }, 
+        {
+            "Accepts Android Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.5", 
+    "website": "http://www.bombaynights.net", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 2:30 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Tue": "11:30 am - 2:30 pm5:00 pm - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 2:30 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 2:30 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 2:30 pm5:00 pm - 11:00 pm"
+        }, 
+        {
+            "Sat": "11:30 am - 2:30 pm5:00 pm - 11:00 pm"
+        }, 
+        {
+            "Sun": "11:30 am - 2:30 pm5:00 pm - 10:00 pm"
+        }
+    ], 
+    "name": "Bombay Nights", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/bombay-nights-perry-hall", 
+    "longitude": "-76.442244", 
+    "reviews": "225 reviews", 
+    "phone": "(410) 248-3131", 
+    "address": "5007 Honeygo Center Dr Perry Hall, MD 21128", 
+    "latitude": "39.404884", 
+    "ratings_histogram": [
+        {
+            "5 stars": "121"
+        }, 
+        {
+            "4 stars": "77"
+        }, 
+        {
+            "3 stars": "10"
+        }, 
+        {
+            "2 stars": "5"
+        }, 
+        {
+            "1 star": "12"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

@@ -1,0 +1,111 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "No"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "Beer & Wine Only"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://www.curryplacemd.com", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 2:30 pm5:00 pm - 9:30 pm"
+        }, 
+        {
+            "Tue": "11:30 am - 2:30 pm5:00 pm - 9:30 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 2:30 pm5:00 pm - 9:30 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 2:30 pm5:00 pm - 9:30 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 2:30 pm5:00 pm - 9:30 pm"
+        }, 
+        {
+            "Sat": "11:30 am - 9:30 pm"
+        }, 
+        {
+            "Sun": "11:30 am - 9:30 pm"
+        }
+    ], 
+    "name": "Curry Place", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/curry-place-germantown", 
+    "longitude": "-77.270370", 
+    "reviews": "198 reviews", 
+    "phone": "(301) 972-1005", 
+    "address": "12951 Wisteria Dr Germantown, MD 20874", 
+    "latitude": "39.178362", 
+    "ratings_histogram": [
+        {
+            "5 stars": "107"
+        }, 
+        {
+            "4 stars": "53"
+        }, 
+        {
+            "3 stars": "21"
+        }, 
+        {
+            "2 stars": "7"
+        }, 
+        {
+            "1 star": "10"
+        }
+    ], 
+    "price_range": "Under $10", 
+    "health_rating": "", 
+    "category": "Indian,Himalayan/Nepalese,Asian Fusion"
+}

@@ -1,0 +1,114 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "Yes"
+        }, 
+        {
+            "Good For": "Dessert"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Gender Neutral Restrooms": "Yes"
+        }
+    ], 
+    "ratings": "4.5", 
+    "website": "http://www.germantownkabobandsweets.com", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Sun": "11:00 am - 10:00 pm"
+        }
+    ], 
+    "name": "Germantown Kabob & Sweets", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/germantown-kabob-and-sweets-germantown", 
+    "longitude": "-77.280452", 
+    "reviews": "47 reviews", 
+    "phone": "(301) 366-0951", 
+    "address": "13541 Clopper Rd Germantown, MD 20874", 
+    "latitude": "39.162677", 
+    "ratings_histogram": [
+        {
+            "5 stars": "33"
+        }, 
+        {
+            "4 stars": "10"
+        }, 
+        {
+            "3 stars": "3"
+        }, 
+        {
+            "2 stars": "1"
+        }, 
+        {
+            "1 star": "0"
+        }
+    ], 
+    "price_range": "Under $10", 
+    "health_rating": "", 
+    "category": "Indian,Halal,Pakistani"
+}

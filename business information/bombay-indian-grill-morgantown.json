@@ -1,0 +1,75 @@
+{
+    "info": [
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Good for Kids": "No"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "", 
+    "working_hours": [
+        {
+            "Mon": "Closed"
+        }, 
+        {
+            "Tue": "11:00 am - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Sat": "12:00 pm - 10:00 pm"
+        }, 
+        {
+            "Sun": "12:00 pm - 10:00 pm"
+        }
+    ], 
+    "name": "Bombay Indian Grill", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/bombay-indian-grill-morgantown", 
+    "longitude": "-79.955106", 
+    "reviews": "30 reviews", 
+    "phone": "(304) 381-4858", 
+    "address": "2011 University Ave Morgantown, WV 26505", 
+    "latitude": "39.637904", 
+    "ratings_histogram": [
+        {
+            "5 stars": "18"
+        }, 
+        {
+            "4 stars": "5"
+        }, 
+        {
+            "3 stars": "4"
+        }, 
+        {
+            "2 stars": "2"
+        }, 
+        {
+            "1 star": "1"
+        }
+    ], 
+    "price_range": "Under $10", 
+    "health_rating": "", 
+    "category": "Indian"
+}

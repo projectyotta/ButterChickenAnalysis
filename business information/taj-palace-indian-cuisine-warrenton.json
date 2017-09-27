@@ -1,0 +1,99 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "No"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }
+    ], 
+    "ratings": "4.5", 
+    "website": "", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 2:30 pm4:30 pm - 9:30 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 2:30 pm4:30 pm - 9:30 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 2:30 pm4:30 pm - 9:30 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 2:30 pm4:30 pm - 9:30 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 2:30 pm4:30 pm - 10:00 pm"
+        }, 
+        {
+            "Sat": "11:30 am - 2:30 pm4:30 pm - 10:00 pm"
+        }, 
+        {
+            "Sun": "11:30 am - 2:30 pm4:30 pm - 9:30 pm"
+        }
+    ], 
+    "name": "Taj Palace Indian Cuisine", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/taj-palace-indian-cuisine-warrenton", 
+    "longitude": "-77.799446", 
+    "reviews": "25 reviews", 
+    "phone": "(540) 349-8833", 
+    "address": "251 W Lee Hwy Ste 157 Warrenton, VA 20186", 
+    "latitude": "38.729600", 
+    "ratings_histogram": [
+        {
+            "5 stars": "17"
+        }, 
+        {
+            "4 stars": "4"
+        }, 
+        {
+            "3 stars": "1"
+        }, 
+        {
+            "2 stars": "1"
+        }, 
+        {
+            "1 star": "2"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

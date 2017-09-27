@@ -1,0 +1,78 @@
+{
+    "info": [
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "http://www.paradiseellicottcity.com", 
+    "working_hours": [
+        {
+            "Mon": "Closed"
+        }, 
+        {
+            "Tue": "11:00 am - 2:00 pm5:00 pm - 9:30 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 2:00 pm5:00 pm - 9:30 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 2:00 pm5:00 pm - 9:30 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 2:00 pm5:00 pm - 9:30 pm"
+        }, 
+        {
+            "Sat": "10:00 am - 10:00 pm"
+        }, 
+        {
+            "Sun": "10:00 am - 10:00 pm"
+        }
+    ], 
+    "name": "Paradise Indian Cuisine", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/paradise-indian-cuisine-ellicott-city", 
+    "longitude": "-76.809055", 
+    "reviews": "10 reviews", 
+    "phone": "(410) 203-1115", 
+    "address": "8000 Locust Mill St Ellicott City, MD 21043", 
+    "latitude": "39.279218", 
+    "ratings_histogram": [
+        {
+            "5 stars": "4"
+        }, 
+        {
+            "4 stars": "2"
+        }, 
+        {
+            "3 stars": "0"
+        }, 
+        {
+            "2 stars": "3"
+        }, 
+        {
+            "1 star": "1"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

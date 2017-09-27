@@ -1,0 +1,34 @@
+{
+    "info": [], 
+    "ratings": 0, 
+    "website": "", 
+    "working_hours": [], 
+    "name": "Indian Cuisine", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/indian-cuisine-toledo", 
+    "longitude": "-83.664510", 
+    "reviews": "", 
+    "phone": "(419) 385-7467", 
+    "address": "2247 S Reynolds Rd Toledo, OH 43614", 
+    "latitude": "41.598698", 
+    "ratings_histogram": [
+        {
+            "5 stars": "0"
+        }, 
+        {
+            "4 stars": "0"
+        }, 
+        {
+            "3 stars": "0"
+        }, 
+        {
+            "2 stars": "0"
+        }, 
+        {
+            "1 star": "0"
+        }
+    ], 
+    "price_range": "", 
+    "health_rating": "", 
+    "category": "Indian"
+}

@@ -1,0 +1,59 @@
+{
+    "info": [
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Bike Parking": "No"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }
+    ], 
+    "ratings": "2.0", 
+    "website": "http://www.naan-and-beyond.com", 
+    "working_hours": [], 
+    "name": "Naan & Beyond Express", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/naan-and-beyond-express-washington-2", 
+    "longitude": "-77.039873", 
+    "reviews": "10 reviews", 
+    "phone": "(202) 347-4055", 
+    "address": "1700 Pennsylvania Ave NW Washington, DC 20036 Downtown, Foggy Bottom", 
+    "latitude": "38.898599", 
+    "ratings_histogram": [
+        {
+            "5 stars": "1"
+        }, 
+        {
+            "4 stars": "0"
+        }, 
+        {
+            "3 stars": "1"
+        }, 
+        {
+            "2 stars": "2"
+        }, 
+        {
+            "1 star": "6"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

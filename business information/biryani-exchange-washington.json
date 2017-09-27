@@ -1,0 +1,87 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Has TV": "Yes"
+        }
+    ], 
+    "ratings": "3.0", 
+    "website": "", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 11:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Sun": "11:00 am - 11:00 pm"
+        }
+    ], 
+    "name": "Biryani Exchange", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/biryani-exchange-washington", 
+    "longitude": "-77.022904", 
+    "reviews": "13 reviews", 
+    "phone": "(202) 299-0303", 
+    "address": "2620 Georgia Ave NW Washington, DC 20001 b/t N Fairmont St & N Euclid St", 
+    "latitude": "38.924806", 
+    "ratings_histogram": [
+        {
+            "5 stars": "7"
+        }, 
+        {
+            "4 stars": "0"
+        }, 
+        {
+            "3 stars": "0"
+        }, 
+        {
+            "2 stars": "1"
+        }, 
+        {
+            "1 star": "5"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Pakistani"
+}

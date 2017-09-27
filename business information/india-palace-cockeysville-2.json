@@ -1,0 +1,111 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "Yes"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "3.0", 
+    "website": "", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 2:30 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Tue": "11:30 am - 2:30 pm5:00 pm - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 2:30 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 2:30 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 2:30 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Sat": "12:00 pm - 3:00 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Sun": "12:00 pm - 3:00 pm5:00 pm - 10:00 pm"
+        }
+    ], 
+    "name": "India Palace", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/india-palace-cockeysville-2", 
+    "longitude": "-76.635229", 
+    "reviews": "69 reviews", 
+    "phone": "(667) 308-3563", 
+    "address": "35 Cranbrook Rd Cockeysville, MD 21030", 
+    "latitude": "39.463448", 
+    "ratings_histogram": [
+        {
+            "5 stars": "13"
+        }, 
+        {
+            "4 stars": "24"
+        }, 
+        {
+            "3 stars": "9"
+        }, 
+        {
+            "2 stars": "11"
+        }, 
+        {
+            "1 star": "12"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

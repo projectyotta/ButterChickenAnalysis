@@ -1,0 +1,114 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Bitcoin": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "No"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://www.silverspoonkabob.com/", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 9:30 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 9:30 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 9:30 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 9:30 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 9:30 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 9:30 pm"
+        }, 
+        {
+            "Sun": "11:00 am - 9:00 pm"
+        }
+    ], 
+    "name": "Silver Spoon Kabobs", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/silver-spoon-kabobs-gaithersburg-2", 
+    "longitude": "-77.159848", 
+    "reviews": "104 reviews", 
+    "phone": "(301) 990-6868", 
+    "address": "18530 Woodfield Rd Gaithersburg, MD 20879", 
+    "latitude": "39.160814", 
+    "ratings_histogram": [
+        {
+            "5 stars": "49"
+        }, 
+        {
+            "4 stars": "26"
+        }, 
+        {
+            "3 stars": "14"
+        }, 
+        {
+            "2 stars": "5"
+        }, 
+        {
+            "1 star": "10"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Pakistani,Vegan,Gluten-Free"
+}

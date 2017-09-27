@@ -1,0 +1,108 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Good For": "Lunch"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "No"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "Beer & Wine Only"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.5", 
+    "website": "http://www.frescaonaddison.com", 
+    "working_hours": [
+        {
+            "Mon": "Closed"
+        }, 
+        {
+            "Tue": "11:00 am - 4:00 pm\n        \n                Closed now"
+        }, 
+        {
+            "Wed": "11:00 am - 4:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 4:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 4:00 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 4:00 pm"
+        }, 
+        {
+            "Sun": "Closed"
+        }
+    ], 
+    "name": "Fresca On Addison", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/fresca-on-addison-richmond", 
+    "longitude": "-77.470309", 
+    "reviews": "120 reviews", 
+    "phone": "(804) 359-8638", 
+    "address": "22 S Addison St Richmond, VA 23220 The Fan", 
+    "latitude": "37.549597", 
+    "ratings_histogram": [
+        {
+            "5 stars": "64"
+        }, 
+        {
+            "4 stars": "39"
+        }, 
+        {
+            "3 stars": "11"
+        }, 
+        {
+            "2 stars": "3"
+        }, 
+        {
+            "1 star": "3"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Vegetarian,Pizza"
+}

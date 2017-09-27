@@ -1,0 +1,114 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "Yes"
+        }, 
+        {
+            "Accepts Android Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "Beer & Wine Only"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "http://aaoji.com", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 1:00 am"
+        }, 
+        {
+            "Tue": "11:30 am - 1:00 am\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 1:00 am"
+        }, 
+        {
+            "Thu": "11:30 am - 1:00 am"
+        }, 
+        {
+            "Fri": "11:30 am - 1:00 am"
+        }, 
+        {
+            "Sat": "11:30 am - 1:00 am"
+        }, 
+        {
+            "Sun": "11:30 am - 1:00 am"
+        }
+    ], 
+    "name": "Bombay Cafe", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/bombay-cafe-fairfax", 
+    "longitude": "-77.334028", 
+    "reviews": "148 reviews", 
+    "phone": "(703) 352-8282", 
+    "address": "11213 Lee Hwy Ste E Fairfax, VA 22030", 
+    "latitude": "38.850338", 
+    "ratings_histogram": [
+        {
+            "5 stars": "41"
+        }, 
+        {
+            "4 stars": "45"
+        }, 
+        {
+            "3 stars": "17"
+        }, 
+        {
+            "2 stars": "22"
+        }, 
+        {
+            "1 star": "23"
+        }
+    ], 
+    "price_range": "Under $10", 
+    "health_rating": "", 
+    "category": "Indian"
+}

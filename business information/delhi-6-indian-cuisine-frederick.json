@@ -1,0 +1,105 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://delhi6frederick.us", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 2:30 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Tue": "11:30 am - 2:30 pm5:00 pm - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 2:30 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 2:30 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 2:30 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Sat": "12:00 pm - 3:00 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Sun": "12:00 pm - 3:00 pm5:00 pm - 10:00 pm"
+        }
+    ], 
+    "name": "Delhi 6 Indian cuisine", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/delhi-6-indian-cuisine-frederick", 
+    "longitude": "-77.411539", 
+    "reviews": "111 reviews", 
+    "phone": "(301) 698-9970", 
+    "address": "5732 Buckeystown Pike Ste 2 Frederick, MD 21704", 
+    "latitude": "39.393071", 
+    "ratings_histogram": [
+        {
+            "5 stars": "49"
+        }, 
+        {
+            "4 stars": "26"
+        }, 
+        {
+            "3 stars": "17"
+        }, 
+        {
+            "2 stars": "4"
+        }, 
+        {
+            "1 star": "15"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

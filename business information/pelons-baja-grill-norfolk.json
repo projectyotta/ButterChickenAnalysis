@@ -1,0 +1,111 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "Beer & Wine Only"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "No"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://pelonsbajagrill.com", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 9:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 9:00 pm\n        \n                Closed now"
+        }, 
+        {
+            "Wed": "11:00 am - 9:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 9:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 9:00 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 9:00 pm"
+        }, 
+        {
+            "Sun": "Closed"
+        }
+    ], 
+    "name": "Pelon\u2019s Baja Grill", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/pelons-baja-grill-norfolk", 
+    "longitude": "-76.293895", 
+    "reviews": "129 reviews", 
+    "phone": "(757) 961-4673", 
+    "address": "738 W 22nd St Ste 15 Norfolk, VA 23517", 
+    "latitude": "36.871242", 
+    "ratings_histogram": [
+        {
+            "5 stars": "42"
+        }, 
+        {
+            "4 stars": "53"
+        }, 
+        {
+            "3 stars": "17"
+        }, 
+        {
+            "2 stars": "10"
+        }, 
+        {
+            "1 star": "7"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Mexican,Vegan,Vegetarian"
+}

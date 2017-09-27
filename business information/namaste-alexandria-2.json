@@ -1,0 +1,114 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Android Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.5", 
+    "website": "http://www.namasteva.com", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 3:00 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Tue": "11:30 am - 3:00 pm5:00 pm - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 3:00 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 3:00 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 3:00 pm5:00 pm - 10:30 pm"
+        }, 
+        {
+            "Sat": "11:30 am - 3:00 pm5:00 pm - 10:30 pm"
+        }, 
+        {
+            "Sun": "11:30 am - 3:00 pm5:00 pm - 10:00 pm"
+        }
+    ], 
+    "name": "Namaste", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/namaste-alexandria-2", 
+    "longitude": "-77.122250", 
+    "reviews": "356 reviews", 
+    "phone": "(703) 822-0408", 
+    "address": "6138 Rose Hill Dr Alexandria, VA 22310", 
+    "latitude": "38.783902", 
+    "ratings_histogram": [
+        {
+            "5 stars": "217"
+        }, 
+        {
+            "4 stars": "90"
+        }, 
+        {
+            "3 stars": "24"
+        }, 
+        {
+            "2 stars": "12"
+        }, 
+        {
+            "1 star": "13"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Himalayan/Nepalese"
+}

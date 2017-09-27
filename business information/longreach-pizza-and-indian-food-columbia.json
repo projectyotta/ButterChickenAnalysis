@@ -1,0 +1,56 @@
+{
+    "info": [], 
+    "ratings": 0, 
+    "website": "", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Sun": "11:00 am - 10:00 pm"
+        }
+    ], 
+    "name": "Longreach Pizza & Indian Food", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/longreach-pizza-and-indian-food-columbia", 
+    "longitude": "-76.815989", 
+    "reviews": "", 
+    "phone": "(410) 964-9666", 
+    "address": "8775 Cloudleap Ct Columbia, MD 21045", 
+    "latitude": "39.207216", 
+    "ratings_histogram": [
+        {
+            "5 stars": "0"
+        }, 
+        {
+            "4 stars": "0"
+        }, 
+        {
+            "3 stars": "0"
+        }, 
+        {
+            "2 stars": "0"
+        }, 
+        {
+            "1 star": "0"
+        }
+    ], 
+    "price_range": "", 
+    "health_rating": "", 
+    "category": "Indian,Pizza"
+}

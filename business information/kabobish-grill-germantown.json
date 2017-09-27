@@ -1,0 +1,120 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Wheelchair Accessible": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Gender Neutral Restrooms": "Yes"
+        }
+    ], 
+    "ratings": "3.0", 
+    "website": "http://www.kabobishgrill.com", 
+    "working_hours": [
+        {
+            "Mon": "10:00 am - 10:00 pm"
+        }, 
+        {
+            "Tue": "10:00 am - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "10:00 am - 10:00 pm"
+        }, 
+        {
+            "Thu": "10:00 am - 10:00 pm"
+        }, 
+        {
+            "Fri": "10:00 am - 12:00 am"
+        }, 
+        {
+            "Sat": "10:00 am - 12:00 am"
+        }, 
+        {
+            "Sun": "10:00 am - 10:00 pm"
+        }
+    ], 
+    "name": "Kabobish Grill", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/kabobish-grill-germantown", 
+    "longitude": "-77.239099", 
+    "reviews": "27 reviews", 
+    "phone": "(301) 515-7230", 
+    "address": "11524 Middlebrook Rd Germantown, MD 20876", 
+    "latitude": "39.179455", 
+    "ratings_histogram": [
+        {
+            "5 stars": "8"
+        }, 
+        {
+            "4 stars": "5"
+        }, 
+        {
+            "3 stars": "3"
+        }, 
+        {
+            "2 stars": "1"
+        }, 
+        {
+            "1 star": "10"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Chicken Shop,Fish & Chips"
+}

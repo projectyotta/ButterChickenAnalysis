@@ -1,0 +1,120 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Android Pay": "Yes"
+        }, 
+        {
+            "Accepts Bitcoin": "No"
+        }, 
+        {
+            "Good For": "Lunch"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "Beer & Wine Only"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Gender Neutral Restrooms": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://www.saravanapalace.com", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 3:00 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Tue": "11:30 am - 3:00 pm5:00 pm - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 3:00 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 3:00 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 3:00 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Sat": "11:30 am - 10:00 pm"
+        }, 
+        {
+            "Sun": "11:30 am - 9:30 pm"
+        }
+    ], 
+    "name": "Saravana Palace", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/saravana-palace-fairfax", 
+    "longitude": "-77.352888", 
+    "reviews": "207 reviews", 
+    "phone": "(703) 218-4182", 
+    "address": "11725 Lee Hwy Ste A15 Fairfax, VA 22030", 
+    "latitude": "38.848605", 
+    "ratings_histogram": [
+        {
+            "5 stars": "83"
+        }, 
+        {
+            "4 stars": "66"
+        }, 
+        {
+            "3 stars": "22"
+        }, 
+        {
+            "2 stars": "16"
+        }, 
+        {
+            "1 star": "20"
+        }
+    ], 
+    "price_range": "Under $10", 
+    "health_rating": "", 
+    "category": "Vegetarian,Indian"
+}

@@ -1,0 +1,114 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Android Pay": "No"
+        }, 
+        {
+            "Good For": "Dinner"
+        }, 
+        {
+            "Parking": "Garage, Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Trendy"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://myaditi.com/", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 2:30 pm5:30 pm - 10:00 pm"
+        }, 
+        {
+            "Tue": "11:30 am - 2:30 pm5:30 pm - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 2:30 pm5:30 pm - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 2:30 pm5:30 pm - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 10:30 pm"
+        }, 
+        {
+            "Sat": "11:30 am - 10:30 pm"
+        }, 
+        {
+            "Sun": "11:30 am - 10:00 pm"
+        }
+    ], 
+    "name": "Aditi Indian Dining", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/aditi-indian-dining-alexandria", 
+    "longitude": "-77.139219", 
+    "reviews": "419 reviews", 
+    "phone": "(703) 922-6111", 
+    "address": "5926 Kingstowne Towne Ctr Ste 150 Alexandria, VA 22315", 
+    "latitude": "38.771534", 
+    "ratings_histogram": [
+        {
+            "5 stars": "187"
+        }, 
+        {
+            "4 stars": "150"
+        }, 
+        {
+            "3 stars": "42"
+        }, 
+        {
+            "2 stars": "18"
+        }, 
+        {
+            "1 star": "22"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Desserts"
+}

@@ -1,0 +1,117 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Android Pay": "No"
+        }, 
+        {
+            "Accepts Bitcoin": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://curryleafmd.com", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 3:00 pm5:00 pm - 9:30 pm"
+        }, 
+        {
+            "Tue": "11:30 am - 3:00 pm5:00 pm - 9:30 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 3:00 pm5:00 pm - 9:30 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 3:00 pm5:00 pm - 9:30 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 3:00 pm5:00 pm - 9:30 pm"
+        }, 
+        {
+            "Sat": "11:30 am - 3:00 pm5:00 pm - 9:30 pm"
+        }, 
+        {
+            "Sun": "11:30 am - 3:00 pm5:00 pm - 9:30 pm"
+        }
+    ], 
+    "name": "Curry Leaf Indian Cuisine", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/curry-leaf-indian-cuisine-laurel-2", 
+    "longitude": "-76.863386", 
+    "reviews": "219 reviews", 
+    "phone": "(301) 497-2017", 
+    "address": "13919 Baltimore Ave Laurel, MD 20707", 
+    "latitude": "39.081576", 
+    "ratings_histogram": [
+        {
+            "5 stars": "112"
+        }, 
+        {
+            "4 stars": "70"
+        }, 
+        {
+            "3 stars": "19"
+        }, 
+        {
+            "2 stars": "8"
+        }, 
+        {
+            "1 star": "10"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

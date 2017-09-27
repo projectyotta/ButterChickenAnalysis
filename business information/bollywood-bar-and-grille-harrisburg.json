@@ -1,0 +1,138 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "Yes"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Wheelchair Accessible": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual, Trendy, Classy"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Good For Dancing": "No"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Happy Hour": "Yes"
+        }, 
+        {
+            "Best Nights": "Fri"
+        }, 
+        {
+            "Coat Check": "No"
+        }, 
+        {
+            "Smoking": "No"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Has Pool Table": "No"
+        }, 
+        {
+            "Gender Neutral Restrooms": "Yes"
+        }
+    ], 
+    "ratings": "4.5", 
+    "website": "http://www.bollywoodbarandgrille.com", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 2:30 pm5:00 pm - 9:30 pm"
+        }, 
+        {
+            "Tue": "11:30 am - 2:30 pm5:00 pm - 9:30 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 2:30 pm5:00 pm - 9:30 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 2:30 pm5:00 pm - 9:30 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 2:30 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Sat": "12:00 pm - 3:00 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Sun": "12:00 pm - 3:00 pm5:00 pm - 9:00 pm"
+        }
+    ], 
+    "name": "Bollywood Bar and Grille", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/bollywood-bar-and-grille-harrisburg", 
+    "longitude": "-76.883774", 
+    "reviews": "76 reviews", 
+    "phone": "(717) 972-0708", 
+    "address": "110 N 2nd St Harrisburg, PA 17101", 
+    "latitude": "40.260568", 
+    "ratings_histogram": [
+        {
+            "5 stars": "48"
+        }, 
+        {
+            "4 stars": "17"
+        }, 
+        {
+            "3 stars": "5"
+        }, 
+        {
+            "2 stars": "3"
+        }, 
+        {
+            "1 star": "3"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Bars,Halal"
+}

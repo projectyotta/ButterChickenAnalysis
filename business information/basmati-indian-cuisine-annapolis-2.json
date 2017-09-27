@@ -1,0 +1,108 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "No"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://basmatiofannapolis.com", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 2:30 pm5:00 pm - 9:30 pm"
+        }, 
+        {
+            "Tue": "11:30 am - 2:30 pm5:00 pm - 9:30 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 2:30 pm5:00 pm - 9:30 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 2:30 pm5:00 pm - 9:30 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 2:30 pm5:00 pm - 10:30 pm"
+        }, 
+        {
+            "Sat": "12:00 pm - 3:00 pm5:00 pm - 10:30 pm"
+        }, 
+        {
+            "Sun": "12:00 pm - 3:00 pm5:00 pm - 9:30 pm"
+        }
+    ], 
+    "name": "Basmati Indian Cuisine", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/basmati-indian-cuisine-annapolis-2", 
+    "longitude": "-76.540993", 
+    "reviews": "154 reviews", 
+    "phone": "(410) 266-6355", 
+    "address": "2444 Solomans Island Rd Annapolis, MD 21401", 
+    "latitude": "38.976237", 
+    "ratings_histogram": [
+        {
+            "5 stars": "70"
+        }, 
+        {
+            "4 stars": "51"
+        }, 
+        {
+            "3 stars": "11"
+        }, 
+        {
+            "2 stars": "14"
+        }, 
+        {
+            "1 star": "8"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Buffets,Vegan"
+}

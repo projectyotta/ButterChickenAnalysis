@@ -1,0 +1,111 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Gender Neutral Restrooms": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://phillybiryani.com/", 
+    "working_hours": [
+        {
+            "Mon": "Closed"
+        }, 
+        {
+            "Tue": "11:00 am - 2:30 pm5:30 pm - 9:30 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 2:30 pm5:30 pm - 9:30 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 2:30 pm5:30 pm - 9:30 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 3:30 pm5:30 pm - 10:30 pm"
+        }, 
+        {
+            "Sat": "11:30 am - 3:30 pm5:30 pm - 10:30 pm"
+        }, 
+        {
+            "Sun": "12:00 pm - 4:00 pm6:00 pm - 9:30 pm"
+        }
+    ], 
+    "name": "Paradise Biryani Pointe", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/paradise-biryani-pointe-malvern", 
+    "longitude": "-75.553830", 
+    "reviews": "72 reviews", 
+    "phone": "(484) 318-8673", 
+    "address": "365 Lancaster Ave Malvern, PA 19355", 
+    "latitude": "40.038806", 
+    "ratings_histogram": [
+        {
+            "5 stars": "39"
+        }, 
+        {
+            "4 stars": "14"
+        }, 
+        {
+            "3 stars": "9"
+        }, 
+        {
+            "2 stars": "2"
+        }, 
+        {
+            "1 star": "8"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Halal"
+}

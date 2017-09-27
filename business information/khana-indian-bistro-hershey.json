@@ -1,0 +1,117 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Good For": "Dinner"
+        }, 
+        {
+            "Parking": "Garage, Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Wheelchair Accessible": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 2:30 pm4:30 pm - 10:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 2:30 pm4:30 pm - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 2:30 pm4:30 pm - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 2:30 pm4:30 pm - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 2:30 pm4:30 pm - 10:30 pm"
+        }, 
+        {
+            "Sat": "11:30 am - 3:00 pm4:30 pm - 10:30 pm"
+        }, 
+        {
+            "Sun": "11:30 am - 3:00 pm4:30 pm - 10:00 pm"
+        }
+    ], 
+    "name": "Khana Indian Bistro", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/khana-indian-bistro-hershey", 
+    "longitude": "-76.654128", 
+    "reviews": "73 reviews", 
+    "phone": "(717) 534-9615", 
+    "address": "709 Fishburn Rd Hershey, PA 17033", 
+    "latitude": "40.271558", 
+    "ratings_histogram": [
+        {
+            "5 stars": "27"
+        }, 
+        {
+            "4 stars": "22"
+        }, 
+        {
+            "3 stars": "10"
+        }, 
+        {
+            "2 stars": "8"
+        }, 
+        {
+            "1 star": "6"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

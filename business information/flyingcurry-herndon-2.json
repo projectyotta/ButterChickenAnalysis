@@ -1,0 +1,47 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "http://www.flyingcurry.com/", 
+    "working_hours": [], 
+    "name": "FlyingCurry", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/flyingcurry-herndon-2", 
+    "longitude": "-77.389517", 
+    "reviews": "6 reviews", 
+    "phone": "(703) 828-7798", 
+    "address": "Herndon, VA 20171", 
+    "latitude": "38.915499", 
+    "ratings_histogram": [
+        {
+            "5 stars": "1"
+        }, 
+        {
+            "4 stars": "4"
+        }, 
+        {
+            "3 stars": "0"
+        }, 
+        {
+            "2 stars": "0"
+        }, 
+        {
+            "1 star": "1"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Caterers"
+}

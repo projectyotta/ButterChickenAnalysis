@@ -1,0 +1,123 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Bitcoin": "No"
+        }, 
+        {
+            "Good For": "Dinner"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "No"
+        }, 
+        {
+            "Wheelchair Accessible": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "Beer & Wine Only"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Dogs Allowed": "No"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }, 
+        {
+            "Caters": "No"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://www.bombaycurrycompany.com/", 
+    "working_hours": [
+        {
+            "Mon": "Closed"
+        }, 
+        {
+            "Tue": "11:30 am - 2:30 pm5:30 pm - 9:30 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 2:30 pm5:30 pm - 9:30 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 2:30 pm5:30 pm - 9:30 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 2:30 pm5:30 pm - 9:30 pm"
+        }, 
+        {
+            "Sat": "11:30 am - 2:30 pm5:30 pm - 9:30 pm"
+        }, 
+        {
+            "Sun": "11:30 am - 2:30 pm5:30 pm - 9:30 pm"
+        }
+    ], 
+    "name": "Bombay Curry Company", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/bombay-curry-company-alexandria-4", 
+    "longitude": "-77.058808", 
+    "reviews": "126 reviews", 
+    "phone": "(703) 836-6363", 
+    "address": "2607 Mt Vernon Ave Alexandria, VA 22301", 
+    "latitude": "38.828730", 
+    "ratings_histogram": [
+        {
+            "5 stars": "61"
+        }, 
+        {
+            "4 stars": "35"
+        }, 
+        {
+            "3 stars": "9"
+        }, 
+        {
+            "2 stars": "13"
+        }, 
+        {
+            "1 star": "8"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

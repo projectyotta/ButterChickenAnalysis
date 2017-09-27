@@ -1,0 +1,111 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.5", 
+    "website": "http://sarahskabobshop.com", 
+    "working_hours": [
+        {
+            "Mon": "10:30 am - 9:00 pm"
+        }, 
+        {
+            "Tue": "10:30 am - 9:00 pm\n        \n                Closed now"
+        }, 
+        {
+            "Wed": "10:30 am - 9:00 pm"
+        }, 
+        {
+            "Thu": "10:30 am - 9:00 pm"
+        }, 
+        {
+            "Fri": "10:30 am - 10:00 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Sun": "Closed"
+        }
+    ], 
+    "name": "Sarah\u2019s Kabob Shop", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/sarahs-kabob-shop-greensboro-2", 
+    "longitude": "-79.890976", 
+    "reviews": "183 reviews", 
+    "phone": "(336) 355-9260", 
+    "address": "5553 W Market St Greensboro, NC 27409", 
+    "latitude": "36.075946", 
+    "ratings_histogram": [
+        {
+            "5 stars": "147"
+        }, 
+        {
+            "4 stars": "25"
+        }, 
+        {
+            "3 stars": "8"
+        }, 
+        {
+            "2 stars": "0"
+        }, 
+        {
+            "1 star": "3"
+        }
+    ], 
+    "price_range": "Under $10", 
+    "health_rating": "", 
+    "category": "Mediterranean,Halal,American (Traditional)"
+}

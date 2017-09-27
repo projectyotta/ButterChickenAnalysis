@@ -1,0 +1,123 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Bitcoin": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Wheelchair Accessible": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Dogs Allowed": "No"
+        }, 
+        {
+            "Waiter Service": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://www.kababishgrill.com", 
+    "working_hours": [
+        {
+            "Mon": "Closed"
+        }, 
+        {
+            "Tue": "11:00 am - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Sat": "10:00 am - 10:00 pm"
+        }, 
+        {
+            "Sun": "10:00 am - 10:00 pm"
+        }
+    ], 
+    "name": "Kababish Tandoor and Grill", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/kababish-tandoor-and-grill-camp-hill", 
+    "longitude": "-76.940452", 
+    "reviews": "80 reviews", 
+    "phone": "(717) 761-3370", 
+    "address": "3433 Simpson Ferry Rd Camp Hill, PA 17011", 
+    "latitude": "40.227125", 
+    "ratings_histogram": [
+        {
+            "5 stars": "43"
+        }, 
+        {
+            "4 stars": "18"
+        }, 
+        {
+            "3 stars": "9"
+        }, 
+        {
+            "2 stars": "3"
+        }, 
+        {
+            "1 star": "7"
+        }
+    ], 
+    "price_range": "Under $10", 
+    "health_rating": "", 
+    "category": "Indian,Pakistani,Middle Eastern"
+}

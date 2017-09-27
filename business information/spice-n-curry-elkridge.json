@@ -1,0 +1,126 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Bitcoin": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner, Dessert"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Wheelchair Accessible": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Dogs Allowed": "No"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Gender Neutral Restrooms": "Yes"
+        }
+    ], 
+    "ratings": "4.5", 
+    "website": "http://www.spicencurrymd.com/", 
+    "working_hours": [
+        {
+            "Mon": "Closed"
+        }, 
+        {
+            "Tue": "11:30 am - 2:30 pm5:30 pm - 9:30 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 2:30 pm5:30 pm - 9:30 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 2:30 pm5:30 pm - 9:30 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 2:30 pm5:30 pm - 10:00 pm"
+        }, 
+        {
+            "Sat": "12:00 pm - 3:00 pm5:30 pm - 10:00 pm"
+        }, 
+        {
+            "Sun": "12:00 pm - 3:00 pm5:30 pm - 9:30 pm"
+        }
+    ], 
+    "name": "Spice N Curry", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/spice-n-curry-elkridge", 
+    "longitude": "-76.791197", 
+    "reviews": "110 reviews", 
+    "phone": "(443) 661-4068", 
+    "address": "6590 Old Waterloo Rd Elkridge, MD 21075", 
+    "latitude": "39.188703", 
+    "ratings_histogram": [
+        {
+            "5 stars": "71"
+        }, 
+        {
+            "4 stars": "25"
+        }, 
+        {
+            "3 stars": "1"
+        }, 
+        {
+            "2 stars": "9"
+        }, 
+        {
+            "1 star": "4"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

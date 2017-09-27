@@ -1,0 +1,114 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Wheelchair Accessible": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.5", 
+    "website": "http://www.tasteofindianova.com", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 9:00 pm"
+        }, 
+        {
+            "Tue": "Closed"
+        }, 
+        {
+            "Wed": "11:00 am - 9:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 9:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 9:30 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 9:30 pm"
+        }, 
+        {
+            "Sun": "11:00 am - 9:00 pm"
+        }
+    ], 
+    "name": "Taste of India Culpeper", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/taste-of-india-culpeper-culpeper", 
+    "longitude": "-77.994678", 
+    "reviews": "19 reviews", 
+    "phone": "(540) 764-4647", 
+    "address": "201 S East St Culpeper, VA 22701", 
+    "latitude": "38.472345", 
+    "ratings_histogram": [
+        {
+            "5 stars": "12"
+        }, 
+        {
+            "4 stars": "4"
+        }, 
+        {
+            "3 stars": "2"
+        }, 
+        {
+            "2 stars": "1"
+        }, 
+        {
+            "1 star": "0"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Buffets"
+}

@@ -1,0 +1,114 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Wheelchair Accessible": "No"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.5", 
+    "website": "http://www.littleindiabaltimore.com", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 2:30 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Tue": "11:30 am - 2:30 pm5:00 pm - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 2:30 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 2:30 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 2:30 pm5:00 pm - 10:30 pm"
+        }, 
+        {
+            "Sat": "12:00 pm - 10:30 pm"
+        }, 
+        {
+            "Sun": "12:00 pm - 9:30 pm"
+        }
+    ], 
+    "name": "Little India", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/little-india-baltimore-2", 
+    "longitude": "-76.601127", 
+    "reviews": "34 reviews", 
+    "phone": "(410) 385-4900", 
+    "address": "411 S High St Baltimore, MD 21202 Little Italy", 
+    "latitude": "39.285451", 
+    "ratings_histogram": [
+        {
+            "5 stars": "20"
+        }, 
+        {
+            "4 stars": "10"
+        }, 
+        {
+            "3 stars": "2"
+        }, 
+        {
+            "2 stars": "1"
+        }, 
+        {
+            "1 star": "1"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

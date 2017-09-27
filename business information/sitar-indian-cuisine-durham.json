@@ -1,0 +1,117 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "No"
+        }, 
+        {
+            "Wheelchair Accessible": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "http://www.sitar-indiancuisine.com", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 9:30 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 9:30 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 9:30 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 9:30 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Sat": "12:00 pm - 10:00 pm"
+        }, 
+        {
+            "Sun": "12:00 pm - 9:00 pm"
+        }
+    ], 
+    "name": "Sitar Indian Cuisine", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/sitar-indian-cuisine-durham", 
+    "longitude": "-78.950610", 
+    "reviews": "171 reviews", 
+    "phone": "(919) 490-1326", 
+    "address": "3630 Durham Chapel Hill Blvd Durham, NC 27707", 
+    "latitude": "35.971703", 
+    "ratings_histogram": [
+        {
+            "5 stars": "44"
+        }, 
+        {
+            "4 stars": "65"
+        }, 
+        {
+            "3 stars": "32"
+        }, 
+        {
+            "2 stars": "18"
+        }, 
+        {
+            "1 star": "12"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Buffets"
+}

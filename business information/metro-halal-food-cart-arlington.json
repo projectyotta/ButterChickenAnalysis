@@ -1,0 +1,111 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "No"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Android Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "No"
+        }
+    ], 
+    "ratings": "4.5", 
+    "website": "", 
+    "working_hours": [
+        {
+            "Mon": "10:30 am - 4:00 pm"
+        }, 
+        {
+            "Tue": "10:30 am - 4:00 pm\n        \n                Closed now"
+        }, 
+        {
+            "Wed": "10:30 am - 4:00 pm"
+        }, 
+        {
+            "Thu": "10:30 am - 4:00 pm"
+        }, 
+        {
+            "Fri": "10:30 am - 4:00 pm"
+        }, 
+        {
+            "Sat": "Closed"
+        }, 
+        {
+            "Sun": "Closed"
+        }
+    ], 
+    "name": "Metro Halal Food Cart", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/metro-halal-food-cart-arlington", 
+    "longitude": "-77.071080", 
+    "reviews": "60 reviews", 
+    "phone": "", 
+    "address": "1730 Lynn St Arlington, VA 22209 Rosslyn", 
+    "latitude": "38.895756", 
+    "ratings_histogram": [
+        {
+            "5 stars": "39"
+        }, 
+        {
+            "4 stars": "14"
+        }, 
+        {
+            "3 stars": "5"
+        }, 
+        {
+            "2 stars": "2"
+        }, 
+        {
+            "1 star": "0"
+        }
+    ], 
+    "price_range": "Under $10", 
+    "health_rating": "", 
+    "category": "Halal,Food Stands"
+}

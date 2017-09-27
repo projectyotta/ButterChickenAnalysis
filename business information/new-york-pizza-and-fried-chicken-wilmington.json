@@ -1,0 +1,68 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Bike Parking": "No"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "No"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }
+    ], 
+    "ratings": "2.5", 
+    "website": "", 
+    "working_hours": [], 
+    "name": "New York Pizza & Fried Chicken", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/new-york-pizza-and-fried-chicken-wilmington", 
+    "longitude": "-75.550722", 
+    "reviews": "3 reviews", 
+    "phone": "(302) 655-1996", 
+    "address": "309 N King St Wilmington, DE 19801", 
+    "latitude": "39.739837", 
+    "ratings_histogram": [
+        {
+            "5 stars": "0"
+        }, 
+        {
+            "4 stars": "0"
+        }, 
+        {
+            "3 stars": "2"
+        }, 
+        {
+            "2 stars": "1"
+        }, 
+        {
+            "1 star": "0"
+        }
+    ], 
+    "price_range": "Under $10", 
+    "health_rating": "", 
+    "category": "Halal,American (Traditional)"
+}

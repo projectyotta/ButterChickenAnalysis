@@ -1,0 +1,99 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "http://www.shahigrill.com", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Sun": "11:00 am - 10:00 pm"
+        }
+    ], 
+    "name": "Shahi Grill", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/shahi-grill-baltimore", 
+    "longitude": "-76.739861", 
+    "reviews": "15 reviews", 
+    "phone": "(443) 436-0505", 
+    "address": "1724 Woodlawn Dr Ste 30 Baltimore, MD 21207", 
+    "latitude": "39.316174", 
+    "ratings_histogram": [
+        {
+            "5 stars": "5"
+        }, 
+        {
+            "4 stars": "5"
+        }, 
+        {
+            "3 stars": "1"
+        }, 
+        {
+            "2 stars": "1"
+        }, 
+        {
+            "1 star": "3"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Halal"
+}

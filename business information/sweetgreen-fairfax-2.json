@@ -1,0 +1,114 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "Yes"
+        }, 
+        {
+            "Accepts Android Pay": "Yes"
+        }, 
+        {
+            "Parking": "Garage"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "No"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "No"
+        }, 
+        {
+            "Gender Neutral Restrooms": "Yes"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "http://www.sweetgreen.com", 
+    "working_hours": [
+        {
+            "Mon": "10:30 am - 10:00 pm"
+        }, 
+        {
+            "Tue": "10:30 am - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "10:30 am - 10:00 pm"
+        }, 
+        {
+            "Thu": "10:30 am - 10:00 pm"
+        }, 
+        {
+            "Fri": "10:30 am - 10:00 pm"
+        }, 
+        {
+            "Sat": "10:30 am - 10:00 pm"
+        }, 
+        {
+            "Sun": "10:30 am - 9:00 pm"
+        }
+    ], 
+    "name": "sweetgreen", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/sweetgreen-fairfax-2", 
+    "longitude": "-77.228755", 
+    "reviews": "123 reviews", 
+    "phone": "(703) 992-7892", 
+    "address": "2905 District Ave Fairfax, VA 22031 Mosaic", 
+    "latitude": "38.872423", 
+    "ratings_histogram": [
+        {
+            "5 stars": "33"
+        }, 
+        {
+            "4 stars": "39"
+        }, 
+        {
+            "3 stars": "27"
+        }, 
+        {
+            "2 stars": "13"
+        }, 
+        {
+            "1 star": "11"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Salad,Vegetarian"
+}

@@ -1,0 +1,123 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Bitcoin": "No"
+        }, 
+        {
+            "Good For": "Lunch"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Wheelchair Accessible": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Dogs Allowed": "No"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "http://www.therasoirestaurant.com", 
+    "working_hours": [
+        {
+            "Mon": "Closed"
+        }, 
+        {
+            "Tue": "11:30 am - 2:30 pm5:00 pm - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 2:30 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 2:30 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 2:30 pm5:00 pm - 10:30 pm"
+        }, 
+        {
+            "Sat": "11:30 am - 3:00 pm5:00 pm - 10:30 pm"
+        }, 
+        {
+            "Sun": "11:30 am - 3:00 pm5:00 pm - 10:00 pm"
+        }
+    ], 
+    "name": "Rasoi Restaurant", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/rasoi-restaurant-college-park", 
+    "longitude": "-76.931124", 
+    "reviews": "73 reviews", 
+    "phone": "(301) 474-5951", 
+    "address": "8601 Baltimore Ave College Park, MD 20740", 
+    "latitude": "38.995999", 
+    "ratings_histogram": [
+        {
+            "5 stars": "27"
+        }, 
+        {
+            "4 stars": "22"
+        }, 
+        {
+            "3 stars": "5"
+        }, 
+        {
+            "2 stars": "7"
+        }, 
+        {
+            "1 star": "12"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Buffets"
+}

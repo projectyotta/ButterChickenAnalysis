@@ -1,0 +1,84 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Good For": "Dinner"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }
+    ], 
+    "ratings": "5.0", 
+    "website": "http://www.tulsiinrichmond.com", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Sun": "11:00 am - 10:00 pm"
+        }
+    ], 
+    "name": "Tulsi", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/tulsi-richmond", 
+    "longitude": "-77.481623", 
+    "reviews": "13 reviews", 
+    "phone": "(804) 353-3300", 
+    "address": "3131 W Cary St Richmond, VA 23221 Carytown", 
+    "latitude": "37.553319", 
+    "ratings_histogram": [
+        {
+            "5 stars": "11"
+        }, 
+        {
+            "4 stars": "1"
+        }, 
+        {
+            "3 stars": "1"
+        }, 
+        {
+            "2 stars": "0"
+        }, 
+        {
+            "1 star": "0"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

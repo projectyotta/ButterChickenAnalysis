@@ -1,0 +1,56 @@
+{
+    "info": [], 
+    "ratings": 0, 
+    "website": "http://www.bluemasala.com", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Sun": "11:00 am - 10:00 pm"
+        }
+    ], 
+    "name": "Blue Masala", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/blue-masala-washington", 
+    "longitude": "-77.021555", 
+    "reviews": "", 
+    "phone": "(202) 725-4952", 
+    "address": "509 7th St NW Washington, DC 20004 Penn Quarter", 
+    "latitude": "38.896522", 
+    "ratings_histogram": [
+        {
+            "5 stars": "0"
+        }, 
+        {
+            "4 stars": "0"
+        }, 
+        {
+            "3 stars": "0"
+        }, 
+        {
+            "2 stars": "0"
+        }, 
+        {
+            "1 star": "0"
+        }
+    ], 
+    "price_range": "", 
+    "health_rating": "", 
+    "category": "Indian"
+}

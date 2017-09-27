@@ -1,0 +1,120 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Garage, Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Wheelchair Accessible": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual, Classy"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Dogs Allowed": "Yes"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Offers Military Discount": "Yes"
+        }
+    ], 
+    "ratings": "4.5", 
+    "website": "http://www.7spiceva.com", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 2:30 pm5:00 pm - 9:30 pm"
+        }, 
+        {
+            "Tue": "11:30 am - 2:30 pm5:00 pm - 9:30 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 2:30 pm5:00 pm - 9:30 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 2:30 pm5:00 pm - 9:30 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 2:30 pm5:00 pm - 9:30 pm"
+        }, 
+        {
+            "Sat": "12:00 pm - 3:00 pm5:00 pm - 9:30 pm"
+        }, 
+        {
+            "Sun": "12:00 pm - 3:00 pm5:00 pm - 9:30 pm"
+        }
+    ], 
+    "name": "7 Spice Fine Indian Cuisine", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/7-spice-fine-indian-cuisine-mclean", 
+    "longitude": "-77.179444", 
+    "reviews": "102 reviews", 
+    "phone": "(703) 827-0444", 
+    "address": "1379 Beverly Rd McLean, VA 22101", 
+    "latitude": "38.934980", 
+    "ratings_histogram": [
+        {
+            "5 stars": "79"
+        }, 
+        {
+            "4 stars": "11"
+        }, 
+        {
+            "3 stars": "7"
+        }, 
+        {
+            "2 stars": "3"
+        }, 
+        {
+            "1 star": "2"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

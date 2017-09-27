@@ -1,0 +1,111 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "http://grillkabob.us", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 8:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 8:00 pm\n        \n                Closed now"
+        }, 
+        {
+            "Wed": "11:00 am - 2:00 am"
+        }, 
+        {
+            "Thu": "11:00 am - 2:00 am"
+        }, 
+        {
+            "Fri": "11:00 am - 2:00 am"
+        }, 
+        {
+            "Sat": "11:00 am - 2:00 am"
+        }, 
+        {
+            "Sun": "11:00 am - 8:00 pm"
+        }
+    ], 
+    "name": "Grill Kabob", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/grill-kabob-washington-2", 
+    "longitude": "-77.032915", 
+    "reviews": "94 reviews", 
+    "phone": "(202) 347-6460", 
+    "address": "1025 Vermont Ave NW Washington, DC 20005 b/t N K St & N 15th St Downtown", 
+    "latitude": "38.903300", 
+    "ratings_histogram": [
+        {
+            "5 stars": "33"
+        }, 
+        {
+            "4 stars": "22"
+        }, 
+        {
+            "3 stars": "12"
+        }, 
+        {
+            "2 stars": "10"
+        }, 
+        {
+            "1 star": "17"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Middle Eastern,Halal,Afghan"
+}

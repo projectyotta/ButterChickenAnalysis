@@ -1,0 +1,71 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "No"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "", 
+    "working_hours": [], 
+    "name": "Star of India Restaurant", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/star-of-india-restaurant-west-chester", 
+    "longitude": "-75.607741", 
+    "reviews": "26 reviews", 
+    "phone": "(610) 429-0125", 
+    "address": "155 W Gay St West Chester, PA 19380", 
+    "latitude": "39.959552", 
+    "ratings_histogram": [
+        {
+            "5 stars": "10"
+        }, 
+        {
+            "4 stars": "6"
+        }, 
+        {
+            "3 stars": "3"
+        }, 
+        {
+            "2 stars": "3"
+        }, 
+        {
+            "1 star": "4"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

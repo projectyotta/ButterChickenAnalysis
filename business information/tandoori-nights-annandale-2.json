@@ -1,0 +1,111 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Wheelchair Accessible": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Alcohol": "Beer & Wine Only"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Gender Neutral Restrooms": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://mytandoorinights.com", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 9:30 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 9:30 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 9:30 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 2:00 am"
+        }, 
+        {
+            "Fri": "11:00 am - 2:00 am"
+        }, 
+        {
+            "Sat": "11:00 am - 2:00 am"
+        }, 
+        {
+            "Sun": "11:00 am - 2:00 am"
+        }
+    ], 
+    "name": "Tandoori Nights", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/tandoori-nights-annandale-2", 
+    "longitude": "-77.192292", 
+    "reviews": "17 reviews", 
+    "phone": "(571) 775-2217", 
+    "address": "7137 Little River Turnpike Annandale, VA 22003", 
+    "latitude": "38.829310", 
+    "ratings_histogram": [
+        {
+            "5 stars": "8"
+        }, 
+        {
+            "4 stars": "3"
+        }, 
+        {
+            "3 stars": "2"
+        }, 
+        {
+            "2 stars": "3"
+        }, 
+        {
+            "1 star": "1"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Mexican"
+}

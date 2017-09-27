@@ -1,0 +1,34 @@
+{
+    "info": [], 
+    "ratings": "2.0", 
+    "website": "", 
+    "working_hours": [], 
+    "name": "Taste of Kabob", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/taste-of-kabob-stafford", 
+    "longitude": "-77.410771", 
+    "reviews": "1 review", 
+    "phone": "(540) 288-8950", 
+    "address": "1515 Stafford Market Pl Ste 105 Stafford, VA 22556", 
+    "latitude": "38.471379", 
+    "ratings_histogram": [
+        {
+            "5 stars": "0"
+        }, 
+        {
+            "4 stars": "0"
+        }, 
+        {
+            "3 stars": "0"
+        }, 
+        {
+            "2 stars": "1"
+        }, 
+        {
+            "1 star": "0"
+        }
+    ], 
+    "price_range": "", 
+    "health_rating": "", 
+    "category": "Indian"
+}

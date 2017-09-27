@@ -1,0 +1,111 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Bitcoin": "No"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "Beer & Wine Only"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "3.0", 
+    "website": "http://californiatortilla.com/locations/arlington", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 9:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 9:00 pm\n        \n                Closed now"
+        }, 
+        {
+            "Wed": "11:00 am - 9:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 9:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 9:00 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 9:00 pm"
+        }, 
+        {
+            "Sun": "11:00 am - 8:30 pm"
+        }
+    ], 
+    "name": "California Tortilla", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/california-tortilla-arlington", 
+    "longitude": "-77.084416", 
+    "reviews": "121 reviews", 
+    "phone": "(703) 243-4151", 
+    "address": "2057 Wilson Blvd Arlington, VA 22201 Court House", 
+    "latitude": "38.891827", 
+    "ratings_histogram": [
+        {
+            "5 stars": "22"
+        }, 
+        {
+            "4 stars": "28"
+        }, 
+        {
+            "3 stars": "20"
+        }, 
+        {
+            "2 stars": "25"
+        }, 
+        {
+            "1 star": "26"
+        }
+    ], 
+    "price_range": "Under $10", 
+    "health_rating": "", 
+    "category": "Mexican,Tex-Mex,Vegetarian"
+}

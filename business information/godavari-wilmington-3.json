@@ -1,0 +1,123 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Bitcoin": "No"
+        }, 
+        {
+            "Good For": "Brunch, Lunch, Dinner, Dessert"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Wheelchair Accessible": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Dogs Allowed": "No"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://www.godavarius.com/delaware", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 2:30 pm5:30 pm - 10:00 pm"
+        }, 
+        {
+            "Tue": "11:30 am - 2:30 pm5:30 pm - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 2:30 pm5:30 pm - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 2:30 pm5:30 pm - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 2:30 pm5:30 pm - 10:30 pm"
+        }, 
+        {
+            "Sat": "12:00 pm - 3:30 pm5:30 pm - 10:30 pm"
+        }, 
+        {
+            "Sun": "12:00 pm - 3:30 pm5:30 pm - 10:00 pm"
+        }
+    ], 
+    "name": "Godavari", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/godavari-wilmington-3", 
+    "longitude": "-75.638251", 
+    "reviews": "74 reviews", 
+    "phone": "(302) 999-0286", 
+    "address": "3615 Kirkwood Hwy Wilmington, DE 19808", 
+    "latitude": "39.734492", 
+    "ratings_histogram": [
+        {
+            "5 stars": "39"
+        }, 
+        {
+            "4 stars": "17"
+        }, 
+        {
+            "3 stars": "6"
+        }, 
+        {
+            "2 stars": "9"
+        }, 
+        {
+            "1 star": "3"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

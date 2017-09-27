@@ -1,0 +1,111 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "http://www.shereepunjab.com/glen_mills/index.html", 
+    "working_hours": [
+        {
+            "Mon": "10:00 am - 9:30 pm"
+        }, 
+        {
+            "Tue": "10:00 am - 9:30 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "10:00 am - 9:30 pm"
+        }, 
+        {
+            "Thu": "10:00 am - 9:30 pm"
+        }, 
+        {
+            "Fri": "10:00 am - 10:30 pm"
+        }, 
+        {
+            "Sat": "10:00 am - 10:30 pm"
+        }, 
+        {
+            "Sun": "10:00 am - 9:30 pm"
+        }
+    ], 
+    "name": "Shere-E-Punjab", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/shere-e-punjab-glen-mills", 
+    "longitude": "-75.528095", 
+    "reviews": "85 reviews", 
+    "phone": "(484) 841-6345", 
+    "address": "301 Byers Dr Concordville Towne Center Glen Mills, PA 19342", 
+    "latitude": "39.884820", 
+    "ratings_histogram": [
+        {
+            "5 stars": "28"
+        }, 
+        {
+            "4 stars": "32"
+        }, 
+        {
+            "3 stars": "11"
+        }, 
+        {
+            "2 stars": "3"
+        }, 
+        {
+            "1 star": "11"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

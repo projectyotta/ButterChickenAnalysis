@@ -1,0 +1,111 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "No"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.5", 
+    "website": "http://www.littleindiacafemd.com", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 10:30 pm"
+        }, 
+        {
+            "Sat": "11:30 am - 10:30 pm"
+        }, 
+        {
+            "Sun": "11:30 am - 10:00 pm"
+        }
+    ], 
+    "name": "Little India Cafe", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/little-india-cafe-glen-burnie", 
+    "longitude": "-76.611956", 
+    "reviews": "240 reviews", 
+    "phone": "(410) 590-1700", 
+    "address": "20 E Ordnance Rd Glen Burnie, MD 21060", 
+    "latitude": "39.193719", 
+    "ratings_histogram": [
+        {
+            "5 stars": "184"
+        }, 
+        {
+            "4 stars": "34"
+        }, 
+        {
+            "3 stars": "14"
+        }, 
+        {
+            "2 stars": "4"
+        }, 
+        {
+            "1 star": "4"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Pakistani"
+}

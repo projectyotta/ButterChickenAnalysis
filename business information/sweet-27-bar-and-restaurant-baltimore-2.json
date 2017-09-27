@@ -1,0 +1,108 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Gender Neutral Restrooms": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://www.sweet27.com", 
+    "working_hours": [
+        {
+            "Mon": "4:30 pm - 11:00 pm"
+        }, 
+        {
+            "Tue": "4:30 pm - 11:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "4:30 pm - 11:00 pm"
+        }, 
+        {
+            "Thu": "4:30 pm - 11:00 pm"
+        }, 
+        {
+            "Fri": "4:30 pm - 11:00 pm"
+        }, 
+        {
+            "Sat": "9:00 am - 2:00 pm4:30 pm - 11:00 pm"
+        }, 
+        {
+            "Sun": "4:30 pm - 11:00 pm"
+        }
+    ], 
+    "name": "Sweet 27 Bar and Restaurant", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/sweet-27-bar-and-restaurant-baltimore-2", 
+    "longitude": "-76.619659", 
+    "reviews": "139 reviews", 
+    "phone": "(410) 464-7211", 
+    "address": "123 W 27th St Baltimore, MD 21218 Charles Village, Old Goucher", 
+    "latitude": "39.320357", 
+    "ratings_histogram": [
+        {
+            "5 stars": "48"
+        }, 
+        {
+            "4 stars": "47"
+        }, 
+        {
+            "3 stars": "20"
+        }, 
+        {
+            "2 stars": "14"
+        }, 
+        {
+            "1 star": "10"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "American (New),Vegan,Gluten-Free"
+}

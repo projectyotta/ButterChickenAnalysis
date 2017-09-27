@@ -1,0 +1,120 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Android Pay": "No"
+        }, 
+        {
+            "Accepts Bitcoin": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Happy Hour": "Yes"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Has Pool Table": "No"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "http://www.banjaracuisine.com", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 2:30 pm5:30 pm - 9:30 pm"
+        }, 
+        {
+            "Tue": "11:30 am - 2:30 pm5:30 pm - 9:30 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 2:30 pm5:30 pm - 9:30 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 2:30 pm5:30 pm - 9:30 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 2:30 pm5:30 pm - 10:00 pm"
+        }, 
+        {
+            "Sat": "12:00 pm - 3:00 pm5:30 pm - 10:00 pm"
+        }, 
+        {
+            "Sun": "12:00 pm - 3:00 pm5:30 pm - 9:30 pm"
+        }
+    ], 
+    "name": "Banjara Indian Cuisine", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/banjara-indian-cuisine-ashburn", 
+    "longitude": "-77.475653", 
+    "reviews": "162 reviews", 
+    "phone": "(703) 723-0040", 
+    "address": "44050 Ashburn Shopping Plz Ste 191 Ashburn, VA 20147", 
+    "latitude": "39.044574", 
+    "ratings_histogram": [
+        {
+            "5 stars": "50"
+        }, 
+        {
+            "4 stars": "45"
+        }, 
+        {
+            "3 stars": "24"
+        }, 
+        {
+            "2 stars": "16"
+        }, 
+        {
+            "1 star": "27"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Bars,Seafood"
+}

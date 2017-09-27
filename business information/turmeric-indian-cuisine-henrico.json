@@ -1,0 +1,108 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "Yes"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Wheelchair Accessible": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "No"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Noise Level": "Very Loud"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://www.turmericuisine.com", 
+    "working_hours": [
+        {
+            "Mon": "Closed"
+        }, 
+        {
+            "Tue": "11:30 am - 2:30 pm5:30 pm - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 2:30 pm5:30 pm - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 2:30 pm5:30 pm - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 2:30 pm5:30 pm - 11:00 pm"
+        }, 
+        {
+            "Sat": "12:00 pm - 3:00 pm5:30 pm - 11:00 pm"
+        }, 
+        {
+            "Sun": "12:00 pm - 3:00 pm5:30 pm - 9:30 pm"
+        }
+    ], 
+    "name": "Turmeric Indian Cuisine", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/turmeric-indian-cuisine-henrico", 
+    "longitude": "-77.583281", 
+    "reviews": "14 reviews", 
+    "phone": "(804) 435-5656", 
+    "address": "3621 Cox Rd Ste C Henrico, VA 23233", 
+    "latitude": "37.642940", 
+    "ratings_histogram": [
+        {
+            "5 stars": "9"
+        }, 
+        {
+            "4 stars": "2"
+        }, 
+        {
+            "3 stars": "0"
+        }, 
+        {
+            "2 stars": "1"
+        }, 
+        {
+            "1 star": "2"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

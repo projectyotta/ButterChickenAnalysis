@@ -1,0 +1,114 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Android Pay": "Yes"
+        }, 
+        {
+            "Good For": "Lunch, Dinner, Late Night"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://www.kabobpalaceusa.com", 
+    "working_hours": [
+        {
+            "Mon": "Open 24 hours"
+        }, 
+        {
+            "Tue": "Open 24 hours\n        \n                Open now"
+        }, 
+        {
+            "Wed": "Open 24 hours"
+        }, 
+        {
+            "Thu": "Open 24 hours"
+        }, 
+        {
+            "Fri": "Open 24 hours"
+        }, 
+        {
+            "Sat": "Open 24 hours"
+        }, 
+        {
+            "Sun": "Open 24 hours"
+        }
+    ], 
+    "name": "Kabob Palace", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/kabob-palace-arlington-2", 
+    "longitude": "-77.053252", 
+    "reviews": "1521 reviews", 
+    "phone": "(703) 486-3535", 
+    "address": "2315 S Eads St Arlington, VA 22202 Crystal City", 
+    "latitude": "38.852994", 
+    "ratings_histogram": [
+        {
+            "5 stars": "741"
+        }, 
+        {
+            "4 stars": "462"
+        }, 
+        {
+            "3 stars": "172"
+        }, 
+        {
+            "2 stars": "67"
+        }, 
+        {
+            "1 star": "79"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Halal,Pakistani"
+}

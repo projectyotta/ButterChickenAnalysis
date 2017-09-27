@@ -1,0 +1,123 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Wheelchair Accessible": "No"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "Beer & Wine Only"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Dogs Allowed": "No"
+        }, 
+        {
+            "Waiter Service": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Gender Neutral Restrooms": "Yes"
+        }
+    ], 
+    "ratings": "3.0", 
+    "website": "http://www.sitaracuisine.com", 
+    "working_hours": [
+        {
+            "Mon": "Closed"
+        }, 
+        {
+            "Tue": "11:30 am - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 10:00 pm"
+        }, 
+        {
+            "Sat": "9:00 am - 10:00 pm"
+        }, 
+        {
+            "Sun": "9:00 am - 9:00 pm"
+        }
+    ], 
+    "name": "Sitara Indian Cuisine", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/sitara-indian-cuisine-ashburn", 
+    "longitude": "-77.469793", 
+    "reviews": "37 reviews", 
+    "phone": "(571) 291-9795", 
+    "address": "44260 Ice Rink Plz Ste 120 Ashburn, VA 20147", 
+    "latitude": "39.020306", 
+    "ratings_histogram": [
+        {
+            "5 stars": "12"
+        }, 
+        {
+            "4 stars": "7"
+        }, 
+        {
+            "3 stars": "3"
+        }, 
+        {
+            "2 stars": "5"
+        }, 
+        {
+            "1 star": "10"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Vegetarian"
+}

@@ -1,0 +1,129 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "Yes"
+        }, 
+        {
+            "Accepts Android Pay": "Yes"
+        }, 
+        {
+            "Accepts Bitcoin": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner, Late Night"
+        }, 
+        {
+            "Parking": "Garage, Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Wheelchair Accessible": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Waiter Service": "No"
+        }, 
+        {
+            "Drive-Thru": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Gender Neutral Restrooms": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://www.masalakitchenphilly.com", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 12:00 am"
+        }, 
+        {
+            "Tue": "11:00 am - 12:00 am\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 12:00 am"
+        }, 
+        {
+            "Thu": "11:00 am - 12:00 am"
+        }, 
+        {
+            "Fri": "11:00 am - 3:30 am"
+        }, 
+        {
+            "Sat": "12:00 pm - 3:30 am"
+        }, 
+        {
+            "Sun": "12:00 pm - 11:00 pm"
+        }
+    ], 
+    "name": "Masala Kitchen Kati Rolls and Platters", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/masala-kitchen-kati-rolls-and-platters-philadelphia", 
+    "longitude": "-75.160968", 
+    "reviews": "194 reviews", 
+    "phone": "(215) 309-3301", 
+    "address": "1211 Walnut St Philadelphia, PA 19107", 
+    "latitude": "39.949194", 
+    "ratings_histogram": [
+        {
+            "5 stars": "106"
+        }, 
+        {
+            "4 stars": "50"
+        }, 
+        {
+            "3 stars": "23"
+        }, 
+        {
+            "2 stars": "9"
+        }, 
+        {
+            "1 star": "6"
+        }
+    ], 
+    "price_range": "Under $10", 
+    "health_rating": "", 
+    "category": "Indian,Halal,Fast Food"
+}

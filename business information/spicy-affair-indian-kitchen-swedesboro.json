@@ -1,0 +1,123 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Bitcoin": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Wheelchair Accessible": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Dogs Allowed": "No"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.5", 
+    "website": "http://www.spicyaffair.us", 
+    "working_hours": [
+        {
+            "Mon": "Closed"
+        }, 
+        {
+            "Tue": "11:30 am - 3:00 pm5:00 pm - 9:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 3:00 pm5:00 pm - 9:00 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 3:00 pm5:00 pm - 9:00 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 3:00 pm5:00 pm - 9:00 pm"
+        }, 
+        {
+            "Sat": "12:00 pm - 9:00 pm"
+        }, 
+        {
+            "Sun": "12:00 pm - 8:00 pm"
+        }
+    ], 
+    "name": "Spicy Affair Indian kitchen", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/spicy-affair-indian-kitchen-swedesboro", 
+    "longitude": "-75.318018", 
+    "reviews": "43 reviews", 
+    "phone": "(856) 214-3828", 
+    "address": "95 Woodstown Rd Swedesboro, NJ 08085", 
+    "latitude": "39.708779", 
+    "ratings_histogram": [
+        {
+            "5 stars": "31"
+        }, 
+        {
+            "4 stars": "6"
+        }, 
+        {
+            "3 stars": "5"
+        }, 
+        {
+            "2 stars": "0"
+        }, 
+        {
+            "1 star": "1"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

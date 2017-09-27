@@ -1,0 +1,108 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "http://www.kitchenofindiaus.com/", 
+    "working_hours": [
+        {
+            "Mon": "Closed"
+        }, 
+        {
+            "Tue": "11:00 am - 3:00 pm5:00 pm - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 3:00 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 3:00 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 3:00 pm5:00 pm - 11:00 pm"
+        }, 
+        {
+            "Sat": "12:00 pm - 3:00 pm5:00 pm - 11:00 pm"
+        }, 
+        {
+            "Sun": "12:00 pm - 3:00 pm5:00 pm - 10:00 pm"
+        }
+    ], 
+    "name": "Kitchen of India", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/kitchen-of-india-parkville", 
+    "longitude": "-76.551393", 
+    "reviews": "50 reviews", 
+    "phone": "(410) 663-6880", 
+    "address": "1842 E Joppa Rd Parkville, MD 21234", 
+    "latitude": "39.400667", 
+    "ratings_histogram": [
+        {
+            "5 stars": "17"
+        }, 
+        {
+            "4 stars": "14"
+        }, 
+        {
+            "3 stars": "3"
+        }, 
+        {
+            "2 stars": "10"
+        }, 
+        {
+            "1 star": "6"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

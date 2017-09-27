@@ -1,0 +1,123 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Wheelchair Accessible": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Dogs Allowed": "No"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Offers Military Discount": "Yes"
+        }, 
+        {
+            "Gender Neutral Restrooms": "Yes"
+        }
+    ], 
+    "ratings": "4.5", 
+    "website": "http://www.coastalspice.com", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 9:00 pm"
+        }, 
+        {
+            "Tue": "11:30 am - 9:00 pm\n        \n                Closed now"
+        }, 
+        {
+            "Wed": "11:30 am - 9:00 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 9:00 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 10:00 pm"
+        }, 
+        {
+            "Sat": "11:30 am - 10:00 pm"
+        }, 
+        {
+            "Sun": "11:30 am - 9:00 pm"
+        }
+    ], 
+    "name": "Coastal Spice", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/coastal-spice-virginia-beach", 
+    "longitude": "-76.165899", 
+    "reviews": "150 reviews", 
+    "phone": "(757) 467-1891", 
+    "address": "Located in Fairfield Shopping Centre 5204 Fairfield Shopping Ctr Virginia Beach, VA 23464", 
+    "latitude": "36.815324", 
+    "ratings_histogram": [
+        {
+            "5 stars": "106"
+        }, 
+        {
+            "4 stars": "31"
+        }, 
+        {
+            "3 stars": "5"
+        }, 
+        {
+            "2 stars": "2"
+        }, 
+        {
+            "1 star": "6"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Desserts,Buffets"
+}

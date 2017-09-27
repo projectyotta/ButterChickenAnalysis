@@ -1,0 +1,123 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Android Pay": "No"
+        }, 
+        {
+            "Good For": "Dinner"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Wheelchair Accessible": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Gender Neutral Restrooms": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://www.addisethiopiansrestaurant.com", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 11:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 2:00 am"
+        }, 
+        {
+            "Sat": "11:00 am - 2:00 am"
+        }, 
+        {
+            "Sun": "11:00 am - 11:00 pm"
+        }
+    ], 
+    "name": "Addis Ethiopian Restaurant", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/addis-ethiopian-restaurant-washington", 
+    "longitude": "-76.995775", 
+    "reviews": "89 reviews", 
+    "phone": "(202) 758-2273", 
+    "address": "707 H St NE Washington, DC 20002 b/t N 7th St & N 8th St H Street Corridor/Atlas District/Near Northeast", 
+    "latitude": "38.899924", 
+    "ratings_histogram": [
+        {
+            "5 stars": "46"
+        }, 
+        {
+            "4 stars": "27"
+        }, 
+        {
+            "3 stars": "10"
+        }, 
+        {
+            "2 stars": "3"
+        }, 
+        {
+            "1 star": "3"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Ethiopian,Vegetarian"
+}

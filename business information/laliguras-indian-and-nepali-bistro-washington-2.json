@@ -1,0 +1,111 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "http://www.laligurasdc.com", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 2:30 pm3:00 pm - 10:00 pm"
+        }, 
+        {
+            "Tue": "11:30 am - 2:30 pm3:00 pm - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 2:30 pm3:00 pm - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 2:30 pm3:00 pm - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 2:30 pm3:00 pm - 10:00 pm"
+        }, 
+        {
+            "Sat": "11:30 am - 2:30 pm3:00 pm - 10:00 pm"
+        }, 
+        {
+            "Sun": "11:30 am - 2:30 pm3:00 pm - 10:00 pm"
+        }
+    ], 
+    "name": "Laliguras Indian & Nepali Bistro", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/laliguras-indian-and-nepali-bistro-washington-2", 
+    "longitude": "-77.063066", 
+    "reviews": "136 reviews", 
+    "phone": "(202) 735-5097", 
+    "address": "4221 Connecticut Ave NW Washington, DC 20008 b/t N Van Ness St & N Window Pl Van Ness/Forest Hills", 
+    "latitude": "38.943706", 
+    "ratings_histogram": [
+        {
+            "5 stars": "53"
+        }, 
+        {
+            "4 stars": "36"
+        }, 
+        {
+            "3 stars": "14"
+        }, 
+        {
+            "2 stars": "16"
+        }, 
+        {
+            "1 star": "17"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Himalayan/Nepalese"
+}

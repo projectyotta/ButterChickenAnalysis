@@ -1,0 +1,96 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Good For": "Lunch"
+        }, 
+        {
+            "Bike Parking": "No"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "Yes"
+        }
+    ], 
+    "ratings": "3.0", 
+    "website": "http://www.thechickenhut.com", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Sun": "12:00 pm - 9:00 pm"
+        }
+    ], 
+    "name": "The Chicken Hut", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/the-chicken-hut-clinton", 
+    "longitude": "-76.890074", 
+    "reviews": "21 reviews", 
+    "phone": "(301) 868-1669", 
+    "address": "8849 Branch Ave Clinton, MD 20735", 
+    "latitude": "38.767803", 
+    "ratings_histogram": [
+        {
+            "5 stars": "1"
+        }, 
+        {
+            "4 stars": "9"
+        }, 
+        {
+            "3 stars": "4"
+        }, 
+        {
+            "2 stars": "3"
+        }, 
+        {
+            "1 star": "4"
+        }
+    ], 
+    "price_range": "Under $10", 
+    "health_rating": "", 
+    "category": "Chicken Wings,Indian,Chicken Shop"
+}

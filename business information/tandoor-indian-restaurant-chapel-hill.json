@@ -1,0 +1,105 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "Beer & Wine Only"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "http://www.tandoorindian.com", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 3:00 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Tue": "11:30 am - 3:00 pm5:00 pm - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 3:00 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 3:00 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 3:00 pm5:00 pm - 10:30 pm"
+        }, 
+        {
+            "Sat": "11:30 am - 3:00 pm5:00 pm - 10:30 pm"
+        }, 
+        {
+            "Sun": "5:00 pm - 10:00 pm"
+        }
+    ], 
+    "name": "Tandoor Indian Restaurant", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/tandoor-indian-restaurant-chapel-hill", 
+    "longitude": "-79.035812", 
+    "reviews": "92 reviews", 
+    "phone": "(919) 967-6622", 
+    "address": "1301 E Franklin St Chapel Hill, NC 27514", 
+    "latitude": "35.927280", 
+    "ratings_histogram": [
+        {
+            "5 stars": "29"
+        }, 
+        {
+            "4 stars": "26"
+        }, 
+        {
+            "3 stars": "14"
+        }, 
+        {
+            "2 stars": "3"
+        }, 
+        {
+            "1 star": "20"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

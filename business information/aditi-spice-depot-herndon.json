@@ -1,0 +1,62 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "", 
+    "working_hours": [], 
+    "name": "Aditi Spice Depot", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/aditi-spice-depot-herndon", 
+    "longitude": "-77.368666", 
+    "reviews": "13 reviews", 
+    "phone": "(703) 464-1100", 
+    "address": "600 Carlisle Dr Herndon, VA 20170", 
+    "latitude": "38.965263", 
+    "ratings_histogram": [
+        {
+            "5 stars": "5"
+        }, 
+        {
+            "4 stars": "2"
+        }, 
+        {
+            "3 stars": "3"
+        }, 
+        {
+            "2 stars": "2"
+        }, 
+        {
+            "1 star": "1"
+        }
+    ], 
+    "price_range": "Under $10", 
+    "health_rating": "", 
+    "category": "American (Traditional),Indian"
+}

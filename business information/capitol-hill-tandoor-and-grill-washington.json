@@ -1,0 +1,105 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "No"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "http://www.capitolhillgrill.com", 
+    "working_hours": [
+        {
+            "Mon": "12:00 pm - 3:00 pm5:00 pm - 9:00 pm"
+        }, 
+        {
+            "Tue": "12:00 pm - 3:00 pm5:00 pm - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "12:00 pm - 3:00 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Thu": "12:00 pm - 3:00 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 3:00 pm5:00 pm - 10:30 pm"
+        }, 
+        {
+            "Sat": "12:00 pm - 4:00 pm5:00 pm - 10:30 pm"
+        }, 
+        {
+            "Sun": "12:00 pm - 4:00 pm5:00 pm - 10:00 pm"
+        }
+    ], 
+    "name": "Capitol Hill Tandoor & Grill", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/capitol-hill-tandoor-and-grill-washington", 
+    "longitude": "-76.995283", 
+    "reviews": "217 reviews", 
+    "phone": "(202) 547-3233", 
+    "address": "419 8th St SE Washington, DC 20003 b/t S E St & S D St Capitol Hill", 
+    "latitude": "38.883091", 
+    "ratings_histogram": [
+        {
+            "5 stars": "45"
+        }, 
+        {
+            "4 stars": "79"
+        }, 
+        {
+            "3 stars": "50"
+        }, 
+        {
+            "2 stars": "21"
+        }, 
+        {
+            "1 star": "22"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Pakistani"
+}

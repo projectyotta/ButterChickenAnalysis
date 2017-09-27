@@ -1,0 +1,105 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Android Pay": "No"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "No"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "http://phillys-best.com/", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 10:30 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 10:30 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 10:30 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 10:30 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Sun": "11:00 am - 10:00 pm"
+        }
+    ], 
+    "name": "Philly\u2019s Best", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/phillys-best-baltimore", 
+    "longitude": "-76.633933", 
+    "reviews": "28 reviews", 
+    "phone": "(410) 243-1301", 
+    "address": "1101 W 36th St Baltimore, MD 21211 Hampden", 
+    "latitude": "39.330839", 
+    "ratings_histogram": [
+        {
+            "5 stars": "5"
+        }, 
+        {
+            "4 stars": "11"
+        }, 
+        {
+            "3 stars": "5"
+        }, 
+        {
+            "2 stars": "3"
+        }, 
+        {
+            "1 star": "4"
+        }
+    ], 
+    "price_range": "Under $10", 
+    "health_rating": "", 
+    "category": "Indian,Italian,American (Traditional)"
+}

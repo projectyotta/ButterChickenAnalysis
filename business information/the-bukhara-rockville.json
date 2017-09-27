@@ -1,0 +1,114 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Android Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "http://www.thebukhara.com", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 3:00 pm5:30 pm - 10:00 pm"
+        }, 
+        {
+            "Tue": "11:30 am - 3:00 pm5:30 pm - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 3:00 pm5:30 pm - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 3:00 pm5:30 pm - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 3:00 pm5:30 pm - 10:30 pm"
+        }, 
+        {
+            "Sat": "12:00 pm - 10:30 pm"
+        }, 
+        {
+            "Sun": "12:00 pm - 9:00 pm"
+        }
+    ], 
+    "name": "The Bukhara", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/the-bukhara-rockville", 
+    "longitude": "-77.203987", 
+    "reviews": "163 reviews", 
+    "phone": "(301) 738-2000", 
+    "address": "9736 Traville Gateway Dr Rockville, MD 20850", 
+    "latitude": "39.092008", 
+    "ratings_histogram": [
+        {
+            "5 stars": "65"
+        }, 
+        {
+            "4 stars": "42"
+        }, 
+        {
+            "3 stars": "22"
+        }, 
+        {
+            "2 stars": "18"
+        }, 
+        {
+            "1 star": "16"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Pakistani"
+}

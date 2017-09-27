@@ -1,0 +1,59 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Good for Groups": "No"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Gender Neutral Restrooms": "Yes"
+        }
+    ], 
+    "ratings": "3.0", 
+    "website": "", 
+    "working_hours": [], 
+    "name": "Royal Indian Restaurant", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/royal-indian-restaurant-wilmington", 
+    "longitude": "-75.638693", 
+    "reviews": "1 review", 
+    "phone": "(302) 999-8606", 
+    "address": "3623A Kirkwood Hwy Wilmington, DE 19808", 
+    "latitude": "39.734217", 
+    "ratings_histogram": [
+        {
+            "5 stars": "0"
+        }, 
+        {
+            "4 stars": "0"
+        }, 
+        {
+            "3 stars": "1"
+        }, 
+        {
+            "2 stars": "0"
+        }, 
+        {
+            "1 star": "0"
+        }
+    ], 
+    "price_range": "Under $10", 
+    "health_rating": "", 
+    "category": "Indian"
+}

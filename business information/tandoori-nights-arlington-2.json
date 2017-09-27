@@ -1,0 +1,34 @@
+{
+    "info": [], 
+    "ratings": "2.0", 
+    "website": "", 
+    "working_hours": [], 
+    "name": "Tandoori Nights", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/tandoori-nights-arlington-2", 
+    "longitude": "-77.092913", 
+    "reviews": "1 review", 
+    "phone": "(703) 248-8333", 
+    "address": "2800 Clarendon Blvd Arlington, VA 22201 Clarendon", 
+    "latitude": "38.887786", 
+    "ratings_histogram": [
+        {
+            "5 stars": "0"
+        }, 
+        {
+            "4 stars": "0"
+        }, 
+        {
+            "3 stars": "0"
+        }, 
+        {
+            "2 stars": "1"
+        }, 
+        {
+            "1 star": "0"
+        }
+    ], 
+    "price_range": "", 
+    "health_rating": "", 
+    "category": "Indian"
+}

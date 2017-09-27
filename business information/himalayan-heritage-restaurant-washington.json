@@ -1,0 +1,120 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Android Pay": "No"
+        }, 
+        {
+            "Good For": "Dinner"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Intimate"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Gender Neutral Restrooms": "Yes"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "http://himalayanheritagedc.com", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 3:00 pm5:00 pm - 10:30 pm"
+        }, 
+        {
+            "Tue": "11:30 am - 3:00 pm5:00 pm - 10:30 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 3:00 pm5:00 pm - 10:30 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 3:00 pm5:00 pm - 10:30 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 3:00 pm5:00 pm - 11:00 pm"
+        }, 
+        {
+            "Sat": "11:30 am - 3:00 pm5:00 pm - 11:00 pm"
+        }, 
+        {
+            "Sun": "11:30 am - 3:00 pm5:00 pm - 10:30 pm"
+        }
+    ], 
+    "name": "Himalayan Heritage Restaurant", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/himalayan-heritage-restaurant-washington", 
+    "longitude": "-77.041410", 
+    "reviews": "408 reviews", 
+    "phone": "(202) 483-9300", 
+    "address": "2305 18th St NW Washington, DC 20009 b/t N Belmont Rd & N Kalorama Rd Adams Morgan", 
+    "latitude": "38.919840", 
+    "ratings_histogram": [
+        {
+            "5 stars": "92"
+        }, 
+        {
+            "4 stars": "148"
+        }, 
+        {
+            "3 stars": "59"
+        }, 
+        {
+            "2 stars": "56"
+        }, 
+        {
+            "1 star": "53"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Himalayan/Nepalese"
+}

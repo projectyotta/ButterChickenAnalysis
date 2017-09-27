@@ -1,0 +1,50 @@
+{
+    "info": [
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "5.0", 
+    "website": "", 
+    "working_hours": [], 
+    "name": "Swagatam Indian Food", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/swagatam-indian-food-harrisonburg", 
+    "longitude": "-78.910080", 
+    "reviews": "1 review", 
+    "phone": "", 
+    "address": "Covenant Dr Harrisonburg, VA 22801", 
+    "latitude": "38.404377", 
+    "ratings_histogram": [
+        {
+            "5 stars": "1"
+        }, 
+        {
+            "4 stars": "0"
+        }, 
+        {
+            "3 stars": "0"
+        }, 
+        {
+            "2 stars": "0"
+        }, 
+        {
+            "1 star": "0"
+        }
+    ], 
+    "price_range": "Under $10", 
+    "health_rating": "", 
+    "category": "Indian,Food Trucks"
+}

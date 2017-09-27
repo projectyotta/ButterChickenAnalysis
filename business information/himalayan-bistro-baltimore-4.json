@@ -1,0 +1,114 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Android Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "No"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }
+    ], 
+    "ratings": "4.5", 
+    "website": "http://www.bistrohimalayan.com", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 10:00 pm"
+        }, 
+        {
+            "Tue": "11:30 am - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 11:00 pm"
+        }, 
+        {
+            "Sat": "11:30 am - 11:00 pm"
+        }, 
+        {
+            "Sun": "11:30 am - 10:00 pm"
+        }
+    ], 
+    "name": "Himalayan Bistro", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/himalayan-bistro-baltimore-4", 
+    "longitude": "-76.612874", 
+    "reviews": "110 reviews", 
+    "phone": "(443) 708-3157", 
+    "address": "1030 Light St Baltimore, MD 21230 Federal Hill", 
+    "latitude": "39.277502", 
+    "ratings_histogram": [
+        {
+            "5 stars": "80"
+        }, 
+        {
+            "4 stars": "22"
+        }, 
+        {
+            "3 stars": "6"
+        }, 
+        {
+            "2 stars": "0"
+        }, 
+        {
+            "1 star": "2"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Himalayan/Nepalese"
+}

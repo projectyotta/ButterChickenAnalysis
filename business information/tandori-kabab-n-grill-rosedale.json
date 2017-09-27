@@ -1,0 +1,99 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Wheelchair Accessible": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }
+    ], 
+    "ratings": "3.0", 
+    "website": "http://tandorikababngrill.com", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Sun": "11:00 am - 10:00 pm"
+        }
+    ], 
+    "name": "Tandori Kabab N Grill", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/tandori-kabab-n-grill-rosedale", 
+    "longitude": "-76.484715", 
+    "reviews": "7 reviews", 
+    "phone": "(443) 559-0803", 
+    "address": "8767 B Philadelphia Rd Rosedale, MD 21237", 
+    "latitude": "39.339848", 
+    "ratings_histogram": [
+        {
+            "5 stars": "2"
+        }, 
+        {
+            "4 stars": "1"
+        }, 
+        {
+            "3 stars": "1"
+        }, 
+        {
+            "2 stars": "2"
+        }, 
+        {
+            "1 star": "1"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Pakistani,Halal,Middle Eastern"
+}

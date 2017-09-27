@@ -1,0 +1,108 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "No"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "No"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "http://www.Indochinexpress.com/", 
+    "working_hours": [
+        {
+            "Mon": "12:00 pm - 10:00 pm"
+        }, 
+        {
+            "Tue": "12:00 pm - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "12:00 pm - 10:00 pm"
+        }, 
+        {
+            "Thu": "12:00 pm - 10:00 pm"
+        }, 
+        {
+            "Fri": "12:00 pm - 11:00 pm"
+        }, 
+        {
+            "Sat": "12:00 pm - 11:00 pm"
+        }, 
+        {
+            "Sun": "12:00 pm - 10:00 pm"
+        }
+    ], 
+    "name": "Indochine Express Chinese Halal", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/indochine-express-chinese-halal-silver-spring", 
+    "longitude": "-76.997396", 
+    "reviews": "39 reviews", 
+    "phone": "(301) 384-1679", 
+    "address": "15416 New Hampshire Ave Silver Spring, MD 20905", 
+    "latitude": "39.109546", 
+    "ratings_histogram": [
+        {
+            "5 stars": "17"
+        }, 
+        {
+            "4 stars": "8"
+        }, 
+        {
+            "3 stars": "5"
+        }, 
+        {
+            "2 stars": "5"
+        }, 
+        {
+            "1 star": "4"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Chinese,Halal"
+}

@@ -1,0 +1,56 @@
+{
+    "info": [], 
+    "ratings": 0, 
+    "website": "", 
+    "working_hours": [
+        {
+            "Mon": "9:00 am - 5:00 pm"
+        }, 
+        {
+            "Tue": "9:00 am - 5:00 pm\n        \n                Closed now"
+        }, 
+        {
+            "Wed": "9:00 am - 5:00 pm"
+        }, 
+        {
+            "Thu": "9:00 am - 5:00 pm"
+        }, 
+        {
+            "Fri": "9:00 am - 5:00 pm"
+        }, 
+        {
+            "Sat": "9:00 am - 5:00 pm"
+        }, 
+        {
+            "Sun": "9:00 am - 5:00 pm"
+        }
+    ], 
+    "name": "Royal Halal Food", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/royal-halal-food-gaithersburg", 
+    "longitude": "-77.159898", 
+    "reviews": "", 
+    "phone": "(301) 814-5272", 
+    "address": "7813 Airpark Rd Gaithersburg, MD 20879", 
+    "latitude": "39.170369", 
+    "ratings_histogram": [
+        {
+            "5 stars": "0"
+        }, 
+        {
+            "4 stars": "0"
+        }, 
+        {
+            "3 stars": "0"
+        }, 
+        {
+            "2 stars": "0"
+        }, 
+        {
+            "1 star": "0"
+        }
+    ], 
+    "price_range": "", 
+    "health_rating": "", 
+    "category": "Halal"
+}

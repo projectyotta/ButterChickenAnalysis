@@ -1,0 +1,114 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Android Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "Beer & Wine Only"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Offers Military Discount": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://www.bamianrestaurant.com/", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 10:30 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 10:30 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 10:30 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 10:30 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Sun": "11:00 am - 10:30 pm"
+        }
+    ], 
+    "name": "Bamian", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/bamian-falls-church-2", 
+    "longitude": "-77.126192", 
+    "reviews": "303 reviews", 
+    "phone": "(703) 820-7880", 
+    "address": "5634 Leesburg Pike Falls Church, VA 22041", 
+    "latitude": "38.849374", 
+    "ratings_histogram": [
+        {
+            "5 stars": "122"
+        }, 
+        {
+            "4 stars": "116"
+        }, 
+        {
+            "3 stars": "26"
+        }, 
+        {
+            "2 stars": "21"
+        }, 
+        {
+            "1 star": "18"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Afghan,Buffets,Halal"
+}

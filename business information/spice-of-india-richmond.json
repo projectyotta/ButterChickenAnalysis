@@ -1,0 +1,117 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Wheelchair Accessible": "No"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "3.0", 
+    "website": "http://www.spiceofindiava.com", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 9:00 pm"
+        }, 
+        {
+            "Tue": "11:30 am - 9:00 pm\n        \n                Closed now"
+        }, 
+        {
+            "Wed": "11:30 am - 9:00 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 9:00 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 9:00 pm"
+        }, 
+        {
+            "Sat": "11:30 am - 9:00 pm"
+        }, 
+        {
+            "Sun": "11:30 am - 9:00 pm"
+        }
+    ], 
+    "name": "Spice of India", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/spice-of-india-richmond", 
+    "longitude": "-77.437095", 
+    "reviews": "38 reviews", 
+    "phone": "(804) 775-0108", 
+    "address": "106 N 7th St Richmond, VA 23219 Downtown", 
+    "latitude": "37.540368", 
+    "ratings_histogram": [
+        {
+            "5 stars": "5"
+        }, 
+        {
+            "4 stars": "16"
+        }, 
+        {
+            "3 stars": "5"
+        }, 
+        {
+            "2 stars": "5"
+        }, 
+        {
+            "1 star": "7"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

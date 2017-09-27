@@ -1,0 +1,117 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Android Pay": "No"
+        }, 
+        {
+            "Good For": "Dinner"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "No"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Gender Neutral Restrooms": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://cusbah.com", 
+    "working_hours": [
+        {
+            "Mon": "5:00 pm - 9:00 pm"
+        }, 
+        {
+            "Tue": "5:00 pm - 10:30 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "5:00 pm - 10:30 pm"
+        }, 
+        {
+            "Thu": "5:00 pm - 10:30 pm"
+        }, 
+        {
+            "Fri": "5:00 pm - 10:30 pm"
+        }, 
+        {
+            "Sat": "12:00 pm - 10:30 pm"
+        }, 
+        {
+            "Sun": "12:00 pm - 9:00 pm"
+        }
+    ], 
+    "name": "Cusbah", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/cusbah-washington", 
+    "longitude": "-76.990471", 
+    "reviews": "282 reviews", 
+    "phone": "(202) 506-1504", 
+    "address": "1128 H St NE Washington, DC 20002 b/t N 11th St & N 12th St H Street Corridor/Atlas District/Near Northeast", 
+    "latitude": "38.900412", 
+    "ratings_histogram": [
+        {
+            "5 stars": "93"
+        }, 
+        {
+            "4 stars": "100"
+        }, 
+        {
+            "3 stars": "42"
+        }, 
+        {
+            "2 stars": "32"
+        }, 
+        {
+            "1 star": "15"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Pakistani,Indian,American (New)"
+}

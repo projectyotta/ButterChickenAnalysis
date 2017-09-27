@@ -1,0 +1,105 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "Beer & Wine Only"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "http://www.motherindiawv.com", 
+    "working_hours": [
+        {
+            "Mon": "Closed"
+        }, 
+        {
+            "Tue": "11:00 am - 2:30 pm4:30 pm - 9:30 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 2:30 pm4:30 pm - 9:30 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 2:30 pm4:30 pm - 9:30 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 2:30 pm4:30 pm - 9:30 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 2:30 pm4:30 pm - 9:30 pm"
+        }, 
+        {
+            "Sun": "12:00 pm - 8:00 pm"
+        }
+    ], 
+    "name": "Mother India", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/mother-india-morgantown", 
+    "longitude": "-79.959358", 
+    "reviews": "63 reviews", 
+    "phone": "(304) 292-4499", 
+    "address": "40 High St Ste 109 Morgantown, WV 26501", 
+    "latitude": "39.625805", 
+    "ratings_histogram": [
+        {
+            "5 stars": "22"
+        }, 
+        {
+            "4 stars": "15"
+        }, 
+        {
+            "3 stars": "12"
+        }, 
+        {
+            "2 stars": "10"
+        }, 
+        {
+            "1 star": "4"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

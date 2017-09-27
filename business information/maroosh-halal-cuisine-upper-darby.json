@@ -1,0 +1,105 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Wheelchair Accessible": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.5", 
+    "website": "http://www.marooshhalalcuisine.net", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 9:30 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 9:30 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 9:30 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 9:30 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Sun": "12:00 pm - 9:00 pm"
+        }
+    ], 
+    "name": "Maroosh Halal Cuisine", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/maroosh-halal-cuisine-upper-darby", 
+    "longitude": "-75.258475", 
+    "reviews": "28 reviews", 
+    "phone": "(484) 466-4313", 
+    "address": "88 S 69th St Upper Darby, PA 19082", 
+    "latitude": "39.959311", 
+    "ratings_histogram": [
+        {
+            "5 stars": "23"
+        }, 
+        {
+            "4 stars": "3"
+        }, 
+        {
+            "3 stars": "1"
+        }, 
+        {
+            "2 stars": "0"
+        }, 
+        {
+            "1 star": "1"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Halal,Indian"
+}

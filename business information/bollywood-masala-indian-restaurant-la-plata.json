@@ -1,0 +1,117 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Wheelchair Accessible": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.5", 
+    "website": "http://bollywoodmasalarestaurant.com", 
+    "working_hours": [
+        {
+            "Mon": "Closed"
+        }, 
+        {
+            "Tue": "11:00 am - 9:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 9:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 9:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 9:30 pm"
+        }, 
+        {
+            "Sat": "11:30 am - 9:30 pm"
+        }, 
+        {
+            "Sun": "11:30 am - 9:00 pm"
+        }
+    ], 
+    "name": "Bollywood Masala Indian Restaurant", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/bollywood-masala-indian-restaurant-la-plata", 
+    "longitude": "-76.984073", 
+    "reviews": "214 reviews", 
+    "phone": "(240) 776-4689", 
+    "address": "120 Rosewick Rd La Plata, MD 20646", 
+    "latitude": "38.555711", 
+    "ratings_histogram": [
+        {
+            "5 stars": "169"
+        }, 
+        {
+            "4 stars": "23"
+        }, 
+        {
+            "3 stars": "13"
+        }, 
+        {
+            "2 stars": "2"
+        }, 
+        {
+            "1 star": "7"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

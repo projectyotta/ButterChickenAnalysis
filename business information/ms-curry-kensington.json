@@ -1,0 +1,72 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Noise Level": "Average"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://www.mscurry.com", 
+    "working_hours": [
+        {
+            "Mon": "Closed"
+        }, 
+        {
+            "Tue": "Closed"
+        }, 
+        {
+            "Wed": "11:00 am - 4:45 pm"
+        }, 
+        {
+            "Thu": "Closed"
+        }, 
+        {
+            "Fri": "11:00 am - 3:00 pm"
+        }, 
+        {
+            "Sat": "9:00 am - 1:00 pm"
+        }, 
+        {
+            "Sun": "9:00 am - 1:30 pm"
+        }
+    ], 
+    "name": "Ms Curry", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/ms-curry-kensington", 
+    "longitude": "-77.068828", 
+    "reviews": "8 reviews", 
+    "phone": "(240) 351-3912", 
+    "address": "10812 St Paul St Kensington, MD 20895", 
+    "latitude": "39.034786", 
+    "ratings_histogram": [
+        {
+            "5 stars": "5"
+        }, 
+        {
+            "4 stars": "1"
+        }, 
+        {
+            "3 stars": "0"
+        }, 
+        {
+            "2 stars": "1"
+        }, 
+        {
+            "1 star": "1"
+        }
+    ], 
+    "price_range": "", 
+    "health_rating": "", 
+    "category": "Indian,Caterers,Food Stands"
+}

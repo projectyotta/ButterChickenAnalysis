@@ -1,0 +1,87 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }
+    ], 
+    "ratings": "2.5", 
+    "website": "http://arlonscarryout.com/", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 11:30 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 11:30 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 11:30 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 11:30 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 1:00 am"
+        }, 
+        {
+            "Sat": "11:00 am - 1:00 am"
+        }, 
+        {
+            "Sun": "12:00 pm - 11:00 pm"
+        }
+    ], 
+    "name": "Arlon\u2019s Carry Out", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/arlons-carry-out-towson-7", 
+    "longitude": "-76.603914", 
+    "reviews": "11 reviews", 
+    "phone": "(410) 769-8880", 
+    "address": "23 Allegheny Ave Towson, MD 21204", 
+    "latitude": "39.401492", 
+    "ratings_histogram": [
+        {
+            "5 stars": "1"
+        }, 
+        {
+            "4 stars": "3"
+        }, 
+        {
+            "3 stars": "2"
+        }, 
+        {
+            "2 stars": "0"
+        }, 
+        {
+            "1 star": "5"
+        }
+    ], 
+    "price_range": "Under $10", 
+    "health_rating": "", 
+    "category": "Indian,American (Traditional),Italian"
+}

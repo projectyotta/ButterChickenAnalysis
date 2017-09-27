@@ -1,0 +1,141 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Bitcoin": "No"
+        }, 
+        {
+            "Good For": "Dinner"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "No"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Trendy"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Good For Dancing": "No"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Happy Hour": "Yes"
+        }, 
+        {
+            "Best Nights": "Wed, Thu, Fri"
+        }, 
+        {
+            "Coat Check": "No"
+        }, 
+        {
+            "Smoking": "No"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Dogs Allowed": "Yes"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Has Pool Table": "No"
+        }, 
+        {
+            "Gender Neutral Restrooms": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://www.lapisdc.com/", 
+    "working_hours": [
+        {
+            "Mon": "5:30 pm - 10:00 pm"
+        }, 
+        {
+            "Tue": "5:30 pm - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "5:30 pm - 10:00 pm"
+        }, 
+        {
+            "Thu": "5:30 pm - 10:00 pm"
+        }, 
+        {
+            "Fri": "5:30 pm - 11:00 pm"
+        }, 
+        {
+            "Sat": "10:00 am - 11:00 pm"
+        }, 
+        {
+            "Sun": "10:00 am - 10:00 pm"
+        }
+    ], 
+    "name": "Lapis", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/lapis-washington", 
+    "longitude": "-77.043942", 
+    "reviews": "223 reviews", 
+    "phone": "(202) 299-9630", 
+    "address": "1847 Columbia Rd NW Washington, DC 20009 b/t N Biltmore St & N Mintwood Pl Adams Morgan", 
+    "latitude": "38.921380", 
+    "ratings_histogram": [
+        {
+            "5 stars": "121"
+        }, 
+        {
+            "4 stars": "63"
+        }, 
+        {
+            "3 stars": "18"
+        }, 
+        {
+            "2 stars": "10"
+        }, 
+        {
+            "1 star": "11"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Afghan,Cocktail Bars,Desserts"
+}

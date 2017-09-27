@@ -1,0 +1,129 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Android Pay": "No"
+        }, 
+        {
+            "Accepts Bitcoin": "No"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Wheelchair Accessible": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Good For Dancing": "No"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Dogs Allowed": "Yes"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Has Pool Table": "No"
+        }, 
+        {
+            "Gender Neutral Restrooms": "Yes"
+        }
+    ], 
+    "ratings": "4.5", 
+    "website": "http://masalabaygrill.com", 
+    "working_hours": [
+        {
+            "Mon": "12:00 pm - 2:00 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Tue": "12:00 pm - 2:00 pm5:00 pm - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "12:00 pm - 2:00 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Thu": "12:00 pm - 2:00 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Fri": "12:00 pm - 2:00 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Sat": "12:00 pm - 2:00 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Sun": "12:00 pm - 2:00 pm5:00 pm - 10:00 pm"
+        }
+    ], 
+    "name": "Masala Bay Grill", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/masala-bay-grill-point-harbor", 
+    "longitude": "-75.790766", 
+    "reviews": "26 reviews", 
+    "phone": "(252) 863-3001", 
+    "address": "9175 Caratoke Hwy Point Harbor, NC 27964", 
+    "latitude": "36.080784", 
+    "ratings_histogram": [
+        {
+            "5 stars": "17"
+        }, 
+        {
+            "4 stars": "6"
+        }, 
+        {
+            "3 stars": "1"
+        }, 
+        {
+            "2 stars": "1"
+        }, 
+        {
+            "1 star": "1"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Bars"
+}

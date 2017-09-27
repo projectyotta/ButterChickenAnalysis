@@ -1,0 +1,108 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "http://www.tandooroftoledo.com", 
+    "working_hours": [
+        {
+            "Mon": "Closed"
+        }, 
+        {
+            "Tue": "11:30 am - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 10:00 pm"
+        }, 
+        {
+            "Sat": "11:30 am - 10:00 pm"
+        }, 
+        {
+            "Sun": "11:30 am - 9:30 pm"
+        }
+    ], 
+    "name": "Tandoor Cuisine Of India", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/tandoor-cuisine-of-india-toledo-2", 
+    "longitude": "-83.664094", 
+    "reviews": "78 reviews", 
+    "phone": "(419) 385-7467", 
+    "address": "2247 S Reynolds Rd Toledo, OH 43614", 
+    "latitude": "41.598905", 
+    "ratings_histogram": [
+        {
+            "5 stars": "26"
+        }, 
+        {
+            "4 stars": "23"
+        }, 
+        {
+            "3 stars": "11"
+        }, 
+        {
+            "2 stars": "15"
+        }, 
+        {
+            "1 star": "3"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

@@ -1,0 +1,111 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "Yes"
+        }, 
+        {
+            "Good For": "Lunch"
+        }, 
+        {
+            "Bike Parking": "No"
+        }, 
+        {
+            "Wheelchair Accessible": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Waiter Service": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://masalakitchen.net", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 6:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 6:00 pm\n        \n                Closed now"
+        }, 
+        {
+            "Wed": "11:00 am - 6:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 6:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 6:00 pm"
+        }, 
+        {
+            "Sat": "Closed"
+        }, 
+        {
+            "Sun": "Closed"
+        }
+    ], 
+    "name": "Masala Kitchen", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/masala-kitchen-wilmington", 
+    "longitude": "-75.549026", 
+    "reviews": "18 reviews", 
+    "phone": "(302) 543-4658", 
+    "address": "825 N Market St Wilmington, DE 19801", 
+    "latitude": "39.744138", 
+    "ratings_histogram": [
+        {
+            "5 stars": "12"
+        }, 
+        {
+            "4 stars": "0"
+        }, 
+        {
+            "3 stars": "3"
+        }, 
+        {
+            "2 stars": "2"
+        }, 
+        {
+            "1 star": "1"
+        }
+    ], 
+    "price_range": "Under $10", 
+    "health_rating": "", 
+    "category": "Indian,Vegan,Vegetarian"
+}

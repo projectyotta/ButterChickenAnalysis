@@ -1,0 +1,117 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Android Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Waiter Service": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Gender Neutral Restrooms": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://www.eastwestkabob.com", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 11:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 2:00 am"
+        }, 
+        {
+            "Sat": "11:00 am - 2:00 am"
+        }, 
+        {
+            "Sun": "11:00 am - 11:00 pm"
+        }
+    ], 
+    "name": "East West Grill", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/east-west-grill-arlington", 
+    "longitude": "-77.091452", 
+    "reviews": "171 reviews", 
+    "phone": "(703) 312-4888", 
+    "address": "2721 Wilson Blvd Arlington, VA 22201", 
+    "latitude": "38.889547", 
+    "ratings_histogram": [
+        {
+            "5 stars": "50"
+        }, 
+        {
+            "4 stars": "81"
+        }, 
+        {
+            "3 stars": "21"
+        }, 
+        {
+            "2 stars": "12"
+        }, 
+        {
+            "1 star": "7"
+        }
+    ], 
+    "price_range": "Under $10", 
+    "health_rating": "", 
+    "category": "Indian,Pakistani,Halal"
+}

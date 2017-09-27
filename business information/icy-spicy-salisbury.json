@@ -1,0 +1,60 @@
+{
+    "info": [
+        {
+            "Accepts Credit Cards": "Yes"
+        }
+    ], 
+    "ratings": 0, 
+    "website": "", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 8:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 8:00 pm\n        \n                Closed now"
+        }, 
+        {
+            "Wed": "11:00 am - 8:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 8:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 8:00 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 8:00 pm"
+        }, 
+        {
+            "Sun": "11:00 am - 8:00 pm"
+        }
+    ], 
+    "name": "icy spicy", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/icy-spicy-salisbury", 
+    "longitude": "-75.568252", 
+    "reviews": "", 
+    "phone": "", 
+    "address": "2417 N Salisbury Blvd Salisbury, MD 21801", 
+    "latitude": "38.404381", 
+    "ratings_histogram": [
+        {
+            "5 stars": "0"
+        }, 
+        {
+            "4 stars": "0"
+        }, 
+        {
+            "3 stars": "0"
+        }, 
+        {
+            "2 stars": "0"
+        }, 
+        {
+            "1 star": "0"
+        }
+    ], 
+    "price_range": "", 
+    "health_rating": "", 
+    "category": "Indian"
+}

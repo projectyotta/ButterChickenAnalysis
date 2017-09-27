@@ -1,0 +1,105 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "No"
+        }
+    ], 
+    "ratings": "2.5", 
+    "website": "http://www.asiangarden.us/", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 11:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Sun": "11:00 am - 11:00 pm"
+        }
+    ], 
+    "name": "Asian Garden", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/asian-garden-ocean-city-2", 
+    "longitude": "-75.080336", 
+    "reviews": "43 reviews", 
+    "phone": "(410) 289-7423", 
+    "address": "1509 Philadelphia Ave Ocean City, MD 21842", 
+    "latitude": "38.345734", 
+    "ratings_histogram": [
+        {
+            "5 stars": "4"
+        }, 
+        {
+            "4 stars": "8"
+        }, 
+        {
+            "3 stars": "10"
+        }, 
+        {
+            "2 stars": "5"
+        }, 
+        {
+            "1 star": "16"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Chinese,Himalayan/Nepalese"
+}

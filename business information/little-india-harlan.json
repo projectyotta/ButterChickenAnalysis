@@ -1,0 +1,56 @@
+{
+    "info": [], 
+    "ratings": "3.5", 
+    "website": "", 
+    "working_hours": [
+        {
+            "Mon": "10:30 am - 4:00 pm"
+        }, 
+        {
+            "Tue": "10:30 am - 4:00 pm\n        \n                Closed now"
+        }, 
+        {
+            "Wed": "10:30 am - 4:00 pm"
+        }, 
+        {
+            "Thu": "10:30 am - 4:00 pm"
+        }, 
+        {
+            "Fri": "10:30 am - 4:00 pm"
+        }, 
+        {
+            "Sat": "Closed"
+        }, 
+        {
+            "Sun": "Closed"
+        }
+    ], 
+    "name": "Little India", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/little-india-harlan", 
+    "longitude": "-83.326546", 
+    "reviews": "2 reviews", 
+    "phone": "(606) 714-0203", 
+    "address": "2307 W Hwy 72 Ste 3 Harlan, KY 40831", 
+    "latitude": "36.829035", 
+    "ratings_histogram": [
+        {
+            "5 stars": "1"
+        }, 
+        {
+            "4 stars": "0"
+        }, 
+        {
+            "3 stars": "0"
+        }, 
+        {
+            "2 stars": "1"
+        }, 
+        {
+            "1 star": "0"
+        }
+    ], 
+    "price_range": "", 
+    "health_rating": "", 
+    "category": "Indian"
+}

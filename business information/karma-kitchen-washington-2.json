@@ -1,0 +1,96 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "No"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Good for Kids": "No"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "No"
+        }
+    ], 
+    "ratings": "4.5", 
+    "website": "http://www.karmakitchen.org", 
+    "working_hours": [
+        {
+            "Mon": "Closed"
+        }, 
+        {
+            "Tue": "Closed"
+        }, 
+        {
+            "Wed": "Closed"
+        }, 
+        {
+            "Thu": "Closed"
+        }, 
+        {
+            "Fri": "Closed"
+        }, 
+        {
+            "Sat": "Closed"
+        }, 
+        {
+            "Sun": "12:00 pm - 3:00 pm"
+        }
+    ], 
+    "name": "Karma Kitchen", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/karma-kitchen-washington-2", 
+    "longitude": "-77.041707", 
+    "reviews": "2 reviews", 
+    "phone": "(202) 483-9300", 
+    "address": "2305 18th St NW Himalayan Heritage Washington, DC 20009 b/t N Belmont Rd & N Kalorama Rd Adams Morgan", 
+    "latitude": "38.919821", 
+    "ratings_histogram": [
+        {
+            "5 stars": "1"
+        }, 
+        {
+            "4 stars": "1"
+        }, 
+        {
+            "3 stars": "0"
+        }, 
+        {
+            "2 stars": "0"
+        }, 
+        {
+            "1 star": "0"
+        }
+    ], 
+    "price_range": "Under $10", 
+    "health_rating": "", 
+    "category": "Indian,Vegetarian,Himalayan/Nepalese"
+}

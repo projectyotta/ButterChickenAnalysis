@@ -1,0 +1,111 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Good For": "Dinner"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.5", 
+    "website": "http://RoyalNepalVa.com", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 10:00 pm"
+        }, 
+        {
+            "Tue": "11:30 am - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 10:30 pm"
+        }, 
+        {
+            "Sat": "11:30 am - 10:30 pm"
+        }, 
+        {
+            "Sun": "11:30 am - 10:30 pm"
+        }
+    ], 
+    "name": "Royal Nepal", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/royal-nepal-alexandria", 
+    "longitude": "-77.062440", 
+    "reviews": "72 reviews", 
+    "phone": "(571) 312-5130", 
+    "address": "3807 Mount Vernon Ave Alexandria, VA 22305", 
+    "latitude": "38.839608", 
+    "ratings_histogram": [
+        {
+            "5 stars": "57"
+        }, 
+        {
+            "4 stars": "10"
+        }, 
+        {
+            "3 stars": "3"
+        }, 
+        {
+            "2 stars": "1"
+        }, 
+        {
+            "1 star": "1"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Himalayan/Nepalese,Desserts,Indian"
+}

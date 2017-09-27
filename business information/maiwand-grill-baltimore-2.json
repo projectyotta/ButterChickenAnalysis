@@ -1,0 +1,123 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Garage, Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Wheelchair Accessible": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Dogs Allowed": "No"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Gender Neutral Restrooms": "Yes"
+        }
+    ], 
+    "ratings": "4.5", 
+    "website": "http://maiwand-grill.com", 
+    "working_hours": [
+        {
+            "Mon": "10:30 am - 9:30 pm"
+        }, 
+        {
+            "Tue": "10:30 am - 9:30 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "10:30 am - 9:30 pm"
+        }, 
+        {
+            "Thu": "10:30 am - 9:30 pm"
+        }, 
+        {
+            "Fri": "10:30 am - 9:30 pm"
+        }, 
+        {
+            "Sat": "12:00 pm - 9:30 pm"
+        }, 
+        {
+            "Sun": "12:00 pm - 9:00 pm"
+        }
+    ], 
+    "name": "Maiwand Grill", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/maiwand-grill-baltimore-2", 
+    "longitude": "-76.620653", 
+    "reviews": "268 reviews", 
+    "phone": "(410) 685-0208", 
+    "address": "324 W Baltimore St Baltimore, MD 21201 Downtown", 
+    "latitude": "39.289519", 
+    "ratings_histogram": [
+        {
+            "5 stars": "172"
+        }, 
+        {
+            "4 stars": "65"
+        }, 
+        {
+            "3 stars": "17"
+        }, 
+        {
+            "2 stars": "6"
+        }, 
+        {
+            "1 star": "8"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Afghan"
+}

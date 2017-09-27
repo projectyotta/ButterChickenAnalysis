@@ -1,0 +1,34 @@
+{
+    "info": [], 
+    "ratings": 0, 
+    "website": "", 
+    "working_hours": [], 
+    "name": "Indian Cafe", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/indian-cafe-baltimore-2", 
+    "longitude": "-76.614973", 
+    "reviews": "", 
+    "phone": "(410) 539-5589", 
+    "address": "201 N Charles St Baltimore, MD 21201 Downtown", 
+    "latitude": "39.291339", 
+    "ratings_histogram": [
+        {
+            "5 stars": "0"
+        }, 
+        {
+            "4 stars": "0"
+        }, 
+        {
+            "3 stars": "0"
+        }, 
+        {
+            "2 stars": "0"
+        }, 
+        {
+            "1 star": "0"
+        }
+    ], 
+    "price_range": "", 
+    "health_rating": "", 
+    "category": "Indian"
+}

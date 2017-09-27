@@ -1,0 +1,111 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://www.kumarirestaurant.net", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 10:00 pm"
+        }, 
+        {
+            "Tue": "11:30 am - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 10:30 pm"
+        }, 
+        {
+            "Sat": "11:30 am - 10:30 pm"
+        }, 
+        {
+            "Sun": "11:30 am - 10:00 pm"
+        }
+    ], 
+    "name": "Kumari Restaurant", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/kumari-restaurant-baltimore-2", 
+    "longitude": "-76.602722", 
+    "reviews": "67 reviews", 
+    "phone": "(410) 576-2222", 
+    "address": "847 E Fort Ave Baltimore, MD 21230 Riverside", 
+    "latitude": "39.271230", 
+    "ratings_histogram": [
+        {
+            "5 stars": "32"
+        }, 
+        {
+            "4 stars": "22"
+        }, 
+        {
+            "3 stars": "4"
+        }, 
+        {
+            "2 stars": "6"
+        }, 
+        {
+            "1 star": "3"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Himalayan/Nepalese"
+}

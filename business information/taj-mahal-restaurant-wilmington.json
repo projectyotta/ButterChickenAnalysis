@@ -1,0 +1,108 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 2:30 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 2:30 pm5:00 pm - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 2:30 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 2:30 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 2:30 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 2:30 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Sun": "11:00 am - 2:30 pm5:00 pm - 10:00 pm"
+        }
+    ], 
+    "name": "Taj Mahal Restaurant", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/taj-mahal-restaurant-wilmington", 
+    "longitude": "-75.465823", 
+    "reviews": "26 reviews", 
+    "phone": "(302) 475-0840", 
+    "address": "2314 Carpenter Station Rd Wilmington, DE 19810", 
+    "latitude": "39.817846", 
+    "ratings_histogram": [
+        {
+            "5 stars": "14"
+        }, 
+        {
+            "4 stars": "6"
+        }, 
+        {
+            "3 stars": "1"
+        }, 
+        {
+            "2 stars": "1"
+        }, 
+        {
+            "1 star": "4"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Buffets"
+}

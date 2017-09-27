@@ -1,0 +1,111 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "Yes"
+        }, 
+        {
+            "Good For": "Dinner"
+        }, 
+        {
+            "Parking": "Valet, Garage, Street, Validated"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Gender Neutral Restrooms": "Yes"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "http://www.lebanesetaverna.com/lebanese-restaurant-baltimore-md.html", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 10:00 pm"
+        }, 
+        {
+            "Tue": "11:30 am - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 11:00 pm"
+        }, 
+        {
+            "Sat": "11:30 am - 11:00 pm"
+        }, 
+        {
+            "Sun": "11:30 am - 9:00 pm"
+        }
+    ], 
+    "name": "Lebanese Taverna", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/lebanese-taverna-baltimore", 
+    "longitude": "-76.600994", 
+    "reviews": "324 reviews", 
+    "phone": "(410) 244-5533", 
+    "address": "719 S President St Baltimore, MD 21202 Inner Harbor", 
+    "latitude": "39.282751", 
+    "ratings_histogram": [
+        {
+            "5 stars": "97"
+        }, 
+        {
+            "4 stars": "115"
+        }, 
+        {
+            "3 stars": "47"
+        }, 
+        {
+            "2 stars": "40"
+        }, 
+        {
+            "1 star": "25"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Mediterranean,Lebanese,Vegetarian"
+}

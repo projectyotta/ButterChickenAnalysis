@@ -1,0 +1,120 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "Yes"
+        }, 
+        {
+            "Accepts Bitcoin": "No"
+        }, 
+        {
+            "Good For": "Lunch"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "No"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "Beer & Wine Only"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Gender Neutral Restrooms": "Yes"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "https://www.teaism.com/restaurant-details-39.html", 
+    "working_hours": [
+        {
+            "Mon": "7:30 am - 5:30 pm"
+        }, 
+        {
+            "Tue": "7:30 am - 5:30 pm\n        \n                Closed now"
+        }, 
+        {
+            "Wed": "7:30 am - 5:30 pm"
+        }, 
+        {
+            "Thu": "7:30 am - 5:30 pm"
+        }, 
+        {
+            "Fri": "7:30 am - 5:30 pm"
+        }, 
+        {
+            "Sat": "Closed"
+        }, 
+        {
+            "Sun": "Closed"
+        }, 
+        {
+            "Mon 10/9/2017": "Closed"
+        }
+    ], 
+    "name": "Teaism Lafayette Park", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/teaism-lafayette-park-washington-3", 
+    "longitude": "-77.038581", 
+    "reviews": "118 reviews", 
+    "phone": "(202) 835-2233", 
+    "address": "800 Connecticut Ave NW Washington, DC 20006 b/t N I St & N H St Downtown", 
+    "latitude": "38.900365", 
+    "ratings_histogram": [
+        {
+            "5 stars": "23"
+        }, 
+        {
+            "4 stars": "51"
+        }, 
+        {
+            "3 stars": "17"
+        }, 
+        {
+            "2 stars": "16"
+        }, 
+        {
+            "1 star": "11"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Tea Rooms,Asian Fusion,Vegan"
+}

@@ -1,0 +1,108 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "Yes"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Street, Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.5", 
+    "website": "http://nailahskitchen.com/belvedere", 
+    "working_hours": [
+        {
+            "Mon": "Closed"
+        }, 
+        {
+            "Tue": "2:30 pm - 12:00 am\n        \n                Open now"
+        }, 
+        {
+            "Wed": "2:30 pm - 12:00 am"
+        }, 
+        {
+            "Thu": "2:30 pm - 12:00 am"
+        }, 
+        {
+            "Fri": "2:30 pm - 12:00 am"
+        }, 
+        {
+            "Sat": "12:00 pm - 12:00 am"
+        }, 
+        {
+            "Sun": "12:00 pm - 11:00 pm"
+        }
+    ], 
+    "name": "Nailah\u2019s Kitchen", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/nailahs-kitchen-baltimore", 
+    "longitude": "-76.610200", 
+    "reviews": "126 reviews", 
+    "phone": "(443) 461-5600", 
+    "address": "5722 York Rd Baltimore, MD 21212 Rosebank", 
+    "latitude": "39.360372", 
+    "ratings_histogram": [
+        {
+            "5 stars": "90"
+        }, 
+        {
+            "4 stars": "23"
+        }, 
+        {
+            "3 stars": "7"
+        }, 
+        {
+            "2 stars": "3"
+        }, 
+        {
+            "1 star": "3"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Senegalese,Halal"
+}

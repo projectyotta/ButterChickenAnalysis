@@ -1,0 +1,111 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Good For": "Dinner"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://www.royalindiautah.com", 
+    "working_hours": [
+        {
+            "Mon": "4:30 pm - 9:00 pm"
+        }, 
+        {
+            "Tue": "4:30 pm - 9:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "4:30 pm - 9:00 pm"
+        }, 
+        {
+            "Thu": "4:30 pm - 9:00 pm"
+        }, 
+        {
+            "Fri": "4:30 pm - 9:30 pm"
+        }, 
+        {
+            "Sat": "4:30 pm - 9:30 pm"
+        }, 
+        {
+            "Sun": "Closed"
+        }
+    ], 
+    "name": "Royal India", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/royal-india-bountiful", 
+    "longitude": "-111.881076", 
+    "reviews": "80 reviews", 
+    "phone": "(801) 292-1835", 
+    "address": "55 N Main St Bountiful, UT 84010 Bountiful", 
+    "latitude": "40.889950", 
+    "ratings_histogram": [
+        {
+            "5 stars": "31"
+        }, 
+        {
+            "4 stars": "30"
+        }, 
+        {
+            "3 stars": "7"
+        }, 
+        {
+            "2 stars": "6"
+        }, 
+        {
+            "1 star": "6"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Pakistani"
+}

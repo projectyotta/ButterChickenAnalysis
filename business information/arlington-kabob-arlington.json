@@ -1,0 +1,120 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Android Pay": "Yes"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Wheelchair Accessible": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Dogs Allowed": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.5", 
+    "website": "http://www.arlingtonkabobva.com/", 
+    "working_hours": [
+        {
+            "Mon": "10:00 am - 9:00 pm"
+        }, 
+        {
+            "Tue": "10:00 am - 9:00 pm\n        \n                Closed now"
+        }, 
+        {
+            "Wed": "10:00 am - 9:00 pm"
+        }, 
+        {
+            "Thu": "10:00 am - 9:00 pm"
+        }, 
+        {
+            "Fri": "10:00 am - 10:00 pm"
+        }, 
+        {
+            "Sat": "10:00 am - 10:00 pm"
+        }, 
+        {
+            "Sun": "10:00 am - 9:00 pm"
+        }
+    ], 
+    "name": "Arlington Kabob", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/arlington-kabob-arlington", 
+    "longitude": "-77.131023", 
+    "reviews": "153 reviews", 
+    "phone": "(703) 531-1498", 
+    "address": "5046 Lee Hwy Arlington, VA 22207", 
+    "latitude": "38.896327", 
+    "ratings_histogram": [
+        {
+            "5 stars": "110"
+        }, 
+        {
+            "4 stars": "29"
+        }, 
+        {
+            "3 stars": "8"
+        }, 
+        {
+            "2 stars": "3"
+        }, 
+        {
+            "1 star": "3"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Afghan"
+}

@@ -1,0 +1,108 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "Yes"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "http://www.chachakababhouse.com", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 11:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 12:00 am"
+        }, 
+        {
+            "Sat": "11:00 am - 12:00 am"
+        }, 
+        {
+            "Sun": "11:00 am - 10:00 pm"
+        }
+    ], 
+    "name": "Chacha Kabab House", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/chacha-kabab-house-woodbridge", 
+    "longitude": "-77.368316", 
+    "reviews": "48 reviews", 
+    "phone": "(571) 659-9604", 
+    "address": "5860 Mapledale Plz Woodbridge, VA 22193", 
+    "latitude": "38.660980", 
+    "ratings_histogram": [
+        {
+            "5 stars": "16"
+        }, 
+        {
+            "4 stars": "11"
+        }, 
+        {
+            "3 stars": "8"
+        }, 
+        {
+            "2 stars": "9"
+        }, 
+        {
+            "1 star": "4"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Pakistani,Indian"
+}

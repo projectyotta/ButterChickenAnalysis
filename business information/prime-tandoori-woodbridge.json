@@ -1,0 +1,99 @@
+{
+    "info": [
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Bitcoin": "No"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Wheelchair Accessible": "Yes"
+        }, 
+        {
+            "Good for Kids": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Dogs Allowed": "Yes"
+        }, 
+        {
+            "Waiter Service": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://primetandoori.com/", 
+    "working_hours": [
+        {
+            "Mon": "10:30 am - 10:30 pm"
+        }, 
+        {
+            "Tue": "10:30 am - 10:30 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "10:30 am - 10:30 pm"
+        }, 
+        {
+            "Thu": "10:30 am - 10:30 pm"
+        }, 
+        {
+            "Fri": "10:30 am - 12:00 am"
+        }, 
+        {
+            "Sat": "10:30 am - 12:00 am"
+        }, 
+        {
+            "Sun": "11:30 am - 10:00 pm"
+        }
+    ], 
+    "name": "Prime Tandoori", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/prime-tandoori-woodbridge", 
+    "longitude": "-77.299262", 
+    "reviews": "11 reviews", 
+    "phone": "(703) 491-0909", 
+    "address": "2902 Garber Way Woodbridge, VA 22192", 
+    "latitude": "38.661171", 
+    "ratings_histogram": [
+        {
+            "5 stars": "5"
+        }, 
+        {
+            "4 stars": "3"
+        }, 
+        {
+            "3 stars": "1"
+        }, 
+        {
+            "2 stars": "1"
+        }, 
+        {
+            "1 star": "1"
+        }
+    ], 
+    "price_range": "", 
+    "health_rating": "", 
+    "category": "Indian,Pizza"
+}

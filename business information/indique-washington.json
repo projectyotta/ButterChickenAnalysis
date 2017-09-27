@@ -1,0 +1,120 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Good For": "Dinner"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Classy"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Happy Hour": "Yes"
+        }, 
+        {
+            "Best Nights": "Sat"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Has Pool Table": "No"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://www.indique.com", 
+    "working_hours": [
+        {
+            "Mon": "5:30 pm - 10:30 pm"
+        }, 
+        {
+            "Tue": "5:30 pm - 10:30 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "5:30 pm - 10:30 pm"
+        }, 
+        {
+            "Thu": "5:30 pm - 10:30 pm"
+        }, 
+        {
+            "Fri": "12:00 pm - 11:00 pm"
+        }, 
+        {
+            "Sat": "12:00 pm - 11:00 pm"
+        }, 
+        {
+            "Sun": "12:00 pm - 10:30 pm"
+        }
+    ], 
+    "name": "Indique", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/indique-washington", 
+    "longitude": "-77.059102", 
+    "reviews": "459 reviews", 
+    "phone": "(202) 244-6600", 
+    "address": "3512-14 Connecticut Ave NW Washington, DC 20008 Cleveland Park", 
+    "latitude": "38.936040", 
+    "ratings_histogram": [
+        {
+            "5 stars": "149"
+        }, 
+        {
+            "4 stars": "179"
+        }, 
+        {
+            "3 stars": "76"
+        }, 
+        {
+            "2 stars": "33"
+        }, 
+        {
+            "1 star": "22"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Pakistani,Bars"
+}

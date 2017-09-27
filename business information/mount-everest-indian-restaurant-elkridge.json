@@ -1,0 +1,102 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "http://mteverestelkridge.com", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 9:30 pm"
+        }, 
+        {
+            "Tue": "11:30 am - 9:30 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 9:30 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 9:30 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 10:30 pm"
+        }, 
+        {
+            "Sat": "11:30 am - 10:30 pm"
+        }, 
+        {
+            "Sun": "11:30 am - 9:30 pm"
+        }
+    ], 
+    "name": "Mount Everest Indian Restaurant", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/mount-everest-indian-restaurant-elkridge", 
+    "longitude": "-76.778218", 
+    "reviews": "29 reviews", 
+    "phone": "(410) 540-2999", 
+    "address": "6060 Marshalee Dr Elkridge, MD 21075", 
+    "latitude": "39.209045", 
+    "ratings_histogram": [
+        {
+            "5 stars": "10"
+        }, 
+        {
+            "4 stars": "5"
+        }, 
+        {
+            "3 stars": "4"
+        }, 
+        {
+            "2 stars": "4"
+        }, 
+        {
+            "1 star": "6"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Himalayan/Nepalese"
+}

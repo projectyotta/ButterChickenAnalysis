@@ -1,0 +1,111 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Wheelchair Accessible": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Dogs Allowed": "No"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://moodindianrestaurant.us", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 1:00 am"
+        }, 
+        {
+            "Tue": "11:30 am - 1:00 am\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 1:00 am"
+        }, 
+        {
+            "Thu": "11:30 am - 1:00 am"
+        }, 
+        {
+            "Fri": "11:30 am - 2:00 am"
+        }, 
+        {
+            "Sat": "11:30 am - 2:00 am"
+        }, 
+        {
+            "Sun": "11:30 am - 1:00 am"
+        }
+    ], 
+    "name": "Mood Indian Restaurant", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/mood-indian-restaurant-philadelphia-2", 
+    "longitude": "-75.144078", 
+    "reviews": "47 reviews", 
+    "phone": "(215) 925-5080", 
+    "address": "423 W Girard Ave Philadelphia, PA 19123 Olde Kensington", 
+    "latitude": "39.970304", 
+    "ratings_histogram": [
+        {
+            "5 stars": "24"
+        }, 
+        {
+            "4 stars": "11"
+        }, 
+        {
+            "3 stars": "3"
+        }, 
+        {
+            "2 stars": "5"
+        }, 
+        {
+            "1 star": "4"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

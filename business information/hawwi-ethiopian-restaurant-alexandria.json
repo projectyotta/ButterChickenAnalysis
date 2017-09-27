@@ -1,0 +1,120 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Wheelchair Accessible": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Dogs Allowed": "No"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }, 
+        {
+            "Caters": "No"
+        }
+    ], 
+    "ratings": "4.5", 
+    "website": "http://hawirestaurant.com", 
+    "working_hours": [
+        {
+            "Mon": "Closed"
+        }, 
+        {
+            "Tue": "11:00 am - 9:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 9:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 9:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 9:00 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 9:00 pm"
+        }, 
+        {
+            "Sun": "11:00 am - 9:00 pm"
+        }
+    ], 
+    "name": "Hawwi Ethiopian Restaurant", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/hawwi-ethiopian-restaurant-alexandria", 
+    "longitude": "-77.051773", 
+    "reviews": "315 reviews", 
+    "phone": "(703) 717-9740", 
+    "address": "1125 Queen St Alexandria, VA 22314 Old Town Alexandria", 
+    "latitude": "38.808017", 
+    "ratings_histogram": [
+        {
+            "5 stars": "221"
+        }, 
+        {
+            "4 stars": "65"
+        }, 
+        {
+            "3 stars": "21"
+        }, 
+        {
+            "2 stars": "6"
+        }, 
+        {
+            "1 star": "2"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Ethiopian"
+}

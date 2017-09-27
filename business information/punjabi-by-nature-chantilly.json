@@ -1,0 +1,117 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Bitcoin": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "No"
+        }, 
+        {
+            "Gender Neutral Restrooms": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://www.punjabibynature.us", 
+    "working_hours": [
+        {
+            "Mon": "10:00 am - 10:00 pm"
+        }, 
+        {
+            "Tue": "10:00 am - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "10:00 am - 10:00 pm"
+        }, 
+        {
+            "Thu": "10:00 am - 10:00 pm"
+        }, 
+        {
+            "Fri": "10:00 am - 10:00 pm"
+        }, 
+        {
+            "Sat": "10:00 am - 10:00 pm"
+        }, 
+        {
+            "Sun": "10:00 am - 10:00 pm"
+        }
+    ], 
+    "name": "Punjabi By Nature", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/punjabi-by-nature-chantilly", 
+    "longitude": "-77.426909", 
+    "reviews": "149 reviews", 
+    "phone": "(703) 309-7780", 
+    "address": "13955 Metro Tech Dr Lotte Plaza Chantilly, VA 20151", 
+    "latitude": "38.895258", 
+    "ratings_histogram": [
+        {
+            "5 stars": "61"
+        }, 
+        {
+            "4 stars": "57"
+        }, 
+        {
+            "3 stars": "14"
+        }, 
+        {
+            "2 stars": "5"
+        }, 
+        {
+            "1 star": "12"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

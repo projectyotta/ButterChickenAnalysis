@@ -1,0 +1,114 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Gender Neutral Restrooms": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://shishkabobgrille.com", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 8:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 8:00 pm\n        \n                Closed now"
+        }, 
+        {
+            "Wed": "11:00 am - 8:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 8:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 8:00 pm"
+        }, 
+        {
+            "Sat": "12:00 pm - 8:00 pm"
+        }, 
+        {
+            "Sun": "Closed"
+        }
+    ], 
+    "name": "Shishkabob Express", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/shishkabob-express-fairfax", 
+    "longitude": "-77.334592", 
+    "reviews": "66 reviews", 
+    "phone": "(703) 278-8700", 
+    "address": "11210 Lee Hwy Fairfax, VA 22030", 
+    "latitude": "38.851224", 
+    "ratings_histogram": [
+        {
+            "5 stars": "30"
+        }, 
+        {
+            "4 stars": "16"
+        }, 
+        {
+            "3 stars": "10"
+        }, 
+        {
+            "2 stars": "6"
+        }, 
+        {
+            "1 star": "4"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Mediterranean,Buffets,Middle Eastern"
+}

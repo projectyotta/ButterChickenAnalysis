@@ -1,0 +1,117 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Bitcoin": "No"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Wheelchair Accessible": "No"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Dogs Allowed": "No"
+        }, 
+        {
+            "Waiter Service": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.5", 
+    "website": "http://citykabobhouse.com/WashingtonDC/", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 9:30 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 9:30 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 9:30 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 9:30 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 9:30 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 9:30 pm"
+        }, 
+        {
+            "Sun": "11:00 am - 9:30 pm"
+        }
+    ], 
+    "name": "City Kabob and Curry House - Washington", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/city-kabob-and-curry-house-washington-washington-2", 
+    "longitude": "-77.004280", 
+    "reviews": "21 reviews", 
+    "phone": "(202) 733-1369", 
+    "address": "204 Michigan Ave NE Washington, DC 20017 at Cloisters", 
+    "latitude": "38.929718", 
+    "ratings_histogram": [
+        {
+            "5 stars": "16"
+        }, 
+        {
+            "4 stars": "3"
+        }, 
+        {
+            "3 stars": "2"
+        }, 
+        {
+            "2 stars": "0"
+        }, 
+        {
+            "1 star": "0"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Pakistani,Indian,Halal"
+}

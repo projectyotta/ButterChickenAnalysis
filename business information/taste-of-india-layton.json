@@ -1,0 +1,105 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "No"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "Beer & Wine Only"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://tasteofindiautah.com/", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 2:30 pm4:30 pm - 10:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 2:30 pm4:30 pm - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 2:30 pm4:30 pm - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 2:30 pm4:30 pm - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 2:30 pm4:30 pm - 10:00 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 2:30 pm4:30 pm - 10:00 pm"
+        }, 
+        {
+            "Sun": "Closed"
+        }
+    ], 
+    "name": "Taste of India", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/taste-of-india-layton", 
+    "longitude": "-111.983875", 
+    "reviews": "125 reviews", 
+    "phone": "(801) 614-0107", 
+    "address": "1664 N Woodland Park Dr Ste 401 Layton, UT 84041", 
+    "latitude": "41.084797", 
+    "ratings_histogram": [
+        {
+            "5 stars": "47"
+        }, 
+        {
+            "4 stars": "39"
+        }, 
+        {
+            "3 stars": "10"
+        }, 
+        {
+            "2 stars": "22"
+        }, 
+        {
+            "1 star": "7"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

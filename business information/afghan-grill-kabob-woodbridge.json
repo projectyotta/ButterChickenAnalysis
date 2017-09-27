@@ -1,0 +1,108 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "No"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "http://www.afghangrillkabob.com", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 9:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 9:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 9:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 9:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 9:00 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 9:00 pm"
+        }, 
+        {
+            "Sun": "12:00 pm - 6:00 pm"
+        }
+    ], 
+    "name": "Afghan Grill Kabob", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/afghan-grill-kabob-woodbridge", 
+    "longitude": "-77.301453", 
+    "reviews": "49 reviews", 
+    "phone": "(703) 670-6661", 
+    "address": "13338 Minnieville Rd Woodbridge, VA 22192 Potomac Mills", 
+    "latitude": "38.659414", 
+    "ratings_histogram": [
+        {
+            "5 stars": "20"
+        }, 
+        {
+            "4 stars": "10"
+        }, 
+        {
+            "3 stars": "2"
+        }, 
+        {
+            "2 stars": "8"
+        }, 
+        {
+            "1 star": "9"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Afghan,Middle Eastern,Sandwiches"
+}

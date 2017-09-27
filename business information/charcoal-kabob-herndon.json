@@ -1,0 +1,114 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Android Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://www.charcoalkabobhouse.com", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Sat": "12:00 pm - 10:00 pm"
+        }, 
+        {
+            "Sun": "12:00 pm - 10:00 pm"
+        }
+    ], 
+    "name": "Charcoal Kabob", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/charcoal-kabob-herndon", 
+    "longitude": "-77.374236", 
+    "reviews": "376 reviews", 
+    "phone": "(703) 435-2400", 
+    "address": "394 Elden St Herndon, VA 20170", 
+    "latitude": "38.969690", 
+    "ratings_histogram": [
+        {
+            "5 stars": "161"
+        }, 
+        {
+            "4 stars": "126"
+        }, 
+        {
+            "3 stars": "44"
+        }, 
+        {
+            "2 stars": "25"
+        }, 
+        {
+            "1 star": "20"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Afghan,Middle Eastern,Halal"
+}

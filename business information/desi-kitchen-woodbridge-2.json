@@ -1,0 +1,114 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "Yes"
+        }, 
+        {
+            "Accepts Android Pay": "Yes"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Wheelchair Accessible": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Gender Neutral Restrooms": "Yes"
+        }
+    ], 
+    "ratings": "4.5", 
+    "website": "", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 9:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 9:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 9:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 9:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 9:00 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 9:00 pm"
+        }, 
+        {
+            "Sun": "11:00 am - 8:00 pm"
+        }
+    ], 
+    "name": "Desi Kitchen", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/desi-kitchen-woodbridge-2", 
+    "longitude": "-77.301736", 
+    "reviews": "12 reviews", 
+    "phone": "(571) 589-8590", 
+    "address": "13813 Foulger Square Woodbridge, VA 22193 Potomac Mills", 
+    "latitude": "38.655438", 
+    "ratings_histogram": [
+        {
+            "5 stars": "9"
+        }, 
+        {
+            "4 stars": "2"
+        }, 
+        {
+            "3 stars": "0"
+        }, 
+        {
+            "2 stars": "0"
+        }, 
+        {
+            "1 star": "1"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Pakistani,Kebab"
+}

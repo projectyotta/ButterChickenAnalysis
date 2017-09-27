@@ -1,0 +1,105 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "No"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Divey"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "No"
+        }
+    ], 
+    "ratings": "3.0", 
+    "website": "http://www.pekinggardendc.com/", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 11:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 12:00 am"
+        }, 
+        {
+            "Sat": "11:00 am - 12:00 am"
+        }, 
+        {
+            "Sun": "12:00 pm - 11:00 pm"
+        }
+    ], 
+    "name": "Peking Garden", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/peking-garden-washington", 
+    "longitude": "-77.041865", 
+    "reviews": "82 reviews", 
+    "phone": "(202) 588-0088", 
+    "address": "2008 18th St NW Washington, DC 20009 b/t N Vernon St & N U St", 
+    "latitude": "38.917310", 
+    "ratings_histogram": [
+        {
+            "5 stars": "14"
+        }, 
+        {
+            "4 stars": "26"
+        }, 
+        {
+            "3 stars": "14"
+        }, 
+        {
+            "2 stars": "9"
+        }, 
+        {
+            "1 star": "19"
+        }
+    ], 
+    "price_range": "Under $10", 
+    "health_rating": "", 
+    "category": "Chinese,Vegetarian"
+}

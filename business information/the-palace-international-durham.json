@@ -1,0 +1,111 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Street, Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://www.thepalaceinternational.com/", 
+    "working_hours": [
+        {
+            "Mon": "Closed"
+        }, 
+        {
+            "Tue": "11:00 am - 3:00 pm5:00 pm - 9:00 pm\n        \n                Closed now"
+        }, 
+        {
+            "Wed": "11:00 am - 3:00 pm5:00 pm - 9:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 3:00 pm5:00 pm - 9:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 3:00 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 3:00 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Sun": "Closed"
+        }
+    ], 
+    "name": "The Palace International", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/the-palace-international-durham", 
+    "longitude": "-78.918965", 
+    "reviews": "81 reviews", 
+    "phone": "(919) 416-4922", 
+    "address": "1104 Broad St Durham, NC 27705", 
+    "latitude": "36.015767", 
+    "ratings_histogram": [
+        {
+            "5 stars": "28"
+        }, 
+        {
+            "4 stars": "31"
+        }, 
+        {
+            "3 stars": "14"
+        }, 
+        {
+            "2 stars": "6"
+        }, 
+        {
+            "1 star": "2"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "African,Vegetarian,Vegan"
+}

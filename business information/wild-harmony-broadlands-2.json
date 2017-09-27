@@ -1,0 +1,90 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Has TV": "Yes"
+        }
+    ], 
+    "ratings": "5.0", 
+    "website": "http://wildharmonyva.com", 
+    "working_hours": [
+        {
+            "Mon": "Closed"
+        }, 
+        {
+            "Tue": "11:30 am - 9:30 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 9:30 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 9:30 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 9:30 pm"
+        }, 
+        {
+            "Sat": "11:30 am - 9:30 pm"
+        }, 
+        {
+            "Sun": "11:30 am - 9:30 pm"
+        }
+    ], 
+    "name": "Wild Harmony", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/wild-harmony-broadlands-2", 
+    "longitude": "-77.508310", 
+    "reviews": "30 reviews", 
+    "phone": "(703) 723-0404", 
+    "address": "43150 Broadlands Center Plz Ste 166 Broadlands, VA 20148", 
+    "latitude": "39.025608", 
+    "ratings_histogram": [
+        {
+            "5 stars": "27"
+        }, 
+        {
+            "4 stars": "3"
+        }, 
+        {
+            "3 stars": "0"
+        }, 
+        {
+            "2 stars": "0"
+        }, 
+        {
+            "1 star": "0"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Vegetarian,Vegan,Gluten-Free"
+}

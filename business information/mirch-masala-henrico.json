@@ -1,0 +1,69 @@
+{
+    "info": [
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }
+    ], 
+    "ratings": "2.5", 
+    "website": "", 
+    "working_hours": [
+        {
+            "Mon": "Closed"
+        }, 
+        {
+            "Tue": "11:00 am - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Sun": "11:00 am - 10:00 pm"
+        }
+    ], 
+    "name": "Mirch Masala", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/mirch-masala-henrico", 
+    "longitude": "-77.527176", 
+    "reviews": "3 reviews", 
+    "phone": "(804) 217-6644", 
+    "address": "2755 Hungary Spring Rd Henrico, VA 23294", 
+    "latitude": "37.621791", 
+    "ratings_histogram": [
+        {
+            "5 stars": "1"
+        }, 
+        {
+            "4 stars": "0"
+        }, 
+        {
+            "3 stars": "0"
+        }, 
+        {
+            "2 stars": "0"
+        }, 
+        {
+            "1 star": "2"
+        }
+    ], 
+    "price_range": "Under $10", 
+    "health_rating": "", 
+    "category": "Chinese,Indian"
+}

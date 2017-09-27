@@ -1,0 +1,89 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://www.foodcornerkabobDC.com/", 
+    "working_hours": [], 
+    "name": "Food Corner Kabob House", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/food-corner-kabob-house-washington", 
+    "longitude": "-77.046222", 
+    "reviews": "298 reviews", 
+    "phone": "(202) 331-3777", 
+    "address": "2029 P St NW Washington, DC 20036 b/t N 21st St & N Hopkins St Dupont Circle, Downtown", 
+    "latitude": "38.909828", 
+    "ratings_histogram": [
+        {
+            "5 stars": "142"
+        }, 
+        {
+            "4 stars": "105"
+        }, 
+        {
+            "3 stars": "32"
+        }, 
+        {
+            "2 stars": "10"
+        }, 
+        {
+            "1 star": "9"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Afghan,Mediterranean"
+}

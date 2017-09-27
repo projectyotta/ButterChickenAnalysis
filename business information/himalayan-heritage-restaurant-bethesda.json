@@ -1,0 +1,111 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Good For": "Dinner"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 3:00 pm5:00 pm - 9:30 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 3:00 pm5:00 pm - 9:30 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 3:00 pm5:00 pm - 9:30 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 3:00 pm5:00 pm - 9:30 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 3:00 pm5:00 pm - 10:30 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 3:00 pm5:00 pm - 10:30 pm"
+        }, 
+        {
+            "Sun": "11:00 am - 3:00 pm5:00 pm - 9:30 pm"
+        }, 
+        {
+            "Thu 11/23/2017": "Closed"
+        }
+    ], 
+    "name": "Himalayan Heritage Restaurant", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/himalayan-heritage-restaurant-bethesda", 
+    "longitude": "-77.099386", 
+    "reviews": "144 reviews", 
+    "phone": "(301) 654-1858", 
+    "address": "4925 Bethesda Ave Bethesda, MD 20814", 
+    "latitude": "38.981067", 
+    "ratings_histogram": [
+        {
+            "5 stars": "43"
+        }, 
+        {
+            "4 stars": "57"
+        }, 
+        {
+            "3 stars": "22"
+        }, 
+        {
+            "2 stars": "8"
+        }, 
+        {
+            "1 star": "14"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Himalayan/Nepalese"
+}

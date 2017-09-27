@@ -1,0 +1,114 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Street, Private Lot"
+        }, 
+        {
+            "Bike Parking": "No"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "Beer & Wine Only"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Has Pool Table": "No"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "http://afghankabobdelivery.com", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 3:00 am"
+        }, 
+        {
+            "Tue": "11:00 am - 3:00 am\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 3:00 am"
+        }, 
+        {
+            "Thu": "11:00 am - 3:00 am"
+        }, 
+        {
+            "Fri": "11:00 am - 3:00 am"
+        }, 
+        {
+            "Sat": "11:00 am - 3:00 am"
+        }, 
+        {
+            "Sun": "11:00 am - 3:00 am"
+        }
+    ], 
+    "name": "Afghan Kabob House", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/afghan-kabob-house-arlington", 
+    "longitude": "-77.083903", 
+    "reviews": "419 reviews", 
+    "phone": "(571) 363-2732", 
+    "address": "2045 Wilson Blvd Arlington, VA 22201 Court House", 
+    "latitude": "38.891895", 
+    "ratings_histogram": [
+        {
+            "5 stars": "130"
+        }, 
+        {
+            "4 stars": "142"
+        }, 
+        {
+            "3 stars": "63"
+        }, 
+        {
+            "2 stars": "50"
+        }, 
+        {
+            "1 star": "34"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Afghan,Hookah Bars,Halal"
+}

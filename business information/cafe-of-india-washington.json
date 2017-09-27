@@ -1,0 +1,111 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Bitcoin": "No"
+        }, 
+        {
+            "Good For": "Dinner"
+        }, 
+        {
+            "Parking": "Garage, Street"
+        }, 
+        {
+            "Bike Parking": "No"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "http://cafeofindiadc.com/", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 9:00 pm"
+        }, 
+        {
+            "Tue": "11:30 am - 9:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 9:00 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 9:00 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 10:00 pm"
+        }, 
+        {
+            "Sat": "11:30 am - 10:00 pm"
+        }, 
+        {
+            "Sun": "11:30 am - 9:00 pm"
+        }
+    ], 
+    "name": "Cafe of India", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/cafe-of-india-washington", 
+    "longitude": "-77.081841", 
+    "reviews": "155 reviews", 
+    "phone": "(202) 244-1395", 
+    "address": "4909 Wisconsin Ave NW Washington, DC 20016 b/t N 42nd St & N Ellicott St Tenleytown", 
+    "latitude": "38.953749", 
+    "ratings_histogram": [
+        {
+            "5 stars": "56"
+        }, 
+        {
+            "4 stars": "49"
+        }, 
+        {
+            "3 stars": "21"
+        }, 
+        {
+            "2 stars": "13"
+        }, 
+        {
+            "1 star": "16"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

@@ -1,0 +1,99 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "Yes"
+        }, 
+        {
+            "Bike Parking": "No"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "3.0", 
+    "website": "http://www.4seasonspizzaandsubs.com", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Sun": "12:00 pm - 10:00 pm"
+        }
+    ], 
+    "name": "4 Seasons Pizza & Subs", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/4-seasons-pizza-and-subs-crofton", 
+    "longitude": "-76.701108", 
+    "reviews": "26 reviews", 
+    "phone": "(410) 451-4646", 
+    "address": "2219 Defense Hwy Crofton, MD 21114", 
+    "latitude": "38.991779", 
+    "ratings_histogram": [
+        {
+            "5 stars": "8"
+        }, 
+        {
+            "4 stars": "4"
+        }, 
+        {
+            "3 stars": "4"
+        }, 
+        {
+            "2 stars": "5"
+        }, 
+        {
+            "1 star": "5"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "American (Traditional),Pizza,Indian"
+}

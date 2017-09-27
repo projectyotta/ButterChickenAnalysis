@@ -1,0 +1,44 @@
+{
+    "info": [
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }
+    ], 
+    "ratings": "5.0", 
+    "website": "", 
+    "working_hours": [], 
+    "name": "Spicy Grill Food Truck", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/spicy-grill-food-truck-washington", 
+    "longitude": "-77.036667", 
+    "reviews": "1 review", 
+    "phone": "(301) 642-9419", 
+    "address": "Washington, DC", 
+    "latitude": "38.895000", 
+    "ratings_histogram": [
+        {
+            "5 stars": "1"
+        }, 
+        {
+            "4 stars": "0"
+        }, 
+        {
+            "3 stars": "0"
+        }, 
+        {
+            "2 stars": "0"
+        }, 
+        {
+            "1 star": "0"
+        }
+    ], 
+    "price_range": "", 
+    "health_rating": "", 
+    "category": "Food Trucks,Indian,Asian Fusion"
+}

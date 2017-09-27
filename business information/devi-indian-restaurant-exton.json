@@ -1,0 +1,111 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Gender Neutral Restrooms": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 2:30 pm6:00 pm - 9:30 pm"
+        }, 
+        {
+            "Tue": "11:30 am - 2:30 pm6:00 pm - 9:30 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 2:30 pm6:00 pm - 9:30 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 2:30 pm6:00 pm - 9:30 pm"
+        }, 
+        {
+            "Fri": "6:00 am - 10:30 pm"
+        }, 
+        {
+            "Sat": "6:00 am - 10:30 pm"
+        }, 
+        {
+            "Sun": "12:00 pm - 3:00 pm6:00 pm - 9:00 pm"
+        }
+    ], 
+    "name": "Devi Indian Restaurant", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/devi-indian-restaurant-exton", 
+    "longitude": "-75.631749", 
+    "reviews": "96 reviews", 
+    "phone": "(610) 594-9250", 
+    "address": "151 W Lincoln Hwy Exton, PA 19341", 
+    "latitude": "40.030598", 
+    "ratings_histogram": [
+        {
+            "5 stars": "41"
+        }, 
+        {
+            "4 stars": "30"
+        }, 
+        {
+            "3 stars": "12"
+        }, 
+        {
+            "2 stars": "7"
+        }, 
+        {
+            "1 star": "6"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Buffets,Vegetarian"
+}

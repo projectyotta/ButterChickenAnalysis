@@ -1,0 +1,102 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }
+    ], 
+    "ratings": "4.5", 
+    "website": "http://theroyalkitchen.com", 
+    "working_hours": [
+        {
+            "Mon": "4:00 pm - 9:30 pm"
+        }, 
+        {
+            "Tue": "10:00 am - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "10:00 am - 10:00 pm"
+        }, 
+        {
+            "Thu": "10:00 am - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Sun": "11:00 am - 9:00 pm"
+        }
+    ], 
+    "name": "Royal Kitchen", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/royal-kitchen-cockeysville", 
+    "longitude": "-76.635111", 
+    "reviews": "23 reviews", 
+    "phone": "(410) 667-0570", 
+    "address": "9832 York Rd Cockeysville, MD 21030", 
+    "latitude": "39.459895", 
+    "ratings_histogram": [
+        {
+            "5 stars": "14"
+        }, 
+        {
+            "4 stars": "7"
+        }, 
+        {
+            "3 stars": "0"
+        }, 
+        {
+            "2 stars": "1"
+        }, 
+        {
+            "1 star": "1"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

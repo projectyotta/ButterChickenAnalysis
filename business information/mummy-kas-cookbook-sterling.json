@@ -1,0 +1,56 @@
+{
+    "info": [], 
+    "ratings": "5.0", 
+    "website": "http://mummykacookbook.com/index.html", 
+    "working_hours": [
+        {
+            "Mon": "9:00 am - 5:00 pm"
+        }, 
+        {
+            "Tue": "9:00 am - 5:00 pm\n        \n                Closed now"
+        }, 
+        {
+            "Wed": "9:00 am - 5:00 pm"
+        }, 
+        {
+            "Thu": "9:00 am - 5:00 pm"
+        }, 
+        {
+            "Fri": "9:00 am - 5:00 pm"
+        }, 
+        {
+            "Sat": "10:00 am - 7:00 pm"
+        }, 
+        {
+            "Sun": "Closed"
+        }
+    ], 
+    "name": "Mummy Ka\u2019s Cookbook", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/mummy-kas-cookbook-sterling", 
+    "longitude": "-77.424889", 
+    "reviews": "1 review", 
+    "phone": "(703) 450-3805", 
+    "address": "22181 Stablehouse Dr Sterling, VA 20164", 
+    "latitude": "39.004894", 
+    "ratings_histogram": [
+        {
+            "5 stars": "1"
+        }, 
+        {
+            "4 stars": "0"
+        }, 
+        {
+            "3 stars": "0"
+        }, 
+        {
+            "2 stars": "0"
+        }, 
+        {
+            "1 star": "0"
+        }
+    ], 
+    "price_range": "", 
+    "health_rating": "", 
+    "category": "Indian"
+}

@@ -1,0 +1,114 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Wheelchair Accessible": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://www.londoncurryhouse.com", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 2:30 pm4:30 pm - 10:00 pm"
+        }, 
+        {
+            "Tue": "11:30 am - 2:30 pm4:30 pm - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 2:30 pm4:30 pm - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 2:30 pm4:30 pm - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 2:30 pm4:30 pm - 10:00 pm"
+        }, 
+        {
+            "Sat": "12:00 pm - 3:00 pm4:30 pm - 10:00 pm"
+        }, 
+        {
+            "Sun": "12:00 pm - 3:00 pm4:30 pm - 10:00 pm"
+        }
+    ], 
+    "name": "London Curry House", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/london-curry-house-alexandria", 
+    "longitude": "-77.116616", 
+    "reviews": "233 reviews", 
+    "phone": "(703) 419-3160", 
+    "address": "191 Somervelle St Alexandria, VA 22304", 
+    "latitude": "38.808663", 
+    "ratings_histogram": [
+        {
+            "5 stars": "97"
+        }, 
+        {
+            "4 stars": "59"
+        }, 
+        {
+            "3 stars": "32"
+        }, 
+        {
+            "2 stars": "21"
+        }, 
+        {
+            "1 star": "24"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

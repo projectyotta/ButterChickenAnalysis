@@ -1,0 +1,108 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "No"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://www.mumbaibistro.com", 
+    "working_hours": [
+        {
+            "Mon": "Closed"
+        }, 
+        {
+            "Tue": "11:30 am - 9:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 9:00 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 9:00 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 9:00 pm"
+        }, 
+        {
+            "Sat": "11:30 am - 9:00 pm"
+        }, 
+        {
+            "Sun": "11:30 am - 9:00 pm"
+        }
+    ], 
+    "name": "Mumbai Bistro", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/mumbai-bistro-philadelphia", 
+    "longitude": "-75.157264", 
+    "reviews": "190 reviews", 
+    "phone": "(215) 418-0444", 
+    "address": "930 Locust St Philadelphia, PA 19107 Washington Square West", 
+    "latitude": "39.947207", 
+    "ratings_histogram": [
+        {
+            "5 stars": "52"
+        }, 
+        {
+            "4 stars": "88"
+        }, 
+        {
+            "3 stars": "29"
+        }, 
+        {
+            "2 stars": "15"
+        }, 
+        {
+            "1 star": "6"
+        }
+    ], 
+    "price_range": "Under $10", 
+    "health_rating": "", 
+    "category": "Indian"
+}

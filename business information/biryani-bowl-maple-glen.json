@@ -1,0 +1,102 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "Beer & Wine Only"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.5", 
+    "website": "http://biryanibowlpa.com", 
+    "working_hours": [
+        {
+            "Mon": "Closed"
+        }, 
+        {
+            "Tue": "11:30 am - 9:30 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 9:30 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 9:30 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 10:00 pm"
+        }, 
+        {
+            "Sat": "11:30 am - 10:00 pm"
+        }, 
+        {
+            "Sun": "11:30 am - 10:00 pm"
+        }
+    ], 
+    "name": "Biryani Bowl", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/biryani-bowl-maple-glen", 
+    "longitude": "-75.180827", 
+    "reviews": "18 reviews", 
+    "phone": "(267) 705-2296", 
+    "address": "1967 Norristown Rd Maple Glen, PA 19002", 
+    "latitude": "40.178369", 
+    "ratings_histogram": [
+        {
+            "5 stars": "12"
+        }, 
+        {
+            "4 stars": "4"
+        }, 
+        {
+            "3 stars": "0"
+        }, 
+        {
+            "2 stars": "0"
+        }, 
+        {
+            "1 star": "2"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

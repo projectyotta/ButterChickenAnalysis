@@ -1,0 +1,93 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "http://the-treat.com", 
+    "working_hours": [
+        {
+            "Mon": "10:00 am - 10:00 pm"
+        }, 
+        {
+            "Tue": "10:00 am - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "10:00 am - 10:00 pm"
+        }, 
+        {
+            "Thu": "10:00 am - 10:00 pm"
+        }, 
+        {
+            "Fri": "10:00 am - 10:00 pm"
+        }, 
+        {
+            "Sat": "10:00 am - 10:00 pm"
+        }, 
+        {
+            "Sun": "10:00 am - 10:00 pm"
+        }
+    ], 
+    "name": "The Treat", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/the-treat-glen-burnie-4", 
+    "longitude": "-76.630476", 
+    "reviews": "29 reviews", 
+    "phone": "(410) 863-0333", 
+    "address": "12 Aquahart Rd Glen Burnie, MD 21061", 
+    "latitude": "39.152786", 
+    "ratings_histogram": [
+        {
+            "5 stars": "10"
+        }, 
+        {
+            "4 stars": "8"
+        }, 
+        {
+            "3 stars": "1"
+        }, 
+        {
+            "2 stars": "4"
+        }, 
+        {
+            "1 star": "6"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Italian,Sandwiches,Indian"
+}

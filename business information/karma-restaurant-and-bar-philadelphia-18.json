@@ -1,0 +1,120 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Wheelchair Accessible": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Gender Neutral Restrooms": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 10:00 pm"
+        }, 
+        {
+            "Tue": "11:30 am - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 11:00 pm"
+        }, 
+        {
+            "Sat": "11:30 am - 11:00 pm"
+        }, 
+        {
+            "Sun": "11:30 am - 11:00 pm"
+        }
+    ], 
+    "name": "Karma Restaurant & Bar", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/karma-restaurant-and-bar-philadelphia-18", 
+    "longitude": "-75.145526", 
+    "reviews": "320 reviews", 
+    "phone": "(215) 925-1444", 
+    "address": "246 Market St Philadelphia, PA 19106 Old City", 
+    "latitude": "39.949861", 
+    "ratings_histogram": [
+        {
+            "5 stars": "143"
+        }, 
+        {
+            "4 stars": "108"
+        }, 
+        {
+            "3 stars": "33"
+        }, 
+        {
+            "2 stars": "17"
+        }, 
+        {
+            "1 star": "19"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

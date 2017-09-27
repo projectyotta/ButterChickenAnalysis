@@ -1,0 +1,78 @@
+{
+    "info": [
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "No"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 9:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 9:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 9:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 9:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 9:00 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 9:00 pm"
+        }, 
+        {
+            "Sun": "11:00 am - 8:00 pm"
+        }
+    ], 
+    "name": "United Desi Market", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/united-desi-market-silver-spring", 
+    "longitude": "-77.025672", 
+    "reviews": "5 reviews", 
+    "phone": "(301) 589-0216", 
+    "address": "946 Wayne Ave Silver Spring, MD 20910", 
+    "latitude": "38.994403", 
+    "ratings_histogram": [
+        {
+            "5 stars": "4"
+        }, 
+        {
+            "4 stars": "0"
+        }, 
+        {
+            "3 stars": "0"
+        }, 
+        {
+            "2 stars": "0"
+        }, 
+        {
+            "1 star": "1"
+        }
+    ], 
+    "price_range": "Under $10", 
+    "health_rating": "", 
+    "category": "International Grocery,Halal"
+}

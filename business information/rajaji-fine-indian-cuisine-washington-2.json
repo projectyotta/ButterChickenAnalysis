@@ -1,0 +1,114 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Good For": "Dinner"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Gender Neutral Restrooms": "Yes"
+        }
+    ], 
+    "ratings": "3.0", 
+    "website": "http://www.therajaji.com/", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 2:30 pm5:00 pm - 11:00 pm"
+        }, 
+        {
+            "Tue": "11:30 am - 2:30 pm5:00 pm - 11:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 2:30 pm5:00 pm - 11:00 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 2:30 pm5:00 pm - 11:00 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 2:30 pm5:00 pm - 11:00 pm"
+        }, 
+        {
+            "Sat": "11:30 am - 2:30 pm5:00 pm - 11:00 pm"
+        }, 
+        {
+            "Sun": "11:30 am - 2:30 pm5:00 pm - 11:00 pm"
+        }
+    ], 
+    "name": "Rajaji Fine Indian Cuisine", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/rajaji-fine-indian-cuisine-washington-2", 
+    "longitude": "-77.051238", 
+    "reviews": "193 reviews", 
+    "phone": "(202) 265-7344", 
+    "address": "2603 Connecticut Ave NW Washington, DC 20008 Woodley Park", 
+    "latitude": "38.923946", 
+    "ratings_histogram": [
+        {
+            "5 stars": "43"
+        }, 
+        {
+            "4 stars": "54"
+        }, 
+        {
+            "3 stars": "23"
+        }, 
+        {
+            "2 stars": "28"
+        }, 
+        {
+            "1 star": "45"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

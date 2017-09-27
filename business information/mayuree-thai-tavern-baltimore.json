@@ -1,0 +1,132 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Good For": "Dinner, Dessert"
+        }, 
+        {
+            "Parking": "Street, Private Lot"
+        }, 
+        {
+            "Bike Parking": "No"
+        }, 
+        {
+            "Wheelchair Accessible": "No"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Music": "Background"
+        }, 
+        {
+            "Good For Dancing": "No"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Happy Hour": "Yes"
+        }, 
+        {
+            "Coat Check": "No"
+        }, 
+        {
+            "Smoking": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Has Pool Table": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://mayureethai.com", 
+    "working_hours": [
+        {
+            "Mon": "Closed"
+        }, 
+        {
+            "Tue": "11:00 am - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Sat": "12:00 pm - 10:00 pm"
+        }, 
+        {
+            "Sun": "12:00 pm - 10:00 pm"
+        }
+    ], 
+    "name": "Mayuree Thai Tavern", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/mayuree-thai-tavern-baltimore", 
+    "longitude": "-76.583653", 
+    "reviews": "158 reviews", 
+    "phone": "(667) 212-5509", 
+    "address": "2318 Fleet St Baltimore, MD 21224 Canton", 
+    "latitude": "39.285106", 
+    "ratings_histogram": [
+        {
+            "5 stars": "93"
+        }, 
+        {
+            "4 stars": "34"
+        }, 
+        {
+            "3 stars": "14"
+        }, 
+        {
+            "2 stars": "5"
+        }, 
+        {
+            "1 star": "12"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Thai,Vegetarian,Bars"
+}

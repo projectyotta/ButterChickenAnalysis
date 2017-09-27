@@ -1,0 +1,114 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Bitcoin": "No"
+        }, 
+        {
+            "Good For": "Dinner"
+        }, 
+        {
+            "Parking": "Garage, Street"
+        }, 
+        {
+            "Bike Parking": "No"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Gender Neutral Restrooms": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://lemirch.com", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 2:00 pm5:00 pm - 9:30 pm"
+        }, 
+        {
+            "Tue": "11:30 am - 2:00 pm5:00 pm - 9:30 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 2:00 pm5:00 pm - 9:30 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 2:00 pm5:00 pm - 9:30 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 2:00 pm5:00 pm - 9:30 pm"
+        }, 
+        {
+            "Sat": "5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Sun": "5:00 pm - 9:00 pm"
+        }
+    ], 
+    "name": "Le Mirch", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/le-mirch-washington-dc", 
+    "longitude": "-77.046171", 
+    "reviews": "284 reviews", 
+    "phone": "(202) 629-3577", 
+    "address": "1736 Connecticut Ave NW Washington DC, DC 20009 b/t N R St & N S St", 
+    "latitude": "38.913702", 
+    "ratings_histogram": [
+        {
+            "5 stars": "116"
+        }, 
+        {
+            "4 stars": "105"
+        }, 
+        {
+            "3 stars": "35"
+        }, 
+        {
+            "2 stars": "12"
+        }, 
+        {
+            "1 star": "16"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

@@ -1,0 +1,111 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://www.memsahibrestaurant.com", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 2:30 pm"
+        }, 
+        {
+            "Tue": "11:30 am - 2:30 pm6:00 pm - 8:00 pm\n        \n                Closed now"
+        }, 
+        {
+            "Wed": "11:30 am - 2:30 pm6:00 pm - 8:00 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 2:30 pm6:00 pm - 8:00 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 2:30 pm6:00 pm - 8:00 pm"
+        }, 
+        {
+            "Sat": "6:00 pm - 8:00 pm"
+        }, 
+        {
+            "Sun": "Closed"
+        }
+    ], 
+    "name": "Mem Sahib Indian Restaurant", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/mem-sahib-indian-restaurant-baltimore", 
+    "longitude": "-76.621883", 
+    "reviews": "63 reviews", 
+    "phone": "(410) 576-7777", 
+    "address": "400 W Lexington St Baltimore, MD 21201 Downtown", 
+    "latitude": "39.291510", 
+    "ratings_histogram": [
+        {
+            "5 stars": "22"
+        }, 
+        {
+            "4 stars": "28"
+        }, 
+        {
+            "3 stars": "8"
+        }, 
+        {
+            "2 stars": "4"
+        }, 
+        {
+            "1 star": "1"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Breakfast & Brunch,Cocktail Bars"
+}

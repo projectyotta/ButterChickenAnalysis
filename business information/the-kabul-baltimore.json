@@ -1,0 +1,111 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Bike Parking": "No"
+        }, 
+        {
+            "Wheelchair Accessible": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Waiter Service": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "5.0", 
+    "website": "http://thekabulgrill.com", 
+    "working_hours": [
+        {
+            "Mon": "10:30 am - 9:30 pm"
+        }, 
+        {
+            "Tue": "10:30 am - 9:30 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "10:30 am - 9:30 pm"
+        }, 
+        {
+            "Thu": "10:30 am - 9:30 pm"
+        }, 
+        {
+            "Fri": "10:30 am - 10:00 pm"
+        }, 
+        {
+            "Sat": "11:30 am - 10:00 pm"
+        }, 
+        {
+            "Sun": "11:30 am - 10:00 pm"
+        }
+    ], 
+    "name": "The Kabul", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/the-kabul-baltimore", 
+    "longitude": "-76.606136", 
+    "reviews": "20 reviews", 
+    "phone": "(667) 212-3303", 
+    "address": "55 Market Pl Ste 5505 Baltimore, MD 21202 Downtown", 
+    "latitude": "39.288403", 
+    "ratings_histogram": [
+        {
+            "5 stars": "18"
+        }, 
+        {
+            "4 stars": "0"
+        }, 
+        {
+            "3 stars": "1"
+        }, 
+        {
+            "2 stars": "1"
+        }, 
+        {
+            "1 star": "0"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Afghan,Halal"
+}

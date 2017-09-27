@@ -1,0 +1,66 @@
+{
+    "info": [
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }
+    ], 
+    "ratings": "3.0", 
+    "website": "http://www.chopaankabob.com/", 
+    "working_hours": [
+        {
+            "Mon": "12:00 pm - 8:00 pm"
+        }, 
+        {
+            "Tue": "12:00 pm - 8:00 pm\n        \n                Closed now"
+        }, 
+        {
+            "Wed": "12:00 pm - 8:00 pm"
+        }, 
+        {
+            "Thu": "12:00 pm - 8:00 pm"
+        }, 
+        {
+            "Fri": "12:00 pm - 9:00 pm"
+        }, 
+        {
+            "Sat": "12:00 pm - 9:00 pm"
+        }, 
+        {
+            "Sun": "12:00 pm - 8:00 pm"
+        }
+    ], 
+    "name": "Kabob Place", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/kabob-place-baltimore", 
+    "longitude": "-76.615988", 
+    "reviews": "3 reviews", 
+    "phone": "(410) 528-8401", 
+    "address": "1301 N Charles St Baltimore, MD 21201 Midtown Belvedere", 
+    "latitude": "39.304724", 
+    "ratings_histogram": [
+        {
+            "5 stars": "0"
+        }, 
+        {
+            "4 stars": "2"
+        }, 
+        {
+            "3 stars": "0"
+        }, 
+        {
+            "2 stars": "0"
+        }, 
+        {
+            "1 star": "1"
+        }
+    ], 
+    "price_range": "Under $10", 
+    "health_rating": "", 
+    "category": "Indian"
+}

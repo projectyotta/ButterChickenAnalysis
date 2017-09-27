@@ -1,0 +1,72 @@
+{
+    "info": [
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }
+    ], 
+    "ratings": "4.5", 
+    "website": "http://www.caribcres.com/", 
+    "working_hours": [
+        {
+            "Mon": "7:00 am - 3:30 pm"
+        }, 
+        {
+            "Tue": "7:00 am - 3:30 pm\n        \n                Closed now"
+        }, 
+        {
+            "Wed": "7:00 am - 3:30 pm"
+        }, 
+        {
+            "Thu": "7:00 am - 3:30 pm"
+        }, 
+        {
+            "Fri": "7:00 am - 3:30 pm"
+        }, 
+        {
+            "Sat": "8:00 am - 4:30 pm"
+        }, 
+        {
+            "Sun": "Closed"
+        }
+    ], 
+    "name": "Caribbean Crescent", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/caribbean-crescent-washington", 
+    "longitude": "-76.998627", 
+    "reviews": "9 reviews", 
+    "phone": "(202) 547-3101", 
+    "address": "1280 5th St NE Washington, DC 20002 b/t N Neal Pl & N Morse St", 
+    "latitude": "38.908439", 
+    "ratings_histogram": [
+        {
+            "5 stars": "6"
+        }, 
+        {
+            "4 stars": "3"
+        }, 
+        {
+            "3 stars": "0"
+        }, 
+        {
+            "2 stars": "0"
+        }, 
+        {
+            "1 star": "0"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Grocery,Wholesale Stores,Halal"
+}

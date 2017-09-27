@@ -1,0 +1,111 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "http://www.rajputonline.com/norfolk/", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 2:30 pm4:30 pm - 10:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 2:30 pm4:30 pm - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 2:30 pm4:30 pm - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 2:30 pm4:30 pm - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 2:30 pm4:30 pm - 10:30 pm"
+        }, 
+        {
+            "Sat": "11:30 am - 3:00 pm4:30 pm - 10:30 pm"
+        }, 
+        {
+            "Sun": "11:30 am - 3:00 pm4:30 pm - 10:00 pm"
+        }
+    ], 
+    "name": "Rajput Indian Cuisine", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/rajput-indian-cuisine-norfolk-3", 
+    "longitude": "-76.295460", 
+    "reviews": "190 reviews", 
+    "phone": "(757) 625-4634", 
+    "address": "742 W 21st St Norfolk, VA 23517", 
+    "latitude": "36.870624", 
+    "ratings_histogram": [
+        {
+            "5 stars": "62"
+        }, 
+        {
+            "4 stars": "62"
+        }, 
+        {
+            "3 stars": "30"
+        }, 
+        {
+            "2 stars": "17"
+        }, 
+        {
+            "1 star": "19"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

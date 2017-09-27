@@ -1,0 +1,111 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 3:00 pm4:30 pm - 9:00 pm"
+        }, 
+        {
+            "Tue": "11:30 am - 3:00 pm4:30 pm - 9:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 3:00 pm4:30 pm - 9:00 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 3:00 pm4:30 pm - 9:00 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 3:00 pm4:30 pm - 10:00 pm"
+        }, 
+        {
+            "Sat": "11:30 am - 3:00 pm4:30 pm - 10:00 pm"
+        }, 
+        {
+            "Sun": "11:30 am - 3:00 pm4:30 pm - 9:00 pm"
+        }
+    ], 
+    "name": "Tandoor Grill", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/tandoor-grill-laurel", 
+    "longitude": "-76.892003", 
+    "reviews": "80 reviews", 
+    "phone": "(301) 362-4222", 
+    "address": "7500 Montpelier Rd Laurel, MD 20723", 
+    "latitude": "39.160565", 
+    "ratings_histogram": [
+        {
+            "5 stars": "28"
+        }, 
+        {
+            "4 stars": "29"
+        }, 
+        {
+            "3 stars": "14"
+        }, 
+        {
+            "2 stars": "7"
+        }, 
+        {
+            "1 star": "2"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Kebab"
+}

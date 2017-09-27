@@ -1,0 +1,108 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "No"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Classy"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://www.helmand.com/", 
+    "working_hours": [
+        {
+            "Mon": "5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Tue": "5:00 pm - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Thu": "5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Fri": "5:00 pm - 11:00 pm"
+        }, 
+        {
+            "Sat": "5:00 pm - 11:00 pm"
+        }, 
+        {
+            "Sun": "5:00 pm - 10:00 pm"
+        }
+    ], 
+    "name": "The Helmand", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/the-helmand-baltimore-2", 
+    "longitude": "-76.615911", 
+    "reviews": "522 reviews", 
+    "phone": "(410) 752-0311", 
+    "address": "806 N Charles St Baltimore, MD 21201 Mount Vernon", 
+    "latitude": "39.299059", 
+    "ratings_histogram": [
+        {
+            "5 stars": "217"
+        }, 
+        {
+            "4 stars": "204"
+        }, 
+        {
+            "3 stars": "51"
+        }, 
+        {
+            "2 stars": "36"
+        }, 
+        {
+            "1 star": "14"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Afghan,Vegetarian,Middle Eastern"
+}

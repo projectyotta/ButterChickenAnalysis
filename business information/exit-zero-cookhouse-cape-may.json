@@ -1,0 +1,129 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Android Pay": "No"
+        }, 
+        {
+            "Accepts Bitcoin": "No"
+        }, 
+        {
+            "Good For": "Dinner, Dessert"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Wheelchair Accessible": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Dogs Allowed": "No"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }, 
+        {
+            "Caters": "No"
+        }, 
+        {
+            "Gender Neutral Restrooms": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://exitzero.us/ez-cookhouse/", 
+    "working_hours": [
+        {
+            "Mon": "4:30 pm - 9:00 pm"
+        }, 
+        {
+            "Tue": "4:30 pm - 9:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "Closed"
+        }, 
+        {
+            "Thu": "4:30 pm - 9:00 pm"
+        }, 
+        {
+            "Fri": "4:30 pm - 9:00 pm"
+        }, 
+        {
+            "Sat": "4:30 pm - 9:00 pm"
+        }, 
+        {
+            "Sun": "4:30 pm - 9:00 pm"
+        }
+    ], 
+    "name": "Exit Zero Cookhouse", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/exit-zero-cookhouse-cape-may", 
+    "longitude": "-74.932129", 
+    "reviews": "75 reviews", 
+    "phone": "(609) 305-5203", 
+    "address": "109 Sunset Blvd Cape May, NJ 08204", 
+    "latitude": "38.935741", 
+    "ratings_histogram": [
+        {
+            "5 stars": "37"
+        }, 
+        {
+            "4 stars": "22"
+        }, 
+        {
+            "3 stars": "7"
+        }, 
+        {
+            "2 stars": "8"
+        }, 
+        {
+            "1 star": "1"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "American (New),Indian,Thai"
+}

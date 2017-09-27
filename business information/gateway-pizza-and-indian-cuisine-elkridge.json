@@ -1,0 +1,114 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "Yes"
+        }, 
+        {
+            "Accepts Android Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "http://gatewaypizzeria.net", 
+    "working_hours": [
+        {
+            "Mon": "10:30 am - 10:30 pm"
+        }, 
+        {
+            "Tue": "10:30 am - 10:30 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "10:30 am - 10:30 pm"
+        }, 
+        {
+            "Thu": "10:30 am - 10:30 pm"
+        }, 
+        {
+            "Fri": "10:30 am - 11:00 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Sun": "11:00 am - 10:00 pm"
+        }
+    ], 
+    "name": "Gateway Pizza & Indian Cuisine", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/gateway-pizza-and-indian-cuisine-elkridge", 
+    "longitude": "-76.793406", 
+    "reviews": "144 reviews", 
+    "phone": "(410) 799-0333", 
+    "address": "6520 Old Waterloo Rd Elkridge, MD 21075", 
+    "latitude": "39.191670", 
+    "ratings_histogram": [
+        {
+            "5 stars": "50"
+        }, 
+        {
+            "4 stars": "50"
+        }, 
+        {
+            "3 stars": "13"
+        }, 
+        {
+            "2 stars": "8"
+        }, 
+        {
+            "1 star": "23"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Pizza"
+}

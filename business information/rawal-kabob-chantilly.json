@@ -1,0 +1,83 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "3.0", 
+    "website": "", 
+    "working_hours": [], 
+    "name": "Rawal Kabob", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/rawal-kabob-chantilly", 
+    "longitude": "-77.449607", 
+    "reviews": "49 reviews", 
+    "phone": "(703) 803-0400", 
+    "address": "14513 Lee Jackson Mmrl Hwy Chantilly, VA 20151", 
+    "latitude": "38.900855", 
+    "ratings_histogram": [
+        {
+            "5 stars": "7"
+        }, 
+        {
+            "4 stars": "18"
+        }, 
+        {
+            "3 stars": "10"
+        }, 
+        {
+            "2 stars": "5"
+        }, 
+        {
+            "1 star": "9"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Halal,Indian,Pakistani"
+}

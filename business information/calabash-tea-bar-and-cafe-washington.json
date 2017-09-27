@@ -1,0 +1,126 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "Yes"
+        }, 
+        {
+            "Accepts Android Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch"
+        }, 
+        {
+            "Parking": "Garage, Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Wheelchair Accessible": "Yes"
+        }, 
+        {
+            "Good for Kids": "No"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Intimate"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Waiter Service": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Good for Working": "Yes"
+        }, 
+        {
+            "Gender Neutral Restrooms": "Yes"
+        }
+    ], 
+    "ratings": "5.0", 
+    "website": "http://calabashdc.com/", 
+    "working_hours": [
+        {
+            "Mon": "9:00 am - 8:00 pm"
+        }, 
+        {
+            "Tue": "9:00 am - 8:00 pm\n        \n                Closed now"
+        }, 
+        {
+            "Wed": "9:00 am - 8:00 pm"
+        }, 
+        {
+            "Thu": "9:00 am - 8:00 pm"
+        }, 
+        {
+            "Fri": "9:00 am - 8:00 pm"
+        }, 
+        {
+            "Sat": "9:00 am - 8:00 pm"
+        }, 
+        {
+            "Sun": "9:00 am - 8:00 pm"
+        }
+    ], 
+    "name": "Calabash Tea Bar & Cafe", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/calabash-tea-bar-and-cafe-washington", 
+    "longitude": "-77.021768", 
+    "reviews": "215 reviews", 
+    "phone": "(202) 525-5386", 
+    "address": "1847 7th St NW Washington, DC 20001 b/t N S St & N T St Shaw", 
+    "latitude": "38.915244", 
+    "ratings_histogram": [
+        {
+            "5 stars": "186"
+        }, 
+        {
+            "4 stars": "17"
+        }, 
+        {
+            "3 stars": "6"
+        }, 
+        {
+            "2 stars": "2"
+        }, 
+        {
+            "1 star": "4"
+        }
+    ], 
+    "price_range": "Under $10", 
+    "health_rating": "", 
+    "category": "Coffee & Tea,Vegetarian,Cafes"
+}

@@ -1,0 +1,34 @@
+{
+    "info": [], 
+    "ratings": 0, 
+    "website": "", 
+    "working_hours": [], 
+    "name": "Rasa Indian Grill", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/rasa-indian-grill-washington", 
+    "longitude": "-77.005901", 
+    "reviews": "", 
+    "phone": "", 
+    "address": "1277 First St SE Washington, DC 20003 Navy Yard", 
+    "latitude": "38.875577", 
+    "ratings_histogram": [
+        {
+            "5 stars": "0"
+        }, 
+        {
+            "4 stars": "0"
+        }, 
+        {
+            "3 stars": "0"
+        }, 
+        {
+            "2 stars": "0"
+        }, 
+        {
+            "1 star": "0"
+        }
+    ], 
+    "price_range": "", 
+    "health_rating": "", 
+    "category": "Indian"
+}

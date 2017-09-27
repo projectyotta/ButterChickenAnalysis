@@ -1,0 +1,135 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Private Lot, Validated"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Wheelchair Accessible": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual, Intimate"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Music": "DJ, Live"
+        }, 
+        {
+            "Good For Dancing": "No"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Happy Hour": "Yes"
+        }, 
+        {
+            "Coat Check": "No"
+        }, 
+        {
+            "Smoking": "Outdoor Area / Patio Only"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Dogs Allowed": "No"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Has Pool Table": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://www.tasteoftaj.com/wp/", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 2:30 pm4:00 pm - 9:30 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 2:30 pm4:00 pm - 9:30 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 2:30 pm4:00 pm - 9:30 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 2:30 pm4:00 pm - 9:30 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 2:30 pm4:00 pm - 10:00 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 2:30 pm4:00 pm - 10:00 pm"
+        }, 
+        {
+            "Sun": "11:00 am - 2:30 pm4:00 pm - 9:30 pm"
+        }
+    ], 
+    "name": "Taste of Taj", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/taste-of-taj-perry-hall-3", 
+    "longitude": "-76.457571", 
+    "reviews": "76 reviews", 
+    "phone": "(410) 609-7662", 
+    "address": "9810 Belair Rd Ste H Perry Hall, MD 21128", 
+    "latitude": "39.419099", 
+    "ratings_histogram": [
+        {
+            "5 stars": "43"
+        }, 
+        {
+            "4 stars": "18"
+        }, 
+        {
+            "3 stars": "6"
+        }, 
+        {
+            "2 stars": "5"
+        }, 
+        {
+            "1 star": "4"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Bars,Seafood"
+}

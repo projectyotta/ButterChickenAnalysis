@@ -1,0 +1,111 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "No"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Android Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "No"
+        }
+    ], 
+    "ratings": "4.5", 
+    "website": "", 
+    "working_hours": [
+        {
+            "Mon": "10:00 am - 4:00 pm"
+        }, 
+        {
+            "Tue": "10:00 am - 4:00 pm\n        \n                Closed now"
+        }, 
+        {
+            "Wed": "10:00 am - 4:00 pm"
+        }, 
+        {
+            "Thu": "10:00 am - 4:00 pm"
+        }, 
+        {
+            "Fri": "10:00 am - 4:00 pm"
+        }, 
+        {
+            "Sat": "Closed"
+        }, 
+        {
+            "Sun": "Closed"
+        }
+    ], 
+    "name": "Metro Halal Food Cart", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/metro-halal-food-cart-arlington-2", 
+    "longitude": "-77.110962", 
+    "reviews": "98 reviews", 
+    "phone": "(703) 624-0212", 
+    "address": "4201 Wilson Blvd Arlington, VA 22203 Ballston", 
+    "latitude": "38.880540", 
+    "ratings_histogram": [
+        {
+            "5 stars": "58"
+        }, 
+        {
+            "4 stars": "33"
+        }, 
+        {
+            "3 stars": "5"
+        }, 
+        {
+            "2 stars": "1"
+        }, 
+        {
+            "1 star": "1"
+        }
+    ], 
+    "price_range": "Under $10", 
+    "health_rating": "", 
+    "category": "Halal,Pakistani,Food Stands"
+}

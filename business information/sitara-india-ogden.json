@@ -1,0 +1,114 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "Beer & Wine Only"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://sitaraindia.com/ogden.html", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 9:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 9:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 9:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 9:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 9:00 pm"
+        }, 
+        {
+            "Sat": "12:00 pm - 9:00 pm"
+        }, 
+        {
+            "Sun": "4:00 pm - 8:00 pm"
+        }
+    ], 
+    "name": "Sitara India", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/sitara-india-ogden", 
+    "longitude": "-111.949748", 
+    "reviews": "71 reviews", 
+    "phone": "(801) 621-2455", 
+    "address": "3585 Harrison Blvd Ste 214 Ogden, UT 84403", 
+    "latitude": "41.198116", 
+    "ratings_histogram": [
+        {
+            "5 stars": "29"
+        }, 
+        {
+            "4 stars": "20"
+        }, 
+        {
+            "3 stars": "9"
+        }, 
+        {
+            "2 stars": "5"
+        }, 
+        {
+            "1 star": "8"
+        }
+    ], 
+    "price_range": "Under $10", 
+    "health_rating": "", 
+    "category": "Indian,Chinese,Seafood"
+}

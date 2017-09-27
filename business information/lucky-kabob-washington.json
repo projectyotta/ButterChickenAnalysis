@@ -1,0 +1,87 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Good for Groups": "No"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "", 
+    "working_hours": [
+        {
+            "Mon": "8:00 am - 10:00 pm"
+        }, 
+        {
+            "Tue": "8:00 am - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "8:00 am - 10:00 pm"
+        }, 
+        {
+            "Thu": "8:00 am - 10:00 pm"
+        }, 
+        {
+            "Fri": "8:00 am - 10:00 pm"
+        }, 
+        {
+            "Sat": "10:00 am - 10:00 pm"
+        }, 
+        {
+            "Sun": "10:00 am - 8:00 pm"
+        }
+    ], 
+    "name": "Lucky Kabob", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/lucky-kabob-washington", 
+    "longitude": "-77.011843", 
+    "reviews": "18 reviews", 
+    "phone": "", 
+    "address": "1548 First St SW Washington, DC 20024", 
+    "latitude": "38.870962", 
+    "ratings_histogram": [
+        {
+            "5 stars": "4"
+        }, 
+        {
+            "4 stars": "6"
+        }, 
+        {
+            "3 stars": "5"
+        }, 
+        {
+            "2 stars": "2"
+        }, 
+        {
+            "1 star": "1"
+        }
+    ], 
+    "price_range": "Under $10", 
+    "health_rating": "", 
+    "category": "Indian"
+}

@@ -1,0 +1,123 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Android Pay": "No"
+        }, 
+        {
+            "Accepts Bitcoin": "No"
+        }, 
+        {
+            "Good For": "Lunch"
+        }, 
+        {
+            "Parking": "Street, Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Wheelchair Accessible": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Noise Level": "Loud"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Dogs Allowed": "Yes"
+        }, 
+        {
+            "Waiter Service": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "http://www.dcdosa.com", 
+    "working_hours": [
+        {
+            "Mon": "Closed"
+        }, 
+        {
+            "Tue": "11:00 am - 8:00 pm\n        \n                Closed now"
+        }, 
+        {
+            "Wed": "11:00 am - 8:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 8:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 8:00 pm"
+        }, 
+        {
+            "Sat": "10:00 am - 7:30 pm"
+        }, 
+        {
+            "Sun": "10:00 am - 7:30 pm"
+        }
+    ], 
+    "name": "DC Dosa", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/dc-dosa-washington-3", 
+    "longitude": "-76.997360", 
+    "reviews": "67 reviews", 
+    "phone": "", 
+    "address": "1309 5th St NE Washington, DC 20002 b/t N Penn St & N Neal Pl", 
+    "latitude": "38.908561", 
+    "ratings_histogram": [
+        {
+            "5 stars": "25"
+        }, 
+        {
+            "4 stars": "12"
+        }, 
+        {
+            "3 stars": "14"
+        }, 
+        {
+            "2 stars": "6"
+        }, 
+        {
+            "1 star": "10"
+        }
+    ], 
+    "price_range": "Under $10", 
+    "health_rating": "", 
+    "category": "Vegan,Gluten-Free,Indian"
+}

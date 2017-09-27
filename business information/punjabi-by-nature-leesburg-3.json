@@ -1,0 +1,114 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Android Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch"
+        }, 
+        {
+            "Bike Parking": "No"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "Beer & Wine Only"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Waiter Service": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "http://punjabibynature.us", 
+    "working_hours": [
+        {
+            "Mon": "10:00 am - 10:00 pm"
+        }, 
+        {
+            "Tue": "10:00 am - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "10:00 am - 10:00 pm"
+        }, 
+        {
+            "Thu": "10:00 am - 10:00 pm"
+        }, 
+        {
+            "Fri": "10:00 am - 11:00 pm"
+        }, 
+        {
+            "Sat": "10:00 am - 11:00 pm"
+        }, 
+        {
+            "Sun": "10:00 am - 10:00 pm"
+        }
+    ], 
+    "name": "Punjabi By Nature", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/punjabi-by-nature-leesburg-3", 
+    "longitude": "-77.493716", 
+    "reviews": "99 reviews", 
+    "phone": "(571) 333-3300", 
+    "address": "19405 Promenade Dr Leesburg, VA 20176", 
+    "latitude": "39.080299", 
+    "ratings_histogram": [
+        {
+            "5 stars": "40"
+        }, 
+        {
+            "4 stars": "18"
+        }, 
+        {
+            "3 stars": "14"
+        }, 
+        {
+            "2 stars": "14"
+        }, 
+        {
+            "1 star": "13"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

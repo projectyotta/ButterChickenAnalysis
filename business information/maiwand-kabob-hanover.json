@@ -1,0 +1,114 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Wheelchair Accessible": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://www.maiwandkabob.com", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 10:30 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 10:30 pm"
+        }, 
+        {
+            "Sun": "12:00 pm - 9:30 pm"
+        }
+    ], 
+    "name": "Maiwand Kabob", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/maiwand-kabob-hanover", 
+    "longitude": "-76.742530", 
+    "reviews": "263 reviews", 
+    "phone": "(443) 755-0461", 
+    "address": "7698 Dorchester Blvd Hanover, MD 21076", 
+    "latitude": "39.154576", 
+    "ratings_histogram": [
+        {
+            "5 stars": "97"
+        }, 
+        {
+            "4 stars": "105"
+        }, 
+        {
+            "3 stars": "38"
+        }, 
+        {
+            "2 stars": "11"
+        }, 
+        {
+            "1 star": "12"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Afghan,Halal"
+}

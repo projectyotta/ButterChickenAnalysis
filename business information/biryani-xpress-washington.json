@@ -1,0 +1,93 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "No"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }
+    ], 
+    "ratings": "1.5", 
+    "website": "", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 3:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 3:00 pm\n        \n                Closed now"
+        }, 
+        {
+            "Wed": "11:00 am - 3:00 pm"
+        }, 
+        {
+            "Thu": "5:00 pm - 12:00 am"
+        }, 
+        {
+            "Fri": "5:00 pm - 12:00 am"
+        }, 
+        {
+            "Sat": "11:00 am - 3:00 pm"
+        }, 
+        {
+            "Sun": "5:00 pm - 4:00 am"
+        }
+    ], 
+    "name": "Biryani Xpress", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/biryani-xpress-washington", 
+    "longitude": "-77.038206", 
+    "reviews": "2 reviews", 
+    "phone": "(202) 986-4281", 
+    "address": "1637 R St NW Washington, DC 20009 b/t N 17th St & N 16th St Dupont Circle", 
+    "latitude": "38.912794", 
+    "ratings_histogram": [
+        {
+            "5 stars": "0"
+        }, 
+        {
+            "4 stars": "0"
+        }, 
+        {
+            "3 stars": "0"
+        }, 
+        {
+            "2 stars": "1"
+        }, 
+        {
+            "1 star": "1"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Pakistani,Afghan"
+}

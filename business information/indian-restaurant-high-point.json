@@ -1,0 +1,34 @@
+{
+    "info": [], 
+    "ratings": 0, 
+    "website": "", 
+    "working_hours": [], 
+    "name": "Indian Restaurant", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/indian-restaurant-high-point", 
+    "longitude": "-79.967177", 
+    "reviews": "", 
+    "phone": "", 
+    "address": "Oak Hollow Skeet Club Roadeastchester Dr High Point, NC", 
+    "latitude": "36.032505", 
+    "ratings_histogram": [
+        {
+            "5 stars": "0"
+        }, 
+        {
+            "4 stars": "0"
+        }, 
+        {
+            "3 stars": "0"
+        }, 
+        {
+            "2 stars": "0"
+        }, 
+        {
+            "1 star": "0"
+        }
+    ], 
+    "price_range": "", 
+    "health_rating": "", 
+    "category": "Indian"
+}

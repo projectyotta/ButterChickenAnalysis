@@ -1,0 +1,108 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Gender Neutral Restrooms": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://saltandpeppergrill.com/", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 2:30 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Tue": "Closed"
+        }, 
+        {
+            "Wed": "11:30 am - 2:30 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 2:30 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 2:30 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Sat": "12:30 pm - 10:00 pm"
+        }, 
+        {
+            "Sun": "12:30 pm - 10:00 pm"
+        }
+    ], 
+    "name": "Salt and Pepper Grill", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/salt-and-pepper-grill-washington", 
+    "longitude": "-77.022931", 
+    "reviews": "232 reviews", 
+    "phone": "(202) 588-0666", 
+    "address": "2632 Georgia Ave NW Washington, DC 20001 b/t N Fairmont St & N Euclid St", 
+    "latitude": "38.925015", 
+    "ratings_histogram": [
+        {
+            "5 stars": "108"
+        }, 
+        {
+            "4 stars": "72"
+        }, 
+        {
+            "3 stars": "23"
+        }, 
+        {
+            "2 stars": "10"
+        }, 
+        {
+            "1 star": "19"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Pakistani"
+}

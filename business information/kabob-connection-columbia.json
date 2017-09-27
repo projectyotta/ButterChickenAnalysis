@@ -1,0 +1,114 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Bitcoin": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Garage, Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Loud"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://www.kabobconnection.com", 
+    "working_hours": [
+        {
+            "Mon": "9:00 am - 9:00 pm"
+        }, 
+        {
+            "Tue": "9:00 am - 9:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "9:00 am - 9:00 pm"
+        }, 
+        {
+            "Thu": "9:00 am - 9:00 pm"
+        }, 
+        {
+            "Fri": "9:00 am - 9:00 pm"
+        }, 
+        {
+            "Sat": "9:00 am - 9:00 pm"
+        }, 
+        {
+            "Sun": "11:00 am - 6:00 pm"
+        }
+    ], 
+    "name": "Kabob Connection", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/kabob-connection-columbia", 
+    "longitude": "-76.860205", 
+    "reviews": "78 reviews", 
+    "phone": "(443) 319-5734", 
+    "address": "Located in The Mall in Columbia 10300 Little Patuxent Pkwy Columbia, MD 21044", 
+    "latitude": "39.216437", 
+    "ratings_histogram": [
+        {
+            "5 stars": "38"
+        }, 
+        {
+            "4 stars": "23"
+        }, 
+        {
+            "3 stars": "8"
+        }, 
+        {
+            "2 stars": "4"
+        }, 
+        {
+            "1 star": "5"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Afghan,Persian/Iranian,Indian"
+}

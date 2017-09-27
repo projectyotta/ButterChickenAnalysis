@@ -1,0 +1,114 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Android Pay": "Yes"
+        }, 
+        {
+            "Good For": "Dinner"
+        }, 
+        {
+            "Parking": "Street, Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Gender Neutral Restrooms": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://www.indebluerestaurant.com/collingswood-nj", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 3:00 pm5:00 pm - 9:30 pm"
+        }, 
+        {
+            "Tue": "Closed"
+        }, 
+        {
+            "Wed": "11:30 am - 3:00 pm5:00 pm - 9:30 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 3:00 pm5:00 pm - 9:30 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 3:00 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Sat": "11:30 am - 3:00 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Sun": "11:00 am - 3:00 pm5:00 pm - 9:30 pm"
+        }
+    ], 
+    "name": "IndeBlue Indian Cuisine", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/indeblue-indian-cuisine-collingswood", 
+    "longitude": "-75.084794", 
+    "reviews": "289 reviews", 
+    "phone": "(856) 854-4633", 
+    "address": "619 Collings Ave Collingswood, NJ 08107", 
+    "latitude": "39.910995", 
+    "ratings_histogram": [
+        {
+            "5 stars": "134"
+        }, 
+        {
+            "4 stars": "100"
+        }, 
+        {
+            "3 stars": "27"
+        }, 
+        {
+            "2 stars": "21"
+        }, 
+        {
+            "1 star": "7"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

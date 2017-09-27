@@ -1,0 +1,81 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Has TV": "Yes"
+        }
+    ], 
+    "ratings": "3.0", 
+    "website": "http://www.mughaloasis.com", 
+    "working_hours": [
+        {
+            "Mon": "10:00 am - 10:00 pm"
+        }, 
+        {
+            "Tue": "10:00 am - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "10:00 am - 10:00 pm"
+        }, 
+        {
+            "Thu": "10:00 am - 10:00 pm"
+        }, 
+        {
+            "Fri": "10:00 am - 11:00 pm"
+        }, 
+        {
+            "Sat": "10:00 am - 11:00 pm"
+        }, 
+        {
+            "Sun": "10:00 am - 10:00 pm"
+        }
+    ], 
+    "name": "MUGHAL\u2019s Oasis", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/mughals-oasis-springfield", 
+    "longitude": "-77.185418", 
+    "reviews": "6 reviews", 
+    "phone": "(703) 942-5959", 
+    "address": "7067 Brookfield Plz Springfield, VA 22150", 
+    "latitude": "38.773852", 
+    "ratings_histogram": [
+        {
+            "5 stars": "1"
+        }, 
+        {
+            "4 stars": "3"
+        }, 
+        {
+            "3 stars": "0"
+        }, 
+        {
+            "2 stars": "0"
+        }, 
+        {
+            "1 star": "2"
+        }
+    ], 
+    "price_range": "", 
+    "health_rating": "", 
+    "category": "Pakistani,Indian"
+}

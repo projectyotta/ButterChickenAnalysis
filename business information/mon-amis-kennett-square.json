@@ -1,0 +1,105 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "No"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Bitcoin": "No"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "No"
+        }, 
+        {
+            "Wheelchair Accessible": "Yes"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Dogs Allowed": "No"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": 0, 
+    "website": "http://www.monamisatbrandywine.com", 
+    "working_hours": [
+        {
+            "Mon": "Closed"
+        }, 
+        {
+            "Tue": "Closed"
+        }, 
+        {
+            "Wed": "Closed"
+        }, 
+        {
+            "Thu": "5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Fri": "5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Sat": "5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Sun": "5:00 pm - 9:00 pm"
+        }
+    ], 
+    "name": "Mon Amis", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/mon-amis-kennett-square", 
+    "longitude": "-75.711603", 
+    "reviews": "", 
+    "phone": "(508) 561-7428", 
+    "address": "Kennett Square, PA 19348", 
+    "latitude": "39.846777", 
+    "ratings_histogram": [
+        {
+            "5 stars": "0"
+        }, 
+        {
+            "4 stars": "0"
+        }, 
+        {
+            "3 stars": "0"
+        }, 
+        {
+            "2 stars": "0"
+        }, 
+        {
+            "1 star": "0"
+        }
+    ], 
+    "price_range": "", 
+    "health_rating": "", 
+    "category": "Indian,American (New),Asian Fusion"
+}

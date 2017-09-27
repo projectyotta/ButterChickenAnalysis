@@ -1,0 +1,126 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "Yes"
+        }, 
+        {
+            "Accepts Android Pay": "Yes"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Street, Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Wheelchair Accessible": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Offers Military Discount": "Yes"
+        }, 
+        {
+            "Gender Neutral Restrooms": "Yes"
+        }
+    ], 
+    "ratings": "4.5", 
+    "website": "http://www.kabobgrillmerion.com", 
+    "working_hours": [
+        {
+            "Mon": "5:00 pm - 9:00 pm"
+        }, 
+        {
+            "Tue": "11:30 am - 3:30 pm4:30 pm - 9:30 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 3:30 pm4:30 pm - 9:30 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 3:30 pm4:30 pm - 9:30 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 3:30 pm4:30 pm - 10:00 pm"
+        }, 
+        {
+            "Sat": "12:00 pm - 10:00 pm"
+        }, 
+        {
+            "Sun": "12:00 pm - 9:30 pm"
+        }
+    ], 
+    "name": "Kabob & Grill Indian Cuisine", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/kabob-and-grill-indian-cuisine-merion-station-3", 
+    "longitude": "-75.244063", 
+    "reviews": "61 reviews", 
+    "phone": "(484) 278-4043", 
+    "address": "358 Montgomery Ave Merion Station, PA 19066", 
+    "latitude": "40.005790", 
+    "ratings_histogram": [
+        {
+            "5 stars": "48"
+        }, 
+        {
+            "4 stars": "8"
+        }, 
+        {
+            "3 stars": "1"
+        }, 
+        {
+            "2 stars": "1"
+        }, 
+        {
+            "1 star": "3"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

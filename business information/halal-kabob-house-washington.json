@@ -1,0 +1,80 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "No"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Divey"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "3.0", 
+    "website": "http://halalkabobhouse.us", 
+    "working_hours": [], 
+    "name": "Halal Kabob House", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/halal-kabob-house-washington", 
+    "longitude": "-77.041872", 
+    "reviews": "46 reviews", 
+    "phone": "(202) 836-8373", 
+    "address": "2120 18th St NW Washington, DC 20009 b/t N Wyoming Ave & N California St Adams Morgan", 
+    "latitude": "38.918557", 
+    "ratings_histogram": [
+        {
+            "5 stars": "17"
+        }, 
+        {
+            "4 stars": "6"
+        }, 
+        {
+            "3 stars": "5"
+        }, 
+        {
+            "2 stars": "3"
+        }, 
+        {
+            "1 star": "15"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Halal,Pakistani"
+}

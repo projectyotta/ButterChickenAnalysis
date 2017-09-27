@@ -1,0 +1,123 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "Yes"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Wheelchair Accessible": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Dogs Allowed": "Yes"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Gender Neutral Restrooms": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://www.tandoorfishtown.com", 
+    "working_hours": [
+        {
+            "Mon": "11:15 am - 10:15 pm"
+        }, 
+        {
+            "Tue": "11:15 am - 10:15 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:15 am - 10:15 pm"
+        }, 
+        {
+            "Thu": "11:15 am - 10:15 pm"
+        }, 
+        {
+            "Fri": "11:15 am - 2:00 am"
+        }, 
+        {
+            "Sat": "11:30 am - 2:00 am"
+        }, 
+        {
+            "Sun": "11:30 am - 1:00 am"
+        }
+    ], 
+    "name": "Tandoor Authentic Indian Restaurant", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/tandoor-authentic-indian-restaurant-philadelphia-6", 
+    "longitude": "-75.133724", 
+    "reviews": "122 reviews", 
+    "phone": "(215) 423-4354", 
+    "address": "1832 N Front St Philadelphia, PA 19122", 
+    "latitude": "39.977907", 
+    "ratings_histogram": [
+        {
+            "5 stars": "66"
+        }, 
+        {
+            "4 stars": "27"
+        }, 
+        {
+            "3 stars": "8"
+        }, 
+        {
+            "2 stars": "11"
+        }, 
+        {
+            "1 star": "10"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Vegetarian,Desserts"
+}

@@ -1,0 +1,34 @@
+{
+    "info": [], 
+    "ratings": "5.0", 
+    "website": "", 
+    "working_hours": [], 
+    "name": "Bombay Grill", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/bombay-grill-bel-air", 
+    "longitude": "-76.356622", 
+    "reviews": "1 review", 
+    "phone": "(410) 838-9007", 
+    "address": "678 Baltimore Pike Bel Air, MD 21014", 
+    "latitude": "39.524216", 
+    "ratings_histogram": [
+        {
+            "5 stars": "1"
+        }, 
+        {
+            "4 stars": "0"
+        }, 
+        {
+            "3 stars": "0"
+        }, 
+        {
+            "2 stars": "0"
+        }, 
+        {
+            "1 star": "0"
+        }
+    ], 
+    "price_range": "", 
+    "health_rating": "", 
+    "category": "Indian"
+}

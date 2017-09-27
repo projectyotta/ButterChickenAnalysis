@@ -1,0 +1,74 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "No"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }
+    ], 
+    "ratings": "3.0", 
+    "website": "", 
+    "working_hours": [], 
+    "name": "Indian Jewel of Toledo", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/indian-jewel-of-toledo-holland-2", 
+    "longitude": "-83.701335", 
+    "reviews": "55 reviews", 
+    "phone": "(419) 865-9500", 
+    "address": "6711 Airport Hwy Holland, OH 43528", 
+    "latitude": "41.611581", 
+    "ratings_histogram": [
+        {
+            "5 stars": "16"
+        }, 
+        {
+            "4 stars": "9"
+        }, 
+        {
+            "3 stars": "7"
+        }, 
+        {
+            "2 stars": "9"
+        }, 
+        {
+            "1 star": "14"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Pakistani,Caterers"
+}

@@ -1,0 +1,63 @@
+{
+    "info": [
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "http://swaadpalace.eat24hour.com", 
+    "working_hours": [
+        {
+            "Mon": "8:00 am - 9:00 pm"
+        }, 
+        {
+            "Tue": "8:00 am - 9:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "8:00 am - 9:00 pm"
+        }, 
+        {
+            "Thu": "8:00 am - 9:00 pm"
+        }, 
+        {
+            "Fri": "8:00 am - 9:00 pm"
+        }, 
+        {
+            "Sat": "9:00 am - 9:00 pm"
+        }, 
+        {
+            "Sun": "11:00 am - 7:00 pm"
+        }
+    ], 
+    "name": "Swaad Palace", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/swaad-palace-washington", 
+    "longitude": "-77.011875", 
+    "reviews": "4 reviews", 
+    "phone": "(202) 484-4800", 
+    "address": "1548 1st St SW Washington, DC 20024 b/t S Q St & S P St", 
+    "latitude": "38.870954", 
+    "ratings_histogram": [
+        {
+            "5 stars": "1"
+        }, 
+        {
+            "4 stars": "1"
+        }, 
+        {
+            "3 stars": "1"
+        }, 
+        {
+            "2 stars": "1"
+        }, 
+        {
+            "1 star": "0"
+        }
+    ], 
+    "price_range": "", 
+    "health_rating": "", 
+    "category": "Indian,Sandwiches,Seafood"
+}

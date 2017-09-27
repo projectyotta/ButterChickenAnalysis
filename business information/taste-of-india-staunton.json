@@ -1,0 +1,102 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "Beer & Wine Only"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://tasteofindianova.com/", 
+    "working_hours": [
+        {
+            "Mon": "Closed"
+        }, 
+        {
+            "Tue": "11:00 am - 2:30 pm5:00 pm - 9:30 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 2:30 pm5:00 pm - 9:30 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 2:30 pm5:00 pm - 9:30 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 2:30 pm5:00 pm - 9:30 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 2:30 pm5:00 pm - 9:30 pm"
+        }, 
+        {
+            "Sun": "11:00 am - 2:30 pm5:00 pm - 9:30 pm"
+        }
+    ], 
+    "name": "Taste of India", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/taste-of-india-staunton", 
+    "longitude": "-79.073953", 
+    "reviews": "58 reviews", 
+    "phone": "(540) 213-8882", 
+    "address": "105 W Beverley St Staunton, VA 24401", 
+    "latitude": "38.149388", 
+    "ratings_histogram": [
+        {
+            "5 stars": "30"
+        }, 
+        {
+            "4 stars": "17"
+        }, 
+        {
+            "3 stars": "3"
+        }, 
+        {
+            "2 stars": "1"
+        }, 
+        {
+            "1 star": "7"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

@@ -1,0 +1,111 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://www.dishesofindia.com", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 2:30 pm4:30 pm - 9:30 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 2:30 pm4:30 pm - 9:30 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 2:30 pm4:30 pm - 9:30 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 2:30 pm4:30 pm - 9:30 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 2:30 pm4:30 pm - 10:00 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 2:30 pm4:30 pm - 10:00 pm"
+        }, 
+        {
+            "Sun": "11:00 am - 2:30 pm4:30 pm - 9:30 pm"
+        }
+    ], 
+    "name": "Dishes Of India", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/dishes-of-india-alexandria", 
+    "longitude": "-77.059590", 
+    "reviews": "285 reviews", 
+    "phone": "(703) 660-6085", 
+    "address": "1510A Belle View Blvd Alexandria, VA 22307", 
+    "latitude": "38.775616", 
+    "ratings_histogram": [
+        {
+            "5 stars": "131"
+        }, 
+        {
+            "4 stars": "107"
+        }, 
+        {
+            "3 stars": "22"
+        }, 
+        {
+            "2 stars": "19"
+        }, 
+        {
+            "1 star": "6"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

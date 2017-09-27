@@ -1,0 +1,108 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://www.gaganpalace.com/", 
+    "working_hours": [
+        {
+            "Mon": "Closed"
+        }, 
+        {
+            "Tue": "11:00 am - 2:30 pm5:00 pm - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 2:30 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 2:30 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 2:30 pm5:00 pm - 11:00 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 2:30 pm5:00 pm - 11:00 pm"
+        }, 
+        {
+            "Sun": "11:00 am - 2:30 pm5:00 pm - 10:00 pm"
+        }
+    ], 
+    "name": "Gagan Palace Indian Restaurant", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/gagan-palace-indian-restaurant-stratford", 
+    "longitude": "-75.003407", 
+    "reviews": "63 reviews", 
+    "phone": "(856) 627-6200", 
+    "address": "33 S White Horse Pike Stratford, NJ 08084", 
+    "latitude": "39.831893", 
+    "ratings_histogram": [
+        {
+            "5 stars": "21"
+        }, 
+        {
+            "4 stars": "27"
+        }, 
+        {
+            "3 stars": "9"
+        }, 
+        {
+            "2 stars": "2"
+        }, 
+        {
+            "1 star": "4"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Buffets,Food"
+}

@@ -1,0 +1,111 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner, Late Night"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "No"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.5", 
+    "website": "http://www.falafelshop.com/", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 12:00 am"
+        }, 
+        {
+            "Tue": "11:00 am - 2:30 am\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 2:30 am"
+        }, 
+        {
+            "Thu": "11:00 am - 3:00 am"
+        }, 
+        {
+            "Fri": "11:00 am - 4:00 am"
+        }, 
+        {
+            "Sat": "11:00 am - 4:00 am"
+        }, 
+        {
+            "Sun": "11:00 am - 12:00 am"
+        }
+    ], 
+    "name": "Amsterdam Falafelshop", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/amsterdam-falafelshop-washington-4", 
+    "longitude": "-77.041862", 
+    "reviews": "1728 reviews", 
+    "phone": "(202) 234-1969", 
+    "address": "2425 18th St NW Washington, DC 20009 b/t N Columbia Rd & N Adams Mill Rd Adams Morgan", 
+    "latitude": "38.921200", 
+    "ratings_histogram": [
+        {
+            "5 stars": "962"
+        }, 
+        {
+            "4 stars": "552"
+        }, 
+        {
+            "3 stars": "119"
+        }, 
+        {
+            "2 stars": "54"
+        }, 
+        {
+            "1 star": "41"
+        }
+    ], 
+    "price_range": "Under $10", 
+    "health_rating": "", 
+    "category": "Vegetarian,Middle Eastern,Falafel"
+}

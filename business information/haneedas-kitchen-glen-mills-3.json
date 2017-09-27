@@ -1,0 +1,50 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Take-out": "No"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }
+    ], 
+    "ratings": "5.0", 
+    "website": "http://www.haneedaskitchen.com", 
+    "working_hours": [], 
+    "name": "Haneeda\u2019s Kitchen", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/haneedas-kitchen-glen-mills-3", 
+    "longitude": "-75.492768", 
+    "reviews": "10 reviews", 
+    "phone": "(609) 712-0150", 
+    "address": "5 Mt Aire Farm Rd Glen Mills, PA 19342", 
+    "latitude": "39.911349", 
+    "ratings_histogram": [
+        {
+            "5 stars": "10"
+        }, 
+        {
+            "4 stars": "0"
+        }, 
+        {
+            "3 stars": "0"
+        }, 
+        {
+            "2 stars": "0"
+        }, 
+        {
+            "1 star": "0"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Cooking Schools"
+}

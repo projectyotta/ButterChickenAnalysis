@@ -1,0 +1,41 @@
+{
+    "info": [
+        {
+            "Take-out": "No"
+        }, 
+        {
+            "Good for Groups": "No"
+        }
+    ], 
+    "ratings": "3.0", 
+    "website": "http://akmalskitchen.com", 
+    "working_hours": [], 
+    "name": "Akmal\u2019s Kitchen", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/akmals-kitchen-arlington", 
+    "longitude": "-77.132905", 
+    "reviews": "2 reviews", 
+    "phone": "(202) 213-4797", 
+    "address": "5171 Lee Hwy Arlington, VA 22207", 
+    "latitude": "38.896591", 
+    "ratings_histogram": [
+        {
+            "5 stars": "1"
+        }, 
+        {
+            "4 stars": "0"
+        }, 
+        {
+            "3 stars": "0"
+        }, 
+        {
+            "2 stars": "0"
+        }, 
+        {
+            "1 star": "1"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Afghan"
+}

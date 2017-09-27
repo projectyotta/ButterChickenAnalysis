@@ -1,0 +1,111 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Good for Working": "No"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "http://tajmahalofsalisbury.com", 
+    "working_hours": [
+        {
+            "Mon": "Closed"
+        }, 
+        {
+            "Tue": "11:00 am - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Sun": "11:00 am - 10:00 pm"
+        }
+    ], 
+    "name": "Taj Mahal Restaurant and Tea House", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/taj-mahal-restaurant-and-tea-house-salisbury", 
+    "longitude": "-75.600487", 
+    "reviews": "41 reviews", 
+    "phone": "(410) 543-1111", 
+    "address": "202 Newton St Salisbury, MD 21801", 
+    "latitude": "38.358801", 
+    "ratings_histogram": [
+        {
+            "5 stars": "18"
+        }, 
+        {
+            "4 stars": "9"
+        }, 
+        {
+            "3 stars": "0"
+        }, 
+        {
+            "2 stars": "5"
+        }, 
+        {
+            "1 star": "9"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Pakistani,Coffee & Tea"
+}

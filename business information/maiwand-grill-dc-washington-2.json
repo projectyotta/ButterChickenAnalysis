@@ -1,0 +1,102 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Waiter Service": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "5.0", 
+    "website": "http://Maiwandgrilldc.com", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 11:00 pm"
+        }, 
+        {
+            "Tue": "11:30 am - 11:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 11:00 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 11:00 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 11:00 pm"
+        }, 
+        {
+            "Sat": "11:30 am - 11:00 pm"
+        }, 
+        {
+            "Sun": "12:00 pm - 10:00 pm"
+        }
+    ], 
+    "name": "Maiwand Grill DC", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/maiwand-grill-dc-washington-2", 
+    "longitude": "-77.040937", 
+    "reviews": "26 reviews", 
+    "phone": "(202) 851-4700", 
+    "address": "1764 Columbia Rd NW Washington, DC 20009 b/t N Champlain St & N Ontario Rd Adams Morgan", 
+    "latitude": "38.923527", 
+    "ratings_histogram": [
+        {
+            "5 stars": "23"
+        }, 
+        {
+            "4 stars": "3"
+        }, 
+        {
+            "3 stars": "0"
+        }, 
+        {
+            "2 stars": "0"
+        }, 
+        {
+            "1 star": "0"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Afghan"
+}

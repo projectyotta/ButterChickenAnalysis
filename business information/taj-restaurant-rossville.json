@@ -1,0 +1,78 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Bike Parking": "No"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://tajrestaurantmd.com", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 2:30 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 2:30 pm5:00 pm - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 2:30 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 2:30 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 2:30 pm5:00 pm - 11:00 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 2:30 pm5:00 pm - 11:00 pm"
+        }, 
+        {
+            "Sun": "11:00 am - 2:30 pm5:00 pm - 10:00 pm"
+        }
+    ], 
+    "name": "Taj Restaurant", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/taj-restaurant-rossville", 
+    "longitude": "-76.453746", 
+    "reviews": "13 reviews", 
+    "phone": "(410) 686-6333", 
+    "address": "9610 Pulaski Hwy Rossville, MD 21220", 
+    "latitude": "39.353961", 
+    "ratings_histogram": [
+        {
+            "5 stars": "10"
+        }, 
+        {
+            "4 stars": "0"
+        }, 
+        {
+            "3 stars": "0"
+        }, 
+        {
+            "2 stars": "1"
+        }, 
+        {
+            "1 star": "2"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

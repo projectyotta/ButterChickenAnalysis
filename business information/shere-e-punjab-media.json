@@ -1,0 +1,108 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "http://www.shereepunjab.com", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 12:00 am"
+        }, 
+        {
+            "Tue": "11:30 am - 12:00 am\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 12:00 am"
+        }, 
+        {
+            "Thu": "11:30 am - 12:00 am"
+        }, 
+        {
+            "Fri": "11:30 am - 12:00 am"
+        }, 
+        {
+            "Sat": "11:30 am - 12:00 am"
+        }, 
+        {
+            "Sun": "11:30 am - 12:00 am"
+        }
+    ], 
+    "name": "Shere-E-Punjab", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/shere-e-punjab-media", 
+    "longitude": "-75.392523", 
+    "reviews": "119 reviews", 
+    "phone": "(610) 891-0400", 
+    "address": "208 W State St Media, PA 19063", 
+    "latitude": "39.918141", 
+    "ratings_histogram": [
+        {
+            "5 stars": "30"
+        }, 
+        {
+            "4 stars": "55"
+        }, 
+        {
+            "3 stars": "15"
+        }, 
+        {
+            "2 stars": "8"
+        }, 
+        {
+            "1 star": "11"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

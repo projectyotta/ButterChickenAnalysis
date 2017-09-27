@@ -1,0 +1,34 @@
+{
+    "info": [], 
+    "ratings": 0, 
+    "website": "", 
+    "working_hours": [], 
+    "name": "Dinner", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/dinner-washington", 
+    "longitude": "-77.040352", 
+    "reviews": "", 
+    "phone": "", 
+    "address": "Washington, DC Foggy Bottom", 
+    "latitude": "38.896847", 
+    "ratings_histogram": [
+        {
+            "5 stars": "0"
+        }, 
+        {
+            "4 stars": "0"
+        }, 
+        {
+            "3 stars": "0"
+        }, 
+        {
+            "2 stars": "0"
+        }, 
+        {
+            "1 star": "0"
+        }
+    ], 
+    "price_range": "", 
+    "health_rating": "", 
+    "category": "Indian,Vietnamese,Mediterranean"
+}

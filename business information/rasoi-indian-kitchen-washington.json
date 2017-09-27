@@ -1,0 +1,117 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Bitcoin": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Garage"
+        }, 
+        {
+            "Bike Parking": "No"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Gender Neutral Restrooms": "Yes"
+        }
+    ], 
+    "ratings": "3.0", 
+    "website": "http://rasoidc.com", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 10:00 pm"
+        }, 
+        {
+            "Tue": "11:30 am - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 10:00 pm"
+        }, 
+        {
+            "Sat": "12:30 pm - 10:30 pm"
+        }, 
+        {
+            "Sun": "12:30 pm - 10:00 pm"
+        }
+    ], 
+    "name": "Rasoi Indian Kitchen", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/rasoi-indian-kitchen-washington", 
+    "longitude": "-77.042415", 
+    "reviews": "293 reviews", 
+    "phone": "(202) 775-5660", 
+    "address": "Located in International Square 1810 K St NW Washington, DC 20006 b/t N 18th St & N 19th St Downtown", 
+    "latitude": "38.902038", 
+    "ratings_histogram": [
+        {
+            "5 stars": "54"
+        }, 
+        {
+            "4 stars": "69"
+        }, 
+        {
+            "3 stars": "55"
+        }, 
+        {
+            "2 stars": "46"
+        }, 
+        {
+            "1 star": "69"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

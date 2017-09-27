@@ -1,0 +1,120 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Bitcoin": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Wheelchair Accessible": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://www.masalava.com", 
+    "working_hours": [
+        {
+            "Mon": "11:45 am - 2:45 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Tue": "11:45 am - 2:45 pm5:00 pm - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:45 am - 2:45 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:45 am - 2:45 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:45 am - 2:45 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Sat": "11:45 am - 2:45 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Sun": "11:45 am - 2:45 pm5:00 pm - 10:00 pm"
+        }
+    ], 
+    "name": "Masala Indian Cuisine", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/masala-indian-cuisine-mclean-2", 
+    "longitude": "-77.176093", 
+    "reviews": "97 reviews", 
+    "phone": "(703) 462-9699", 
+    "address": "1394 Chain Bridge Rd McLean, VA 22101", 
+    "latitude": "38.935330", 
+    "ratings_histogram": [
+        {
+            "5 stars": "57"
+        }, 
+        {
+            "4 stars": "17"
+        }, 
+        {
+            "3 stars": "9"
+        }, 
+        {
+            "2 stars": "9"
+        }, 
+        {
+            "1 star": "5"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Himalayan/Nepalese,Buffets"
+}

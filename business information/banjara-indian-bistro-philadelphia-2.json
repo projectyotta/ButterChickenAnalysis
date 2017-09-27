@@ -1,0 +1,105 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Good For": "Dinner"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://www.banjarapa.com", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 3:00 pm4:30 pm - 9:30 pm"
+        }, 
+        {
+            "Tue": "11:30 am - 3:00 pm4:30 pm - 9:30 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 3:00 pm4:30 pm - 9:30 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 3:00 pm4:30 pm - 9:30 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 3:00 pm4:30 pm - 10:00 pm"
+        }, 
+        {
+            "Sat": "11:30 am - 3:00 pm4:30 pm - 10:00 pm"
+        }, 
+        {
+            "Sun": "11:30 am - 3:00 pm4:30 pm - 10:00 pm"
+        }
+    ], 
+    "name": "Banjara Indian Bistro", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/banjara-indian-bistro-philadelphia-2", 
+    "longitude": "-75.208665", 
+    "reviews": "45 reviews", 
+    "phone": "(215) 247-5500", 
+    "address": "8705 Germantown Ave Philadelphia, PA 19118 Chestnut Hill", 
+    "latitude": "40.077973", 
+    "ratings_histogram": [
+        {
+            "5 stars": "26"
+        }, 
+        {
+            "4 stars": "10"
+        }, 
+        {
+            "3 stars": "2"
+        }, 
+        {
+            "2 stars": "4"
+        }, 
+        {
+            "1 star": "3"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Desserts,Indian"
+}

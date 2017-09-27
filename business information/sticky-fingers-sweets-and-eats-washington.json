@@ -1,0 +1,117 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Good For": "Dessert"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Hipster"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Good for Working": "No"
+        }, 
+        {
+            "Gender Neutral Restrooms": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://stickyfingersbakery.com", 
+    "working_hours": [
+        {
+            "Mon": "Closed"
+        }, 
+        {
+            "Tue": "8:00 am - 8:00 pm\n        \n                Closed now"
+        }, 
+        {
+            "Wed": "8:00 am - 8:00 pm"
+        }, 
+        {
+            "Thu": "8:00 am - 8:00 pm"
+        }, 
+        {
+            "Fri": "8:00 am - 9:00 pm"
+        }, 
+        {
+            "Sat": "9:00 am - 9:00 pm"
+        }, 
+        {
+            "Sun": "9:00 am - 8:00 pm"
+        }
+    ], 
+    "name": "Sticky Fingers Sweets & Eats", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/sticky-fingers-sweets-and-eats-washington", 
+    "longitude": "-77.031888", 
+    "reviews": "786 reviews", 
+    "phone": "(202) 299-9700", 
+    "address": "1370 Park Rd NW Washington, DC 20010 b/t N 14th St & N Kenyon St Columbia Heights", 
+    "latitude": "38.930366", 
+    "ratings_histogram": [
+        {
+            "5 stars": "279"
+        }, 
+        {
+            "4 stars": "250"
+        }, 
+        {
+            "3 stars": "136"
+        }, 
+        {
+            "2 stars": "79"
+        }, 
+        {
+            "1 star": "42"
+        }
+    ], 
+    "price_range": "Under $10", 
+    "health_rating": "", 
+    "category": "Bakeries,Vegan,Coffee & Tea"
+}

@@ -1,0 +1,56 @@
+{
+    "info": [], 
+    "ratings": "5.0", 
+    "website": "", 
+    "working_hours": [
+        {
+            "Mon": "9:00 am - 3:00 pm"
+        }, 
+        {
+            "Tue": "9:00 am - 3:00 pm\n        \n                Closed now"
+        }, 
+        {
+            "Wed": "9:00 am - 3:00 pm"
+        }, 
+        {
+            "Thu": "9:00 am - 3:00 pm"
+        }, 
+        {
+            "Fri": "9:00 am - 3:00 pm"
+        }, 
+        {
+            "Sat": "Closed"
+        }, 
+        {
+            "Sun": "Closed"
+        }
+    ], 
+    "name": "Bombay Kitchen", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/bombay-kitchen-cockeysville", 
+    "longitude": "-76.634570", 
+    "reviews": "2 reviews", 
+    "phone": "(240) 534-8963", 
+    "address": "35 Cranbrook Rd Cockeysville, MD 21030", 
+    "latitude": "39.463447", 
+    "ratings_histogram": [
+        {
+            "5 stars": "2"
+        }, 
+        {
+            "4 stars": "0"
+        }, 
+        {
+            "3 stars": "0"
+        }, 
+        {
+            "2 stars": "0"
+        }, 
+        {
+            "1 star": "0"
+        }
+    ], 
+    "price_range": "Under $10", 
+    "health_rating": "", 
+    "category": "Food Trucks,Indian,Wraps"
+}

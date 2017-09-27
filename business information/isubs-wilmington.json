@@ -1,0 +1,60 @@
+{
+    "info": [
+        {
+            "Accepts Credit Cards": "Yes"
+        }
+    ], 
+    "ratings": "4.5", 
+    "website": "http://internationalsubs.com", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 8:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 8:00 pm\n        \n                Closed now"
+        }, 
+        {
+            "Wed": "11:00 am - 8:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 8:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 8:00 pm"
+        }, 
+        {
+            "Sat": "Closed"
+        }, 
+        {
+            "Sun": "Closed"
+        }
+    ], 
+    "name": "isubs", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/isubs-wilmington", 
+    "longitude": "-75.548322", 
+    "reviews": "3 reviews", 
+    "phone": "(302) 482-1581", 
+    "address": "901 N Market St Wilmington, DE 19802", 
+    "latitude": "39.744995", 
+    "ratings_histogram": [
+        {
+            "5 stars": "1"
+        }, 
+        {
+            "4 stars": "2"
+        }, 
+        {
+            "3 stars": "0"
+        }, 
+        {
+            "2 stars": "0"
+        }, 
+        {
+            "1 star": "0"
+        }
+    ], 
+    "price_range": "", 
+    "health_rating": "", 
+    "category": "Salad,Vegetarian,Sandwiches"
+}

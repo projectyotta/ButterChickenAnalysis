@@ -1,0 +1,47 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Good for Kids": "No"
+        }
+    ], 
+    "ratings": "2.5", 
+    "website": "", 
+    "working_hours": [], 
+    "name": "India Tandoor", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/india-tandoor-baltimore-2", 
+    "longitude": "-76.623755", 
+    "reviews": "8 reviews", 
+    "phone": "(410) 468-0969", 
+    "address": "2900 Huntingdon Ave Baltimore, MD 21211 Remington", 
+    "latitude": "39.321546", 
+    "ratings_histogram": [
+        {
+            "5 stars": "2"
+        }, 
+        {
+            "4 stars": "0"
+        }, 
+        {
+            "3 stars": "1"
+        }, 
+        {
+            "2 stars": "1"
+        }, 
+        {
+            "1 star": "4"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Pakistani,Indian"
+}

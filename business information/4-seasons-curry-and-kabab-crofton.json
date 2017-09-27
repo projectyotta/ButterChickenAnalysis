@@ -1,0 +1,63 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "No"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://www.4seasonscurryandkabab.com", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Sun": "11:00 am - 10:00 pm"
+        }
+    ], 
+    "name": "4 Seasons Curry & Kabab", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/4-seasons-curry-and-kabab-crofton", 
+    "longitude": "-76.701063", 
+    "reviews": "14 reviews", 
+    "phone": "(410) 451-4646", 
+    "address": "2219 Defense Hwy Crofton, MD 21114", 
+    "latitude": "38.991870", 
+    "ratings_histogram": [
+        {
+            "5 stars": "9"
+        }, 
+        {
+            "4 stars": "1"
+        }, 
+        {
+            "3 stars": "1"
+        }, 
+        {
+            "2 stars": "2"
+        }, 
+        {
+            "1 star": "1"
+        }
+    ], 
+    "price_range": "", 
+    "health_rating": "", 
+    "category": "Indian"
+}

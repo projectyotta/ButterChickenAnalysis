@@ -1,0 +1,120 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "Yes"
+        }, 
+        {
+            "Accepts Bitcoin": "No"
+        }, 
+        {
+            "Good For": "Lunch"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "No"
+        }, 
+        {
+            "Good for Groups": "No"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Gender Neutral Restrooms": "Yes"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "https://www.teaism.com/restaurant-details-41.html", 
+    "working_hours": [
+        {
+            "Mon": "8:00 am - 10:00 pm"
+        }, 
+        {
+            "Tue": "8:00 am - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "8:00 am - 10:00 pm"
+        }, 
+        {
+            "Thu": "8:00 am - 10:00 pm"
+        }, 
+        {
+            "Fri": "8:00 am - 10:00 pm"
+        }, 
+        {
+            "Sat": "9:00 am - 10:00 pm"
+        }, 
+        {
+            "Sun": "9:00 am - 10:00 pm"
+        }, 
+        {
+            "Mon 10/9/2017": "9:00 am - 8:00 pm"
+        }
+    ], 
+    "name": "Teaism Dupont Circle", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/teaism-dupont-circle-washington-6", 
+    "longitude": "-77.045768", 
+    "reviews": "642 reviews", 
+    "phone": "(202) 667-3827", 
+    "address": "2009 R St NW Washington, DC 20009 b/t N Connecticut Ave & N 21st St Dupont Circle", 
+    "latitude": "38.912771", 
+    "ratings_histogram": [
+        {
+            "5 stars": "154"
+        }, 
+        {
+            "4 stars": "275"
+        }, 
+        {
+            "3 stars": "131"
+        }, 
+        {
+            "2 stars": "47"
+        }, 
+        {
+            "1 star": "35"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Tea Rooms,Asian Fusion,Vegan"
+}

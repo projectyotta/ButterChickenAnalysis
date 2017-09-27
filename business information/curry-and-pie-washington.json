@@ -1,0 +1,123 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "No"
+        }, 
+        {
+            "Wheelchair Accessible": "No"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "No"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Dogs Allowed": "No"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Gender Neutral Restrooms": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://www.curryandpie.com", 
+    "working_hours": [
+        {
+            "Mon": "12:00 pm - 10:00 pm"
+        }, 
+        {
+            "Tue": "12:00 pm - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "12:00 pm - 10:00 pm"
+        }, 
+        {
+            "Thu": "12:00 pm - 10:00 pm"
+        }, 
+        {
+            "Fri": "12:00 pm - 11:00 pm"
+        }, 
+        {
+            "Sat": "12:00 pm - 11:00 pm"
+        }, 
+        {
+            "Sun": "12:00 pm - 10:00 pm"
+        }
+    ], 
+    "name": "Curry & Pie", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/curry-and-pie-washington", 
+    "longitude": "-77.067998", 
+    "reviews": "177 reviews", 
+    "phone": "(202) 333-4369", 
+    "address": "1204 34th St NW Washington, DC 20007 b/t N Prospect St & N M St Georgetown", 
+    "latitude": "38.905344", 
+    "ratings_histogram": [
+        {
+            "5 stars": "70"
+        }, 
+        {
+            "4 stars": "57"
+        }, 
+        {
+            "3 stars": "17"
+        }, 
+        {
+            "2 stars": "21"
+        }, 
+        {
+            "1 star": "12"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Pizza,Asian Fusion"
+}

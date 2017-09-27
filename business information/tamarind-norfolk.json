@@ -1,0 +1,120 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "Yes"
+        }, 
+        {
+            "Accepts Android Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Wheelchair Accessible": "No"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.5", 
+    "website": "http://www.tamarindnorfolk.com", 
+    "working_hours": [
+        {
+            "Mon": "Closed"
+        }, 
+        {
+            "Tue": "11:00 am - 8:00 pm\n        \n                Closed now"
+        }, 
+        {
+            "Wed": "11:00 am - 8:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 8:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 8:00 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 8:00 pm"
+        }, 
+        {
+            "Sun": "11:00 am - 8:00 pm"
+        }
+    ], 
+    "name": "Tamarind", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/tamarind-norfolk", 
+    "longitude": "-76.211872", 
+    "reviews": "91 reviews", 
+    "phone": "(757) 942-5611", 
+    "address": "415 N Military Hwy Ste 27 Norfolk, VA 23502", 
+    "latitude": "36.847000", 
+    "ratings_histogram": [
+        {
+            "5 stars": "66"
+        }, 
+        {
+            "4 stars": "17"
+        }, 
+        {
+            "3 stars": "5"
+        }, 
+        {
+            "2 stars": "0"
+        }, 
+        {
+            "1 star": "3"
+        }
+    ], 
+    "price_range": "Under $10", 
+    "health_rating": "", 
+    "category": "Indian,Vegetarian,Pakistani"
+}

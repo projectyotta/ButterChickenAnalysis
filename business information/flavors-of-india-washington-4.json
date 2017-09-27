@@ -1,0 +1,114 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "Yes"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Gender Neutral Restrooms": "Yes"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "http://flavorsofindiadc.com", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 10:15 pm"
+        }, 
+        {
+            "Tue": "11:30 am - 10:15 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 10:15 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 10:15 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 10:45 pm"
+        }, 
+        {
+            "Sat": "11:30 am - 10:45 pm"
+        }, 
+        {
+            "Sun": "11:30 am - 9:45 pm"
+        }
+    ], 
+    "name": "Flavors of India", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/flavors-of-india-washington-4", 
+    "longitude": "-77.054321", 
+    "reviews": "312 reviews", 
+    "phone": "(202) 333-1155", 
+    "address": "2524 L St NW Washington, DC 20037 b/t N Pennsylvania Ave & N 26th St Foggy Bottom", 
+    "latitude": "38.903496", 
+    "ratings_histogram": [
+        {
+            "5 stars": "100"
+        }, 
+        {
+            "4 stars": "81"
+        }, 
+        {
+            "3 stars": "50"
+        }, 
+        {
+            "2 stars": "35"
+        }, 
+        {
+            "1 star": "46"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Seafood,Vegan"
+}

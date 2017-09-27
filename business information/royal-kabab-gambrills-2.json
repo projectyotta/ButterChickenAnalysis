@@ -1,0 +1,108 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://www.royalkabab.net", 
+    "working_hours": [
+        {
+            "Mon": "10:30 am - 10:00 pm"
+        }, 
+        {
+            "Tue": "10:30 am - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "10:30 am - 10:00 pm"
+        }, 
+        {
+            "Thu": "10:30 am - 10:00 pm"
+        }, 
+        {
+            "Fri": "10:30 am - 10:00 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Sun": "11:00 am - 10:00 pm"
+        }
+    ], 
+    "name": "Royal Kabab", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/royal-kabab-gambrills-2", 
+    "longitude": "-76.662677", 
+    "reviews": "126 reviews", 
+    "phone": "(410) 697-3216", 
+    "address": "738 Rt 3 N Gambrills, MD 21054", 
+    "latitude": "39.048541", 
+    "ratings_histogram": [
+        {
+            "5 stars": "62"
+        }, 
+        {
+            "4 stars": "44"
+        }, 
+        {
+            "3 stars": "8"
+        }, 
+        {
+            "2 stars": "6"
+        }, 
+        {
+            "1 star": "6"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Pakistani"
+}

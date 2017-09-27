@@ -1,0 +1,105 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "No"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "", 
+    "working_hours": [
+        {
+            "Mon": "7:00 am - 9:00 pm"
+        }, 
+        {
+            "Tue": "7:00 am - 9:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "7:00 am - 9:00 pm"
+        }, 
+        {
+            "Thu": "7:00 am - 9:00 pm"
+        }, 
+        {
+            "Fri": "7:00 am - 10:00 pm"
+        }, 
+        {
+            "Sat": "7:00 am - 10:00 pm"
+        }, 
+        {
+            "Sun": "9:00 am - 9:00 pm"
+        }
+    ], 
+    "name": "Little Morocco Cafe", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/little-morocco-cafe-baltimore", 
+    "longitude": "-76.569383", 
+    "reviews": "15 reviews", 
+    "phone": "(410) 675-8400", 
+    "address": "3314 Eastern Ave Baltimore, MD 21224 Highlandtown", 
+    "latitude": "39.286690", 
+    "ratings_histogram": [
+        {
+            "5 stars": "5"
+        }, 
+        {
+            "4 stars": "4"
+        }, 
+        {
+            "3 stars": "3"
+        }, 
+        {
+            "2 stars": "2"
+        }, 
+        {
+            "1 star": "1"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Moroccan,Mediterranean,Indian"
+}

@@ -1,0 +1,105 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 3:00 pm5:30 pm - 10:30 pm"
+        }, 
+        {
+            "Tue": "11:30 am - 3:00 pm5:30 pm - 10:30 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 3:00 pm5:30 pm - 10:30 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 3:00 pm5:30 pm - 10:30 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 3:00 pm5:30 pm - 11:00 pm"
+        }, 
+        {
+            "Sat": "11:30 am - 3:00 pm5:30 pm - 11:00 pm"
+        }, 
+        {
+            "Sun": "11:30 am - 3:00 pm5:30 pm - 10:30 pm"
+        }
+    ], 
+    "name": "Bawarchi", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/bawarchi-henrico", 
+    "longitude": "-77.548461", 
+    "reviews": "42 reviews", 
+    "phone": "(804) 290-8888", 
+    "address": "9018 W Broad St Henrico, VA 23294", 
+    "latitude": "37.635974", 
+    "ratings_histogram": [
+        {
+            "5 stars": "12"
+        }, 
+        {
+            "4 stars": "12"
+        }, 
+        {
+            "3 stars": "4"
+        }, 
+        {
+            "2 stars": "4"
+        }, 
+        {
+            "1 star": "10"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Pakistani,Indian"
+}

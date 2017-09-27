@@ -1,0 +1,111 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "No"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Good For": "Dinner"
+        }, 
+        {
+            "Parking": "Validated"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "No"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Dressy"
+        }, 
+        {
+            "Ambience": "Romantic, Classy, Upscale"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Gender Neutral Restrooms": "Yes"
+        }
+    ], 
+    "ratings": "4.5", 
+    "website": "http://www.elizabethsgoneraw.com/", 
+    "working_hours": [
+        {
+            "Mon": "Closed"
+        }, 
+        {
+            "Tue": "Closed"
+        }, 
+        {
+            "Wed": "Closed"
+        }, 
+        {
+            "Thu": "Closed"
+        }, 
+        {
+            "Fri": "5:00 pm - 9:00 pm"
+        }, 
+        {
+            "Sat": "Closed"
+        }, 
+        {
+            "Sun": "Closed"
+        }
+    ], 
+    "name": "Elizabeth\u2019s Gone Raw", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/elizabeths-gone-raw-washington", 
+    "longitude": "-77.031259", 
+    "reviews": "124 reviews", 
+    "phone": "(202) 347-8349", 
+    "address": "1341 L St NW Washington, DC 20005 b/t N 13th St & N 14th St Downtown", 
+    "latitude": "38.903961", 
+    "ratings_histogram": [
+        {
+            "5 stars": "81"
+        }, 
+        {
+            "4 stars": "22"
+        }, 
+        {
+            "3 stars": "6"
+        }, 
+        {
+            "2 stars": "9"
+        }, 
+        {
+            "1 star": "6"
+        }
+    ], 
+    "price_range": "Above $61", 
+    "health_rating": "", 
+    "category": "Vegan,Live/Raw Food"
+}

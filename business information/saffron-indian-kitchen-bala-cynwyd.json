@@ -1,0 +1,111 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Good For": "Dinner"
+        }, 
+        {
+            "Parking": "Street, Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://www.saffronofphilly.com/", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 9:30 pm"
+        }, 
+        {
+            "Tue": "11:30 am - 9:30 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 9:30 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 9:30 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 9:30 pm"
+        }, 
+        {
+            "Sat": "11:30 am - 9:30 pm"
+        }, 
+        {
+            "Sun": "11:30 am - 9:30 pm"
+        }
+    ], 
+    "name": "Saffron Indian Kitchen", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/saffron-indian-kitchen-bala-cynwyd", 
+    "longitude": "-75.240471", 
+    "reviews": "165 reviews", 
+    "phone": "(484) 278-4112", 
+    "address": "145 Montgomery Ave Bala Cynwyd, PA 19004", 
+    "latitude": "40.005561", 
+    "ratings_histogram": [
+        {
+            "5 stars": "56"
+        }, 
+        {
+            "4 stars": "64"
+        }, 
+        {
+            "3 stars": "17"
+        }, 
+        {
+            "2 stars": "11"
+        }, 
+        {
+            "1 star": "17"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

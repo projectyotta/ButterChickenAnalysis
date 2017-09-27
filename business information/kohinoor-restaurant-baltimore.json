@@ -1,0 +1,105 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://kohinoorbaltimore.com", 
+    "working_hours": [
+        {
+            "Mon": "Closed"
+        }, 
+        {
+            "Tue": "12:00 pm - 12:00 am\n        \n                Open now"
+        }, 
+        {
+            "Wed": "12:00 pm - 12:00 am"
+        }, 
+        {
+            "Thu": "12:00 pm - 12:00 am"
+        }, 
+        {
+            "Fri": "12:00 pm - 12:00 am"
+        }, 
+        {
+            "Sat": "12:00 pm - 12:00 am"
+        }, 
+        {
+            "Sun": "12:00 pm - 12:00 am"
+        }
+    ], 
+    "name": "Kohinoor Restaurant", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/kohinoor-restaurant-baltimore", 
+    "longitude": "-76.610209", 
+    "reviews": "47 reviews", 
+    "phone": "(410) 464-9600", 
+    "address": "5926 York Rd Baltimore, MD 21212 Rosebank", 
+    "latitude": "39.364699", 
+    "ratings_histogram": [
+        {
+            "5 stars": "21"
+        }, 
+        {
+            "4 stars": "13"
+        }, 
+        {
+            "3 stars": "2"
+        }, 
+        {
+            "2 stars": "5"
+        }, 
+        {
+            "1 star": "6"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Pakistani,Asian Fusion"
+}

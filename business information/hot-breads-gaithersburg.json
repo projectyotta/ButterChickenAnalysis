@@ -1,0 +1,111 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner, Dessert"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "http://www.hotbreadsmddc.com/", 
+    "working_hours": [
+        {
+            "Mon": "10:00 am - 9:30 pm"
+        }, 
+        {
+            "Tue": "10:00 am - 9:30 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "10:00 am - 9:30 pm"
+        }, 
+        {
+            "Thu": "10:00 am - 9:30 pm"
+        }, 
+        {
+            "Fri": "10:00 am - 9:30 pm"
+        }, 
+        {
+            "Sat": "10:00 am - 9:30 pm"
+        }, 
+        {
+            "Sun": "10:00 am - 9:00 pm"
+        }
+    ], 
+    "name": "Hot Breads", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/hot-breads-gaithersburg", 
+    "longitude": "-77.234296", 
+    "reviews": "134 reviews", 
+    "phone": "(301) 977-1919", 
+    "address": "70 Market St Gaithersburg, MD 20878", 
+    "latitude": "39.124148", 
+    "ratings_histogram": [
+        {
+            "5 stars": "49"
+        }, 
+        {
+            "4 stars": "26"
+        }, 
+        {
+            "3 stars": "15"
+        }, 
+        {
+            "2 stars": "12"
+        }, 
+        {
+            "1 star": "32"
+        }
+    ], 
+    "price_range": "Under $10", 
+    "health_rating": "", 
+    "category": "Bakeries,Indian"
+}

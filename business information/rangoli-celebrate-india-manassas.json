@@ -1,0 +1,114 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "Yes"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Wheelchair Accessible": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Classy"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://rangolirestaurant.com", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 10:00 pm"
+        }, 
+        {
+            "Tue": "11:30 am - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 10:00 pm"
+        }, 
+        {
+            "Sat": "12:30 pm - 10:30 pm"
+        }, 
+        {
+            "Sun": "12:30 pm - 9:30 pm"
+        }
+    ], 
+    "name": "Rangoli Celebrate India", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/rangoli-celebrate-india-manassas", 
+    "longitude": "-77.504644", 
+    "reviews": "248 reviews", 
+    "phone": "(703) 957-4900", 
+    "address": "10223 Nokesville Rd Manassas, VA 20110", 
+    "latitude": "38.746503", 
+    "ratings_histogram": [
+        {
+            "5 stars": "125"
+        }, 
+        {
+            "4 stars": "63"
+        }, 
+        {
+            "3 stars": "27"
+        }, 
+        {
+            "2 stars": "19"
+        }, 
+        {
+            "1 star": "14"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

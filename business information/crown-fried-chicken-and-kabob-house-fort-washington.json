@@ -1,0 +1,111 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Android Pay": "No"
+        }, 
+        {
+            "Good For": "Breakfast, Brunch, Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "No"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "", 
+    "working_hours": [
+        {
+            "Mon": "7:00 am - 11:00 pm"
+        }, 
+        {
+            "Tue": "7:00 am - 11:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "7:00 am - 11:00 pm"
+        }, 
+        {
+            "Thu": "7:00 am - 11:00 pm"
+        }, 
+        {
+            "Fri": "7:00 am - 12:00 am"
+        }, 
+        {
+            "Sat": "7:00 am - 12:00 am"
+        }, 
+        {
+            "Sun": "7:00 am - 12:00 am"
+        }
+    ], 
+    "name": "Crown Fried Chicken & Kabob House", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/crown-fried-chicken-and-kabob-house-fort-washington", 
+    "longitude": "-76.990781", 
+    "reviews": "107 reviews", 
+    "phone": "(301) 203-0010", 
+    "address": "11911 Livingston Rd Fort Washington, MD 20744", 
+    "latitude": "38.726119", 
+    "ratings_histogram": [
+        {
+            "5 stars": "28"
+        }, 
+        {
+            "4 stars": "37"
+        }, 
+        {
+            "3 stars": "17"
+        }, 
+        {
+            "2 stars": "12"
+        }, 
+        {
+            "1 star": "13"
+        }
+    ], 
+    "price_range": "Under $10", 
+    "health_rating": "", 
+    "category": "Chicken Wings,Halal,Afghan"
+}

@@ -1,0 +1,117 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Android Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Gender Neutral Restrooms": "Yes"
+        }
+    ], 
+    "ratings": "4.5", 
+    "website": "http://www.nuvegancafe.com", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 9:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 9:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 9:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 9:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Sun": "10:00 am - 7:00 pm"
+        }
+    ], 
+    "name": "NuVegan Caf\u00e9", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/nuvegan-caf%C3%A9-washington-2", 
+    "longitude": "-77.023223", 
+    "reviews": "740 reviews", 
+    "phone": "(202) 232-1700", 
+    "address": "2928 Georgia Ave NW Washington, DC 20001 b/t N Hobart Pl & N Columbia Rd Park View", 
+    "latitude": "38.927867", 
+    "ratings_histogram": [
+        {
+            "5 stars": "454"
+        }, 
+        {
+            "4 stars": "169"
+        }, 
+        {
+            "3 stars": "53"
+        }, 
+        {
+            "2 stars": "35"
+        }, 
+        {
+            "1 star": "29"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Vegan,Soul Food,Breakfast & Brunch"
+}

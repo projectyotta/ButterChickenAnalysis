@@ -1,0 +1,111 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Android Pay": "No"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "No"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "http://www.karahikabob.com", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 11:00 pm"
+        }, 
+        {
+            "Tue": "11:30 am - 11:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 11:00 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 11:00 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 11:00 pm"
+        }, 
+        {
+            "Sat": "11:30 am - 11:00 pm"
+        }, 
+        {
+            "Sun": "11:30 am - 11:00 pm"
+        }
+    ], 
+    "name": "Karahi Kabob", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/karahi-kabob-springfield", 
+    "longitude": "-77.187080", 
+    "reviews": "47 reviews", 
+    "phone": "(703) 866-1177", 
+    "address": "7050 Spring Garden Dr Springfield, VA 22150", 
+    "latitude": "38.772556", 
+    "ratings_histogram": [
+        {
+            "5 stars": "23"
+        }, 
+        {
+            "4 stars": "7"
+        }, 
+        {
+            "3 stars": "3"
+        }, 
+        {
+            "2 stars": "3"
+        }, 
+        {
+            "1 star": "11"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Middle Eastern,Pakistani,Halal"
+}

@@ -1,0 +1,129 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Good For": "Dinner"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "No"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Classy"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Music": "Live"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Happy Hour": "Yes"
+        }, 
+        {
+            "Best Nights": "Tue, Fri, Sat"
+        }, 
+        {
+            "Smoking": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Has Pool Table": "No"
+        }, 
+        {
+            "Gender Neutral Restrooms": "Yes"
+        }
+    ], 
+    "ratings": "4.5", 
+    "website": "http://www.indebluerestaurant.com/", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 3:00 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Tue": "11:30 am - 3:00 pm5:00 pm - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 3:00 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 3:00 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 3:00 pm5:00 pm - 11:00 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 3:00 pm5:00 pm - 11:00 pm"
+        }, 
+        {
+            "Sun": "11:00 am - 3:00 pm5:00 pm - 10:00 pm"
+        }
+    ], 
+    "name": "IndeBlue", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/indeblue-philadelphia", 
+    "longitude": "-75.162110", 
+    "reviews": "609 reviews", 
+    "phone": "(215) 545-4633", 
+    "address": "205 13th St Philadelphia, PA 19107 Washington Square West", 
+    "latitude": "39.948525", 
+    "ratings_histogram": [
+        {
+            "5 stars": "329"
+        }, 
+        {
+            "4 stars": "186"
+        }, 
+        {
+            "3 stars": "57"
+        }, 
+        {
+            "2 stars": "25"
+        }, 
+        {
+            "1 star": "12"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Breakfast & Brunch,Cocktail Bars"
+}

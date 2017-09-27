@@ -1,0 +1,117 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Android Pay": "Yes"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.5", 
+    "website": "http://www.spiceconnexion.com/", 
+    "working_hours": [
+        {
+            "Mon": "Closed"
+        }, 
+        {
+            "Tue": "11:30 am - 8:30 pm\n        \n                Closed now"
+        }, 
+        {
+            "Wed": "11:30 am - 8:30 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 8:30 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 9:00 pm"
+        }, 
+        {
+            "Sat": "11:30 am - 9:00 pm"
+        }, 
+        {
+            "Sun": "11:30 am - 8:30 pm"
+        }
+    ], 
+    "name": "Spice Connexion", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/spice-connexion-martinsburg", 
+    "longitude": "-77.986471", 
+    "reviews": "87 reviews", 
+    "phone": "(304) 901-4333", 
+    "address": "796 Foxcroft Ave Martinsburg, WV 25401", 
+    "latitude": "39.453452", 
+    "ratings_histogram": [
+        {
+            "5 stars": "50"
+        }, 
+        {
+            "4 stars": "31"
+        }, 
+        {
+            "3 stars": "4"
+        }, 
+        {
+            "2 stars": "0"
+        }, 
+        {
+            "1 star": "2"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Vegan,Buffets"
+}

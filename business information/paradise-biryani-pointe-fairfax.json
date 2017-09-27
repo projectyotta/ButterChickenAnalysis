@@ -1,0 +1,114 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "Yes"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "No"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }, 
+        {
+            "Gender Neutral Restrooms": "Yes"
+        }
+    ], 
+    "ratings": "3.0", 
+    "website": "http://www.paradisebiryanipointe.com", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 3:00 pm6:00 pm - 10:00 pm"
+        }, 
+        {
+            "Tue": "11:30 am - 3:00 pm6:00 pm - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 3:00 pm6:00 pm - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 3:00 pm6:00 pm - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 12:00 am"
+        }, 
+        {
+            "Sat": "11:30 am - 12:00 am"
+        }, 
+        {
+            "Sun": "11:30 am - 10:00 pm"
+        }
+    ], 
+    "name": "Paradise Biryani Pointe", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/paradise-biryani-pointe-fairfax", 
+    "longitude": "-77.333766", 
+    "reviews": "115 reviews", 
+    "phone": "(703) 385-9264", 
+    "address": "11274 James Swart Cir Fairfax, VA 22030", 
+    "latitude": "38.855259", 
+    "ratings_histogram": [
+        {
+            "5 stars": "16"
+        }, 
+        {
+            "4 stars": "30"
+        }, 
+        {
+            "3 stars": "25"
+        }, 
+        {
+            "2 stars": "11"
+        }, 
+        {
+            "1 star": "33"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

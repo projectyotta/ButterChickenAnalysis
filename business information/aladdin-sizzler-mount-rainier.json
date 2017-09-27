@@ -1,0 +1,111 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "http://aladdin-sizzler.com", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 11:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 12:00 am"
+        }, 
+        {
+            "Sat": "11:00 am - 12:00 am"
+        }, 
+        {
+            "Sun": "11:00 am - 11:00 pm"
+        }
+    ], 
+    "name": "Aladdin Sizzler", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/aladdin-sizzler-mount-rainier", 
+    "longitude": "-76.962257", 
+    "reviews": "72 reviews", 
+    "phone": "(301) 887-1010", 
+    "address": "3231 Rhode Island Ave Mount Rainier, MD 20712", 
+    "latitude": "38.935463", 
+    "ratings_histogram": [
+        {
+            "5 stars": "24"
+        }, 
+        {
+            "4 stars": "20"
+        }, 
+        {
+            "3 stars": "10"
+        }, 
+        {
+            "2 stars": "9"
+        }, 
+        {
+            "1 star": "9"
+        }
+    ], 
+    "price_range": "Under $10", 
+    "health_rating": "", 
+    "category": "Pakistani,Pizza,Chicken Wings"
+}

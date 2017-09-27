@@ -1,0 +1,108 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 1:00 am"
+        }, 
+        {
+            "Tue": "11:30 am - 1:00 am\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 1:00 am"
+        }, 
+        {
+            "Thu": "11:30 am - 1:00 am"
+        }, 
+        {
+            "Fri": "11:30 am - 1:00 am"
+        }, 
+        {
+            "Sat": "11:30 am - 1:00 am"
+        }, 
+        {
+            "Sun": "11:30 am - 10:30 pm"
+        }
+    ], 
+    "name": "Kumari Restaurant & Bar", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/kumari-restaurant-and-bar-baltimore", 
+    "longitude": "-76.615687", 
+    "reviews": "223 reviews", 
+    "phone": "(410) 547-1600", 
+    "address": "911 N Charles St Baltimore, MD 21201 Mount Vernon", 
+    "latitude": "39.300117", 
+    "ratings_histogram": [
+        {
+            "5 stars": "83"
+        }, 
+        {
+            "4 stars": "79"
+        }, 
+        {
+            "3 stars": "28"
+        }, 
+        {
+            "2 stars": "16"
+        }, 
+        {
+            "1 star": "17"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Himalayan/Nepalese"
+}

@@ -1,0 +1,114 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Accepts Android Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "No"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://www.jasakabob.com/", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 11:00 pm"
+        }, 
+        {
+            "Tue": "11:30 am - 11:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 11:00 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 11:00 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 2:30 am"
+        }, 
+        {
+            "Sat": "11:30 am - 2:30 am"
+        }, 
+        {
+            "Sun": "11:30 am - 11:00 pm"
+        }
+    ], 
+    "name": "Jasa Kabob", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/jasa-kabob-baltimore", 
+    "longitude": "-76.574851", 
+    "reviews": "165 reviews", 
+    "phone": "(410) 327-7152", 
+    "address": "2917 O'Donnell St Baltimore, MD 21224 Canton", 
+    "latitude": "39.279879", 
+    "ratings_histogram": [
+        {
+            "5 stars": "72"
+        }, 
+        {
+            "4 stars": "61"
+        }, 
+        {
+            "3 stars": "15"
+        }, 
+        {
+            "2 stars": "10"
+        }, 
+        {
+            "1 star": "7"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Mediterranean,Indian,Pakistani"
+}

@@ -1,0 +1,120 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "No"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch"
+        }, 
+        {
+            "Parking": "Garage"
+        }, 
+        {
+            "Bike Parking": "No"
+        }, 
+        {
+            "Wheelchair Accessible": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Waiter Service": "No"
+        }, 
+        {
+            "Drive-Thru": "No"
+        }, 
+        {
+            "Caters": "No"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "http://www.streetkitchentysons.com", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 9:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 9:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 9:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 9:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 9:30 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 9:30 pm"
+        }, 
+        {
+            "Sun": "11:00 am - 7:30 pm"
+        }
+    ], 
+    "name": "Street Kitchen", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/street-kitchen-tysons", 
+    "longitude": "-77.220776", 
+    "reviews": "89 reviews", 
+    "phone": "(571) 633-1820", 
+    "address": "7943B Tysons Corner Ctr Ste G21U Tysons, VA 22102", 
+    "latitude": "38.917386", 
+    "ratings_histogram": [
+        {
+            "5 stars": "23"
+        }, 
+        {
+            "4 stars": "32"
+        }, 
+        {
+            "3 stars": "8"
+        }, 
+        {
+            "2 stars": "11"
+        }, 
+        {
+            "1 star": "15"
+        }
+    ], 
+    "price_range": "Under $10", 
+    "health_rating": "", 
+    "category": "Indian,Fast Food,American (New)"
+}

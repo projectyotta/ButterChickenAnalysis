@@ -1,0 +1,47 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Take-out": "No"
+        }, 
+        {
+            "Good for Kids": "No"
+        }, 
+        {
+            "Good for Groups": "No"
+        }
+    ], 
+    "ratings": "1.0", 
+    "website": "http://www.baltimorebiryani.com", 
+    "working_hours": [], 
+    "name": "Baltimore Biryani", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/baltimore-biryani-windsor-mill", 
+    "longitude": "-76.758251", 
+    "reviews": "1 review", 
+    "phone": "(410) 277-4900", 
+    "address": "7151 Security Blvd Windsor Mill, MD 21244", 
+    "latitude": "39.313716", 
+    "ratings_histogram": [
+        {
+            "5 stars": "0"
+        }, 
+        {
+            "4 stars": "0"
+        }, 
+        {
+            "3 stars": "0"
+        }, 
+        {
+            "2 stars": "0"
+        }, 
+        {
+            "1 star": "1"
+        }
+    ], 
+    "price_range": "", 
+    "health_rating": "", 
+    "category": "Pakistani,Indian"
+}

@@ -1,0 +1,105 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://www.lemoncuisineofindia.com", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 2:30 pm5:30 pm - 10:30 pm"
+        }, 
+        {
+            "Tue": "11:30 am - 2:30 pm5:30 pm - 10:30 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 2:30 pm5:30 pm - 10:30 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 2:30 pm5:30 pm - 10:30 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 2:30 pm5:00 pm - 11:00 pm"
+        }, 
+        {
+            "Sat": "11:30 am - 2:30 pm5:00 pm - 11:00 pm"
+        }, 
+        {
+            "Sun": "11:30 am - 2:30 pm5:00 pm - 10:00 pm"
+        }
+    ], 
+    "name": "Lemon Cuisine of India", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/lemon-cuisine-of-india-washington", 
+    "longitude": "-77.047303", 
+    "reviews": "108 reviews", 
+    "phone": "(202) 785-0007", 
+    "address": "2120 P St NW Washington, DC 20037 b/t N 21st St & N Twining Ct Dupont Circle, Downtown", 
+    "latitude": "38.909382", 
+    "ratings_histogram": [
+        {
+            "5 stars": "59"
+        }, 
+        {
+            "4 stars": "25"
+        }, 
+        {
+            "3 stars": "8"
+        }, 
+        {
+            "2 stars": "7"
+        }, 
+        {
+            "1 star": "9"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

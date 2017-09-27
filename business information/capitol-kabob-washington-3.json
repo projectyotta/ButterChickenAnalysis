@@ -1,0 +1,56 @@
+{
+    "info": [], 
+    "ratings": 0, 
+    "website": "", 
+    "working_hours": [
+        {
+            "Mon": "9:00 am - 7:00 pm"
+        }, 
+        {
+            "Tue": "9:00 am - 7:00 pm\n        \n                Closed now"
+        }, 
+        {
+            "Wed": "9:00 am - 7:00 pm"
+        }, 
+        {
+            "Thu": "9:00 am - 7:00 pm"
+        }, 
+        {
+            "Fri": "9:00 am - 7:00 pm"
+        }, 
+        {
+            "Sat": "9:00 am - 7:00 pm"
+        }, 
+        {
+            "Sun": "Closed"
+        }
+    ], 
+    "name": "Capitol Kabob", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/capitol-kabob-washington-3", 
+    "longitude": "-77.006158", 
+    "reviews": "", 
+    "phone": "(703) 220-9194", 
+    "address": "50 Massachusetts Ave NE Union Station Outdoor Market Washington, DC 20002 at N Capitol St NoMa", 
+    "latitude": "38.897580", 
+    "ratings_histogram": [
+        {
+            "5 stars": "0"
+        }, 
+        {
+            "4 stars": "0"
+        }, 
+        {
+            "3 stars": "0"
+        }, 
+        {
+            "2 stars": "0"
+        }, 
+        {
+            "1 star": "0"
+        }
+    ], 
+    "price_range": "", 
+    "health_rating": "", 
+    "category": "Indian"
+}

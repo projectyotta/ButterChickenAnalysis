@@ -1,0 +1,78 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 11:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 12:00 am"
+        }, 
+        {
+            "Sat": "11:00 am - 12:00 am"
+        }, 
+        {
+            "Sun": "11:00 am - 11:00 pm"
+        }
+    ], 
+    "name": "Mount Everest Restaurant", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/mount-everest-restaurant-baltimore", 
+    "longitude": "-76.543128", 
+    "reviews": "12 reviews", 
+    "phone": "(410) 325-8166", 
+    "address": "4907 Frankford Ave Baltimore, MD 21206 Frankford", 
+    "latitude": "39.330237", 
+    "ratings_histogram": [
+        {
+            "5 stars": "4"
+        }, 
+        {
+            "4 stars": "2"
+        }, 
+        {
+            "3 stars": "4"
+        }, 
+        {
+            "2 stars": "1"
+        }, 
+        {
+            "1 star": "1"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

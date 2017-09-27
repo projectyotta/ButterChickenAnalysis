@@ -1,0 +1,69 @@
+{
+    "info": [
+        {
+            "Take-out": "No"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "No"
+        }
+    ], 
+    "ratings": "4.5", 
+    "website": "", 
+    "working_hours": [
+        {
+            "Mon": "10:00 am - 9:00 pm"
+        }, 
+        {
+            "Tue": "10:00 am - 9:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "10:00 am - 9:00 pm"
+        }, 
+        {
+            "Thu": "10:00 am - 9:00 pm"
+        }, 
+        {
+            "Fri": "10:00 am - 9:00 pm"
+        }, 
+        {
+            "Sat": "10:00 am - 9:00 pm"
+        }, 
+        {
+            "Sun": "10:00 am - 9:00 pm"
+        }
+    ], 
+    "name": "Punjab Groceries & Halal Meat", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/punjab-groceries-and-halal-meat-baltimore", 
+    "longitude": "-76.611593", 
+    "reviews": "25 reviews", 
+    "phone": "(410) 662-7844", 
+    "address": "345 E 33rd St Baltimore, MD 21218 Abell", 
+    "latitude": "39.327907", 
+    "ratings_histogram": [
+        {
+            "5 stars": "13"
+        }, 
+        {
+            "4 stars": "9"
+        }, 
+        {
+            "3 stars": "1"
+        }, 
+        {
+            "2 stars": "2"
+        }, 
+        {
+            "1 star": "0"
+        }
+    ], 
+    "price_range": "Under $10", 
+    "health_rating": "", 
+    "category": "Imported Food,Halal"
+}

@@ -1,0 +1,105 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "2.0", 
+    "website": "http://www.lalqilabaltimore.com", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 10:30 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 10:30 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 10:30 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 10:30 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Sun": "11:00 am - 11:00 pm"
+        }
+    ], 
+    "name": "Lal Qila", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/lal-qila-windsor-mill-2", 
+    "longitude": "-76.751493", 
+    "reviews": "39 reviews", 
+    "phone": "(410) 265-1088", 
+    "address": "6901 Security Blvd Ste 659 Windsor Mill, MD 21244", 
+    "latitude": "39.309164", 
+    "ratings_histogram": [
+        {
+            "5 stars": "1"
+        }, 
+        {
+            "4 stars": "7"
+        }, 
+        {
+            "3 stars": "5"
+        }, 
+        {
+            "2 stars": "5"
+        }, 
+        {
+            "1 star": "21"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Halal,Buffets,Pakistani"
+}

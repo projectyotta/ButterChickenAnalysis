@@ -1,0 +1,34 @@
+{
+    "info": [], 
+    "ratings": 0, 
+    "website": "", 
+    "working_hours": [], 
+    "name": "Indian Food", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/indian-food-fredericksburg", 
+    "longitude": "-77.457962", 
+    "reviews": "", 
+    "phone": "", 
+    "address": "500-562 Princess Anne St Fredericksburg, VA 22401", 
+    "latitude": "38.299004", 
+    "ratings_histogram": [
+        {
+            "5 stars": "0"
+        }, 
+        {
+            "4 stars": "0"
+        }, 
+        {
+            "3 stars": "0"
+        }, 
+        {
+            "2 stars": "0"
+        }, 
+        {
+            "1 star": "0"
+        }
+    ], 
+    "price_range": "", 
+    "health_rating": "", 
+    "category": "Indian"
+}

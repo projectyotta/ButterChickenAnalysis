@@ -1,0 +1,47 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Accepts Credit Cards": "No"
+        }, 
+        {
+            "Good for Kids": "No"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }
+    ], 
+    "ratings": 0, 
+    "website": "", 
+    "working_hours": [], 
+    "name": "Indian River Inn", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/indian-river-inn-virginia-beach", 
+    "longitude": "-76.207809", 
+    "reviews": "", 
+    "phone": "(757) 201-7555", 
+    "address": "6220 Indian River Rd Ste F Virginia Beach, VA 23464", 
+    "latitude": "36.814405", 
+    "ratings_histogram": [
+        {
+            "5 stars": "0"
+        }, 
+        {
+            "4 stars": "0"
+        }, 
+        {
+            "3 stars": "0"
+        }, 
+        {
+            "2 stars": "0"
+        }, 
+        {
+            "1 star": "0"
+        }
+    ], 
+    "price_range": "", 
+    "health_rating": "", 
+    "category": "Indian"
+}

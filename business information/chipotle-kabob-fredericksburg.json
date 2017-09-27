@@ -1,0 +1,56 @@
+{
+    "info": [], 
+    "ratings": "3.0", 
+    "website": "", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 4:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 4:00 pm\n        \n                Closed now"
+        }, 
+        {
+            "Wed": "11:00 am - 4:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 4:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 4:00 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 4:00 pm"
+        }, 
+        {
+            "Sun": "Closed"
+        }
+    ], 
+    "name": "Chipotle Kabob", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/chipotle-kabob-fredericksburg", 
+    "longitude": "-77.506712", 
+    "reviews": "1 review", 
+    "phone": "(540) 372-2000", 
+    "address": "25 Trade St Ste 103 Fredericksburg, VA 22406", 
+    "latitude": "38.351163", 
+    "ratings_histogram": [
+        {
+            "5 stars": "0"
+        }, 
+        {
+            "4 stars": "0"
+        }, 
+        {
+            "3 stars": "1"
+        }, 
+        {
+            "2 stars": "0"
+        }, 
+        {
+            "1 star": "0"
+        }
+    ], 
+    "price_range": "", 
+    "health_rating": "", 
+    "category": "Halal,Pakistani,Mexican"
+}

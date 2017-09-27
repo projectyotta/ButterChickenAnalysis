@@ -1,0 +1,114 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Bitcoin": "No"
+        }, 
+        {
+            "Good For": "Lunch"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "No"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Dogs Allowed": "No"
+        }, 
+        {
+            "Waiter Service": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://www.thesoupergirl.com", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 7:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 7:00 pm\n        \n                Closed now"
+        }, 
+        {
+            "Wed": "11:00 am - 7:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 7:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 3:00 pm"
+        }, 
+        {
+            "Sat": "Closed"
+        }, 
+        {
+            "Sun": "Closed"
+        }
+    ], 
+    "name": "Soupergirl", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/soupergirl-washington-2", 
+    "longitude": "-77.042883", 
+    "reviews": "40 reviews", 
+    "phone": "(202) 733-4401", 
+    "address": "1829 M St NW Washington, DC 20036 b/t N 19th St & N 18th St Downtown", 
+    "latitude": "38.905824", 
+    "ratings_histogram": [
+        {
+            "5 stars": "16"
+        }, 
+        {
+            "4 stars": "10"
+        }, 
+        {
+            "3 stars": "5"
+        }, 
+        {
+            "2 stars": "7"
+        }, 
+        {
+            "1 star": "2"
+        }
+    ], 
+    "price_range": "Under $10", 
+    "health_rating": "", 
+    "category": "Food Delivery Services,Soup,Vegan"
+}

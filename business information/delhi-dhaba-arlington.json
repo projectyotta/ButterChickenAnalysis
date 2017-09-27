@@ -1,0 +1,111 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Android Pay": "No"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "Beer & Wine Only"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "http://www.delhidhaba.com/", 
+    "working_hours": [
+        {
+            "Mon": "7:00 am - 10:00 pm"
+        }, 
+        {
+            "Tue": "7:00 am - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "7:00 am - 10:00 pm"
+        }, 
+        {
+            "Thu": "7:00 am - 10:00 pm"
+        }, 
+        {
+            "Fri": "7:00 am - 10:00 pm"
+        }, 
+        {
+            "Sat": "7:00 am - 10:00 pm"
+        }, 
+        {
+            "Sun": "7:00 am - 10:00 pm"
+        }
+    ], 
+    "name": "Delhi Dhaba", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/delhi-dhaba-arlington", 
+    "longitude": "-77.088160", 
+    "reviews": "219 reviews", 
+    "phone": "(703) 524-0008", 
+    "address": "2424 Wilson Blvd Arlington, VA 22201", 
+    "latitude": "38.890277", 
+    "ratings_histogram": [
+        {
+            "5 stars": "36"
+        }, 
+        {
+            "4 stars": "78"
+        }, 
+        {
+            "3 stars": "53"
+        }, 
+        {
+            "2 stars": "29"
+        }, 
+        {
+            "1 star": "23"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Pakistani"
+}

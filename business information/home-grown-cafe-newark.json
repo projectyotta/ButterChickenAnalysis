@@ -1,0 +1,117 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Good For": "Lunch, Dinner"
+        }, 
+        {
+            "Parking": "Street, Private Lot, Validated"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Hipster, Casual"
+        }, 
+        {
+            "Noise Level": "Average"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "http://www.homegrowncafe.com/", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 1:00 am"
+        }, 
+        {
+            "Tue": "11:00 am - 1:00 am\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 1:00 am"
+        }, 
+        {
+            "Thu": "11:00 am - 1:00 am"
+        }, 
+        {
+            "Fri": "11:00 am - 1:00 am"
+        }, 
+        {
+            "Sat": "9:30 am - 1:00 am"
+        }, 
+        {
+            "Sun": "9:30 am - 12:00 am"
+        }, 
+        {
+            "Thu 11/23/2017": "Closed"
+        }, 
+        {
+            "Sun 12/24/2017": "9:30 am - 4:30 pm"
+        }, 
+        {
+            "Mon 12/25/2017": "Closed"
+        }
+    ], 
+    "name": "Home Grown Cafe", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/home-grown-cafe-newark", 
+    "longitude": "-75.748110", 
+    "reviews": "268 reviews", 
+    "phone": "(302) 266-6993", 
+    "address": "126 E Main St Newark, DE 19711", 
+    "latitude": "39.683664", 
+    "ratings_histogram": [
+        {
+            "5 stars": "78"
+        }, 
+        {
+            "4 stars": "94"
+        }, 
+        {
+            "3 stars": "43"
+        }, 
+        {
+            "2 stars": "33"
+        }, 
+        {
+            "1 star": "20"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "American (New),Vegetarian,Music Venues"
+}

@@ -1,0 +1,78 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "Yes"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "http://www.windsormillindianfood.com", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 11:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Sat": "8:00 am - 11:00 pm"
+        }, 
+        {
+            "Sun": "8:00 am - 10:00 pm"
+        }
+    ], 
+    "name": "Azan Karahi & Kabab", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/azan-karahi-and-kabab-windsor-mill", 
+    "longitude": "-76.757754", 
+    "reviews": "6 reviews", 
+    "phone": "(410) 690-4391", 
+    "address": "7145 Security Blvd Windsor Mill, MD 21244", 
+    "latitude": "39.312386", 
+    "ratings_histogram": [
+        {
+            "5 stars": "2"
+        }, 
+        {
+            "4 stars": "2"
+        }, 
+        {
+            "3 stars": "0"
+        }, 
+        {
+            "2 stars": "0"
+        }, 
+        {
+            "1 star": "2"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian"
+}

@@ -1,0 +1,108 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Accepts Apple Pay": "No"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "No"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Divey"
+        }, 
+        {
+            "Noise Level": "Loud"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Caters": "No"
+        }
+    ], 
+    "ratings": "3.0", 
+    "website": "http://mt-washingtonpizza.com", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 10:30 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 10:30 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 10:30 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 10:30 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Sun": "11:00 am - 10:30 pm"
+        }
+    ], 
+    "name": "Mt Washington Pizza & Subs", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/mt-washington-pizza-and-subs-baltimore-2", 
+    "longitude": "-76.652257", 
+    "reviews": "50 reviews", 
+    "phone": "(410) 664-1111", 
+    "address": "1620 Kelly Ave Baltimore, MD 21209 Mount Washington", 
+    "latitude": "39.366742", 
+    "ratings_histogram": [
+        {
+            "5 stars": "12"
+        }, 
+        {
+            "4 stars": "16"
+        }, 
+        {
+            "3 stars": "4"
+        }, 
+        {
+            "2 stars": "5"
+        }, 
+        {
+            "1 star": "13"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Pizza,Sandwiches"
+}

@@ -1,0 +1,105 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "Yes"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Parking": "Private Lot"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "Full Bar"
+        }, 
+        {
+            "Outdoor Seating": "Yes"
+        }, 
+        {
+            "Wi-Fi": "No"
+        }, 
+        {
+            "Has TV": "No"
+        }, 
+        {
+            "Caters": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://www.maharaja-indian-restaurant.com/", 
+    "working_hours": [
+        {
+            "Mon": "11:30 am - 2:00 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Tue": "11:30 am - 2:00 pm5:00 pm - 10:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:30 am - 2:00 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Thu": "11:30 am - 2:00 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Fri": "11:30 am - 2:00 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Sat": "11:45 am - 2:45 pm5:00 pm - 10:00 pm"
+        }, 
+        {
+            "Sun": "11:45 am - 2:45 pm5:00 pm - 9:00 pm"
+        }
+    ], 
+    "name": "Maharaja Fine Indian Cuisine", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/maharaja-fine-indian-cuisine-charlottesville", 
+    "longitude": "-78.489077", 
+    "reviews": "75 reviews", 
+    "phone": "(434) 973-0440", 
+    "address": "139 Zan Rd Charlottesville, VA 22901", 
+    "latitude": "38.063699", 
+    "ratings_histogram": [
+        {
+            "5 stars": "24"
+        }, 
+        {
+            "4 stars": "30"
+        }, 
+        {
+            "3 stars": "9"
+        }, 
+        {
+            "2 stars": "6"
+        }, 
+        {
+            "1 star": "6"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Desserts,Wine Bars"
+}

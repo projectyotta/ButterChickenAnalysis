@@ -1,0 +1,102 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Wheelchair Accessible": "Yes"
+        }, 
+        {
+            "Good for Kids": "Yes"
+        }, 
+        {
+            "Good for Groups": "Yes"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Wi-Fi": "Free"
+        }, 
+        {
+            "Has TV": "Yes"
+        }, 
+        {
+            "Waiter Service": "Yes"
+        }
+    ], 
+    "ratings": "4.0", 
+    "website": "http://butterchickenrestaurant.com", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 10:30 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 10:30 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 10:30 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 10:30 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Sat": "11:00 am - 10:00 pm"
+        }, 
+        {
+            "Sun": "11:00 am - 9:00 pm"
+        }
+    ], 
+    "name": "Butter Chicken Restaurant", 
+    "claimed_status": "Claimed", 
+    "url": "https://www.yelp.com/biz/butter-chicken-restaurant-towson", 
+    "longitude": "-76.576477", 
+    "reviews": "17 reviews", 
+    "phone": "(410) 821-5100", 
+    "address": "6837 Loch Raven Blvd Towson, MD 21286", 
+    "latitude": "39.383433", 
+    "ratings_histogram": [
+        {
+            "5 stars": "7"
+        }, 
+        {
+            "4 stars": "4"
+        }, 
+        {
+            "3 stars": "4"
+        }, 
+        {
+            "2 stars": "2"
+        }, 
+        {
+            "1 star": "0"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,Himalayan/Nepalese,Soup"
+}

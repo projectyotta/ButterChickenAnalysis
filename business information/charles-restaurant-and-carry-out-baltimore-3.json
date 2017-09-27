@@ -1,0 +1,99 @@
+{
+    "info": [
+        {
+            "Takes Reservations": "No"
+        }, 
+        {
+            "Delivery": "Yes"
+        }, 
+        {
+            "Take-out": "Yes"
+        }, 
+        {
+            "Accepts Credit Cards": "Yes"
+        }, 
+        {
+            "Parking": "Street"
+        }, 
+        {
+            "Bike Parking": "Yes"
+        }, 
+        {
+            "Good for Kids": "No"
+        }, 
+        {
+            "Good for Groups": "No"
+        }, 
+        {
+            "Attire": "Casual"
+        }, 
+        {
+            "Ambience": "Divey"
+        }, 
+        {
+            "Noise Level": "Quiet"
+        }, 
+        {
+            "Alcohol": "No"
+        }, 
+        {
+            "Outdoor Seating": "No"
+        }, 
+        {
+            "Has TV": "Yes"
+        }
+    ], 
+    "ratings": "3.5", 
+    "website": "http://charles-restaurant.com/", 
+    "working_hours": [
+        {
+            "Mon": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Tue": "11:00 am - 11:00 pm\n        \n                Open now"
+        }, 
+        {
+            "Wed": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Thu": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Fri": "11:00 am - 11:00 pm"
+        }, 
+        {
+            "Sat": "Closed"
+        }, 
+        {
+            "Sun": "4:00 pm - 10:30 pm"
+        }
+    ], 
+    "name": "Charles Restaurant & Carry Out", 
+    "claimed_status": "", 
+    "url": "https://www.yelp.com/biz/charles-restaurant-and-carry-out-baltimore-3", 
+    "longitude": "-76.615712", 
+    "reviews": "40 reviews", 
+    "phone": "(410) 366-1600", 
+    "address": "2500 St Paul St Baltimore, MD 21218 Old Goucher, Charles Village", 
+    "latitude": "39.318326", 
+    "ratings_histogram": [
+        {
+            "5 stars": "13"
+        }, 
+        {
+            "4 stars": "12"
+        }, 
+        {
+            "3 stars": "4"
+        }, 
+        {
+            "2 stars": "3"
+        }, 
+        {
+            "1 star": "8"
+        }
+    ], 
+    "price_range": "$11-30", 
+    "health_rating": "", 
+    "category": "Indian,American (Traditional)"
+}
