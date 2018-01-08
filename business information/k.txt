@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 import json
 from pprint import pprint
 
 with open('data.json') as data_file:    
     data = json.load(data_file)
 
+=======
+import json
+from pprint import pprint
+
+with open('data.json') as data_file:    
+    data = json.load(data_file)
+
+>>>>>>> origin/master
 pprint(data)
