@@ -66,14 +66,26 @@ def parse(url):
 	else:
 		website = ''
 	
-	if raw_map_link:
-		decoded_map_url =  urllib.unquote(raw_map_link[0])
-		map_coordinates = re.findall("center=([+-]?\d+.\d+,[+-]?\d+\.\d+)",decoded_map_url)[0].split(',')
-		latitude = map_coordinates[0]
-		longitude = map_coordinates[1]
-	else:
-		latitude = ''
-		longitude = ''
+	# if the restaurant does not have a location to list , place it in the middle of the Sinaloa desert 
+	# cuz why not lol . We don't really care about food trucks , especially where they are located . 
+	# this is a very small vertical under consideration 
+	# so does not matter 
+	latitude=29.770516
+	longitude=-109.702881
+	try:
+		
+		if raw_map_link:
+			decoded_map_url =  urllib.unquote(raw_map_link[0])
+			map_coordinates = re.findall("center=([+-]?\d+.\d+,[+-]?\d+\.\d+)",decoded_map_url)[0].split(',')
+			latitude = map_coordinates[0]
+			longitude = map_coordinates[1]
+		else:
+			
+			latitude = ''
+			longitude = ''
+		
+	except IndexError:
+		pass
 
 	if raw_ratings:
 		ratings = re.findall("\d+[.,]?\d+",cleaned_ratings)[0]
