@@ -1,0 +1,5 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["wqn78"]); }
+
+__d("XSICopyPasteController",["XController"],(function(a,b,c,d,e,f){e.exports=b("XController").create("/si/content-matcher/",{text:{type:"String",required:!0}})}),null);
+__d("SICopyPasteUtility",["EventListener","XSICopyPasteController"],(function(a,b,c,d,e,f){var g={getSelectedText:function(){var a=null;window.getSelection?a=window.getSelection().toString():document.selection&&(a=document.selection.createRange().text);return String(a)},setBodyCopyCallback:function(a){b("EventListener").listen(document.body,"copy",a)},getLoggingURI:function(){return b("XSICopyPasteController").getURIBuilder().setString("text",g.getSelectedText()).getURI().toString()}};e.exports=g}),null);
+__d("SICopyPaste",["AsyncSignal","SICopyPasteUtility"],(function(a,b,c,d,e,f){e.exports={init:function(){b("SICopyPasteUtility").setBodyCopyCallback(function(){new(b("AsyncSignal"))(b("SICopyPasteUtility").getLoggingURI()).send()})}}}),null);
