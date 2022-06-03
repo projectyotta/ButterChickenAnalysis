@@ -1,0 +1,17 @@
+Using search function VS using Location function 
+
+Yelp allows you to query information about restaurants in a region in a lot of ways , but the ways I found work best is by using the search and the location function . 
+
+Location function 
+- You enter a (lat,long) value and a radius ( max of 40000 meters from location) and it returns all the restaurants in said region . 
+
+Search function : 
+You enter a search keyword for the location ( Say , arlington ) and it returns all the restaurants for that search term . 
+The best part here is that it allows you to search by Zipcode , which is easier as a list of zipcodes for DC , VA and MD are easily available . 
+The major advantage of this method is : 
+	- Easily available zipcodes 
+	- When you use the lat long radius method , a few restaurants might be left out . 
+	- Since you are using zipcode , you get to search for what Yelp thinks are the top restaurants for each zipcode . 
+
+Yes , there will be duplicate values which will be deleted, but understanding what restaurants are mentioned as top for each zipcode is easier . 
+

@@ -1,0 +1,18 @@
+Requirements for running sample.py 
+
+Required packages :  argparse , json , pprint , requests , sys , urllib . 
+First thing first , make sure python is installed on your system . Python 3 would be better , 2 would also work . 
+If the system shows up any kind of errors or mentions to update pip , do it . Steps : https://pip.pypa.io/en/stable/installing/ 
+
+To install any package , go to cmd and type "pip install Package_name" . 
+Usually , all packages in this list except package "requests" should be in there , but if not , install them . 
+
+I have removed my Yelp developer credentials from the code , but you can get your own here : https://www.yelp.com/developers/documentation/v3/get_started . 
+
+to run the file , type "python sample.py" . 
+
+Create an empty text file titled output.txt in your dev folder . 
+
+run the file 
+
+Done . 
